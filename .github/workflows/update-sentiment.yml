@@ -21,7 +21,9 @@ jobs:
           python-version: '3.12'
       
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium  # Installs Playwright and headless Chromium
       
       - name: Scrape and update CSV
         run: python update_script.py
