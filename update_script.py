@@ -10,26 +10,23 @@ url = 'https://www.ig.com/en/indices/markets-indices/us-tech-100'
 
 # Launch Playwright and scrape
 with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True)
+    browser = p.chromium.launch(headless=True)  # No proxy needed
     page = browser.new_page()
     page.goto(url)
-    page.wait_for_timeout(2000)  # Wait 2 seconds for JS to load
-    
-    # Wait for the sentiment panel to appear and extract text
-    sentiment_element = page.wait_for_selector('.sentiment-panel__text', timeout=10000)  # 10s timeout
-    if sentiment_element:
-        sentiment_text = sentiment_element.inner_text()
-    else:
-        raise ValueError("Sentiment panel not found. Check site structure or increase wait time.")
-    
+    page.wait_for_load_state('networkidle')  # Wait for network to be idle (full load)
+    page.wait_for_timeout(5000)  # Additional 5s wait for any slow JS
+
+    # Get full page content as text
+    page_text = page.content()
+
     browser.close()
 
-# Extract the long percentage using regex
-match = re.search(r'(\d+)% of client accounts are long on this market', sentiment_text)
+# Extract the long percentage using regex on full page text
+match = re.search(r'(\d+)% of client accounts are long on this market', page_text)
 if match:
     long_percentage = int(match.group(1))
 else:
-    raise ValueError("Could not find long percentage in the sentiment text. Check site structure.")
+    raise ValueError("Could not find long percentage on the page. Check site structure or increase wait time.")
 
 # Get current timestamp in Eastern Time
 tz = zoneinfo.ZoneInfo('US/Eastern')
