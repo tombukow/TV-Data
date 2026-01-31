@@ -1,25 +1,35 @@
-import requests
-from bs4 import BeautifulSoup
 import csv
 import os
 from datetime import datetime
-import zoneinfo  # Built-in for timezone handling
+import zoneinfo  # For timezone handling
 import re
+from playwright.sync_api import sync_playwright
 
 # URL to scrape
 url = 'https://www.ig.com/en/indices/markets-indices/us-tech-100'
 
-# Fetch page content
-response = requests.get(url)
-soup = BeautifulSoup(response.text, 'html.parser')
+# Launch Playwright and scrape
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page()
+    page.goto(url)
+    page.wait_for_timeout(2000)  # Wait 2 seconds for JS to load
+    
+    # Wait for the sentiment panel to appear and extract text
+    sentiment_element = page.wait_for_selector('.sentiment-panel__text', timeout=10000)  # 10s timeout
+    if sentiment_element:
+        sentiment_text = sentiment_element.inner_text()
+    else:
+        raise ValueError("Sentiment panel not found. Check site structure or increase wait time.")
+    
+    browser.close()
 
-# Extract the long percentage using regex on page text (robust to HTML changes)
-page_text = soup.get_text()
-match = re.search(r'(\d+)% of client accounts are long on this market', page_text)
+# Extract the long percentage using regex
+match = re.search(r'(\d+)% of client accounts are long on this market', sentiment_text)
 if match:
-    long_percentage = int(match.group(1))  # Extract number as int
+    long_percentage = int(match.group(1))
 else:
-    raise ValueError("Could not find long percentage on the page. Check site structure.")
+    raise ValueError("Could not find long percentage in the sentiment text. Check site structure.")
 
 # Get current timestamp in Eastern Time
 tz = zoneinfo.ZoneInfo('US/Eastern')
