@@ -19,22 +19,28 @@ with sync_playwright() as p:
         ]
     )
     page = browser.new_page()
+    page.set_viewport_size({"width": 1920, "height": 1080})  # Mimic desktop view
     page.goto(url)
+    page.wait_for_load_state('domcontentloaded')  # Wait for initial DOM
     
-    # Fixed wait for JS to load (30s - adjust if needed)
-    page.wait_for_timeout(30000)
+    # Fixed long wait for JS/dynamic content to fully load
+    page.wait_for_timeout(60000)  # 60s - increase to 120000 if needed
+    
+    # Save page content to file for debug (will be committed)
+    with open('page.html', 'w') as f:
+        f.write(page.content())
     
     # Check if the element exists
     sentiment_locator = page.locator('.sentiment-panel__text')
     if sentiment_locator.count() == 0:
-        raise ValueError("Sentiment element not found after wait. Check selector, site changes, or increase wait time.")
+        raise ValueError("Sentiment element not found after wait. Check page.html in repo for details.")
     
-    # Extract clean text from the specific element (strips HTML tags)
+    # Extract clean text from the specific element
     sentiment_text = sentiment_locator.inner_text()
     
     browser.close()
 
-# Extract the long percentage using regex on clean text (handles bold/strong tags implicitly via inner_text)
+# Extract the long percentage using regex on clean text
 match = re.search(r'(\d+)% of client accounts are long on this market', sentiment_text)
 if match:
     long_percentage = int(match.group(1))
