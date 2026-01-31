@@ -1,5 +1,8 @@
 name: Update US Tech 100 Client Sentiment
 
+permissions:
+  contents: write  # Grants write access for git push
+
 on:
   schedule:
     - cron: '30 14 * * 1-5'  # 9:30 AM ET / 14:30 UTC, Mon-Fri
