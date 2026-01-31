@@ -30,22 +30,21 @@ with sync_playwright() as p:
     with open('page.html', 'w') as f:
         f.write(page.content())
     
-    # Check if the element exists
-    sentiment_locator = page.locator('.sentiment-panel__text')
-    if sentiment_locator.count() == 0:
-        raise ValueError("Sentiment element not found after wait. Check page.html in repo for details.")
+    # Get full clean text from the page body (concatenated text without tags)
+    full_text = page.inner_text('body')
     
-    # Extract clean text from the specific element
-    sentiment_text = sentiment_locator.inner_text()
+    # Save full text for debug
+    with open('page_text.txt', 'w') as f:
+        f.write(full_text)
     
     browser.close()
 
-# Extract the long percentage using regex on clean text
-match = re.search(r'(\d+)% of client accounts are long on this market', sentiment_text)
+# Extract the long percentage using regex on clean full text
+match = re.search(r'(\d+)% of client accounts are long on this market', full_text)
 if match:
     long_percentage = int(match.group(1))
 else:
-    raise ValueError("Could not find long percentage in the text. Check regex or site structure.")
+    raise ValueError("Could not find long percentage in the page text. Check page_text.txt in repo for details.")
 
 # Get current timestamp in Eastern Time
 tz = zoneinfo.ZoneInfo('US/Eastern')
