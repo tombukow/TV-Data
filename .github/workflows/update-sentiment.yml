@@ -1,0 +1,35 @@
+name: Update US Tech 100 Client Sentiment
+
+on:
+  schedule:
+    - cron: '30 14 * * 1-5'  # 9:30 AM ET / 14:30 UTC, Mon-Fri
+    - cron: '0 16 * * 1-5'   # 11:00 AM ET / 16:00 UTC
+    - cron: '30 17 * * 1-5'  # 12:30 PM ET / 17:30 UTC
+    - cron: '0 19 * * 1-5'   # 2:00 PM ET / 19:00 UTC
+    - cron: '30 20 * * 1-5'  # 3:30 PM ET / 20:30 UTC
+  workflow_dispatch:  # Allows manual runs via GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      
+      - name: Scrape and update CSV
+        run: python update_script.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data.csv
+          git commit -m 'Automated update: Added new client sentiment data' || echo "No changes to commit"
+          git push
