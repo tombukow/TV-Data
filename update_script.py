@@ -5,27 +5,29 @@ import zoneinfo  # For timezone handling
 import re
 from playwright.sync_api import sync_playwright
 
-# URL to scrape (try /uk/ version if /en/ issues persist)
-url = 'https://www.ig.com/uk/indices/markets-indices/us-tech-100'  # Switched to UK path for potential better loading
+# URL to scrape
+url = 'https://www.ig.com/uk/indices/markets-indices/us-tech-100'
 
 # Launch Playwright and scrape
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
     page.goto(url)
-    page.wait_for_timeout(15000)  # 15s fixed wait for JS to load fully
     
-    # Get full page content as text
-    page_text = page.content()
-
+    # Wait for the sentiment element with longer timeout
+    page.wait_for_selector('.sentiment-panel__text', timeout=60000)  # 60s timeout
+    
+    # Extract clean text from the specific element (strips HTML tags)
+    sentiment_text = page.locator('.sentiment-panel__text').inner_text()
+    
     browser.close()
 
-# Extract the long percentage using regex on full page text
-match = re.search(r'(\d+)% of client accounts are long on this market', page_text)
+# Extract the long percentage using regex on clean text
+match = re.search(r'(\d+)% of client accounts are long on this market', sentiment_text)
 if match:
     long_percentage = int(match.group(1))
 else:
-    raise ValueError("Could not find long percentage on the page. Check site structure, URL, or increase wait time.")
+    raise ValueError("Could not find long percentage in the text. Check regex or site structure.")
 
 # Get current timestamp in Eastern Time
 tz = zoneinfo.ZoneInfo('US/Eastern')
