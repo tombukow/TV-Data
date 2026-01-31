@@ -1,52 +1,37 @@
-import csv
-import os
-from datetime import datetime
-import zoneinfo  # For timezone handling
-import re
-from playwright.sync_api import sync_playwright
+name: Update US Tech 100 Client Sentiment
 
-# URL to scrape
-url = 'https://www.ig.com/en/indices/markets-indices/us-tech-100'
+on:
+  schedule:
+    - cron: '30 14 * * 1-5'  # 9:30 AM ET / 14:30 UTC, Mon-Fri
+    - cron: '0 16 * * 1-5'   # 11:00 AM ET / 16:00 UTC
+    - cron: '30 17 * * 1-5'  # 12:30 PM ET / 17:30 UTC
+    - cron: '0 19 * * 1-5'   # 2:00 PM ET / 19:00 UTC
+    - cron: '30 20 * * 1-5'  # 3:30 PM ET / 20:30 UTC
+  workflow_dispatch:  # Allows manual runs via GitHub UI
 
-# Proxy configuration (replace with a working UK/EU proxy)
-proxy = {"server": "http://your-proxy-ip:port"}  # Example: "http://51.15.242.202:8888"
-
-# Launch Playwright and scrape
-with sync_playwright() as p:
-    browser = p.chromium.launch(headless=True, proxy=proxy if proxy else None)
-    page = browser.new_page()
-    page.goto(url)
-    page.wait_for_load_state('networkidle')  # Wait for network to be idle (full load)
-    page.wait_for_timeout(5000)  # Additional 5s wait for any slow JS
-
-    # Get full page content as text
-    page_text = page.content()
-
-    browser.close()
-
-# Extract the long percentage using regex on full page text
-match = re.search(r'(\d+)% of client accounts are long on this market', page_text)
-if match:
-    long_percentage = int(match.group(1))
-else:
-    raise ValueError("Could not find long percentage on the page. Check site structure, proxy, or geo-restrictions.")
-
-# Get current timestamp in Eastern Time
-tz = zoneinfo.ZoneInfo('US/Eastern')
-timestamp = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')
-
-# CSV file path
-csv_file = 'data.csv'
-
-# Create CSV if it doesn't exist, with headers
-if not os.path.exists(csv_file):
-    with open(csv_file, 'w', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(['timestamp', 'long_percentage'])
-
-# Append the new row
-with open(csv_file, 'a', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow([timestamp, long_percentage])
-
-print(f"Appended: {timestamp}, {long_percentage}%")
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium  # Installs Playwright and headless Chromium
+      
+      - name: Scrape and update CSV
+        run: python update_script.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data.csv
+          git commit -m 'Automated update: Added new client sentiment data' || echo "No changes to commit"
+          git push
