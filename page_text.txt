@@ -19,17 +19,21 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 25679.3
+H 25820.4
 L 25455.3
--144.9
--0.56%
-Fri 30 Jan 2026 17:30 - Sun 1 Feb 2026 22:30
+-185.7
+-0.72%
+Fri 30 Jan 2026 2:55 - Mon 2 Feb 2026 0:30
+25850.0
+25800.0
+25750.0
 25700.0
 25650.0
 25600.0
 25550.0
 25500.0
 25450.0
+25400.0
 25521.6
 2025
 Apr
@@ -37,14 +41,16 @@ Jun
 Aug
 Oct
 Dec
+6:00
+9:00
+12:00
+15:00
 18:00
-19:00
-20:00
 21:00
 Fri 30 Jan
-Sun 1 Feb 22:00
+Mon 2 Feb
 Data is indicative
-15 Mins
+5 Mins
 
 Unlock full charts - 
 
