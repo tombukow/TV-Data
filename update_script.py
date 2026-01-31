@@ -46,8 +46,10 @@ if match:
 else:
     raise ValueError("Could not find long percentage in the page text. Check page_text.txt in repo for details.")
 
-# Get current timestamp in Eastern Time
-tz = zoneinfo.ZoneInfo('US/Eastern')
+from datetime import datetime, timezone  # Add timezone import if not present
+
+# Get current timestamp in UTC
+tz = timezone.utc
 timestamp = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')
 
 # CSV file path
