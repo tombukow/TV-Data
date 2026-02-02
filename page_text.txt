@@ -19,11 +19,11 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 25796.3
-L 25219.8
-496.8
-1.97%
-Mon 2 Feb 2026 7:55 - Mon 2 Feb 2026 17:05
+H 25828.9
+L 25065.7
+176.9
+0.69%
+Fri 30 Jan 2026 17:00 - Mon 2 Feb 2026 21:00
 25900.0
 25800.0
 25700.0
@@ -32,36 +32,38 @@ Mon 2 Feb 2026 7:55 - Mon 2 Feb 2026 17:05
 25400.0
 25300.0
 25200.0
-25719.6
+25100.0
+25000.0
+25819.1
 2025
 Apr
 Jun
 Aug
 Oct
 Dec
+18:00
+3:00
+6:00
 9:00
-10:00
-11:00
 12:00
-13:00
-14:00
 15:00
-16:00
-17:00
+18:00
+21:00
+Fri 30 Jan
 Mon 2 Feb
 Data is indicative
-5 Mins
+30 Mins
 
 Unlock full charts - 
 
 SELL
-25719.1
+25818.9
 BUY
-25720.1
+25819.9
 1
-165.3(0.65%)
+265.1(1.04%)
 
-High: 25796.8
+High: 25829.4
 
 Low: 25064.7
 
@@ -69,11 +71,11 @@ Long
 
 Short
 
-58%
+57%
 
-42%
+43%
 
-58% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.17%
-Micron Technology Inc (24 Hours)	3.93%
-BioMarin Pharmaceutical Inc	2.94%
-TripAdvisor Inc	2.07%
-Amazon.com Inc (24 Hours)	1.99%
+Micron Technology Inc (24 Hours)	6.39%
+Intel Corp (24 Hours)	5.49%
+BioMarin Pharmaceutical Inc	3.33%
+Amazon.com Inc (24 Hours)	2.38%
+DISH Network Corp	1.94%
 	% Change
-Illumina Inc	-1.98%
-Meta Platforms Inc (24 Hours)	-1.08%
-Microsoft Corp (24 Hours)	-0.66%
-Mattel Inc	-0.43%
-Starbucks Corp (24 Hours)	-0.34%
+Illumina Inc	-1.87%
+DENTSPLY International Inc	-1.4%
+Meta Platforms Inc (24 Hours)	-1.39%
+Microsoft Corp (24 Hours)	-1.29%
+Liberty Global PLC - A	-0.68%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
