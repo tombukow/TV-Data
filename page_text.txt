@@ -21,9 +21,9 @@ Open account
 US Tech 100 .NDX
 H 25285.3
 L 24679.9
--505.8
--2.00%
-Wed 4 Feb 2026 14:23 - Wed 4 Feb 2026 18:42
+-256.5
+-1.02%
+Wed 4 Feb 2026 14:08 - Wed 4 Feb 2026 20:36
 25300.0
 25200.0
 25100.0
@@ -32,7 +32,7 @@ Wed 4 Feb 2026 14:23 - Wed 4 Feb 2026 18:42
 24800.0
 24700.0
 24600.0
-24740.0
+24967.4
 Dec 2025
 Jan 2026
 Mon 12
@@ -40,13 +40,11 @@ Mon 19
 Mon 26
 Feb 2026
 15:00
-15:30
 16:00
-16:30
 17:00
-17:30
 18:00
-18:30
+19:00
+20:00
 Wed 4 Feb
 Data is indicative
 1 Min
@@ -54,11 +52,11 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-24739.9
+24966.8
 BUY
-24740.9
+24967.8
 1
--598.8(-2.36%)
+-372.0(-1.47%)
 
 High: 25412.3
 
@@ -68,11 +66,11 @@ Long
 
 Short
 
-64%
+65%
 
-36%
+35%
 
-64% of client accounts are long on this market 
+65% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Starbucks Corp (24 Hours)	3.74%
-DENTSPLY International Inc	3.13%
-Adobe Systems Inc (24 Hours)	2.5%
+DENTSPLY International Inc	4.46%
+Starbucks Corp (24 Hours)	3.56%
+Adobe Systems Inc (24 Hours)	3.35%
+QUALCOMM Inc (24 Hours)	2.69%
 Liberty Global PLC - A	2.4%
-DISH Network Corp	1.94%
 	% Change
-Micron Technology Inc (24 Hours)	-11.54%
-Intel Corp (24 Hours)	-3.78%
-Meta Platforms Inc (24 Hours)	-3.24%
-Alphabet Inc - C (24 Hours)	-2.63%
-Alphabet Inc - A (24 Hours)	-2.62%
+Micron Technology Inc (24 Hours)	-10.76%
+Meta Platforms Inc (24 Hours)	-3%
+Amazon.com Inc (24 Hours)	-2.41%
+PayPal Holdings Inc (24 Hours)	-2.22%
+Alphabet Inc - C (24 Hours)	-1.95%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
