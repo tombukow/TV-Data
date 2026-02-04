@@ -19,48 +19,46 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 25371.7
-L 25165.4
-115.8
-0.46%
-Tue 3 Feb 2026 20:08 - Tue 3 Feb 2026 22:16
+H 25387.9
+L 24937.0
+-332.3
+-1.31%
+Wed 4 Feb 2026 10:49 - Wed 4 Feb 2026 17:17
 25400.0
-25350.0
 25300.0
-25250.0
 25200.0
-25150.0
-25311.9
+25100.0
+25000.0
+24900.0
+25004.8
 Dec 2025
 Jan 2026
 Mon 12
 Mon 19
 Mon 26
-20:15
-20:30
-20:45
-21:00
-21:15
-21:30
-21:45
-22:00
-22:15
-Tue 3 Feb
+Feb 2026
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+Wed 4 Feb
 Data is indicative
 1 Min
 
 Unlock full charts - 
 
 SELL
-25309.4
+25003.3
 BUY
-25314.4
-5
--27.4(-0.11%)
+25004.3
+1
+-335.5(-1.32%)
 
-High: 25372.7
+High: 25412.3
 
-Low: 25273.1
+Low: 24936.5
 
 Long
 
@@ -85,17 +83,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.65%
-Gilead Sciences Inc (24 Hours)	0.77%
-Viacom Inc - A	0.77%
-Intel Corp (24 Hours)	0.74%
+Starbucks Corp (24 Hours)	3.58%
+Adobe Systems Inc (24 Hours)	3.04%
+DENTSPLY International Inc	3%
+Apple Inc (24 Hours)	2.61%
+Liberty Global PLC - A	2.13%
 	% Change
-PayPal Holdings Inc (24 Hours)	-19.8%
-Adobe Systems Inc (24 Hours)	-7.19%
-TripAdvisor Inc	-5.71%
-Micron Technology Inc (24 Hours)	-4.54%
-Illumina Inc	-4.04%
+Micron Technology Inc (24 Hours)	-8.24%
+Intel Corp (24 Hours)	-4.2%
+Meta Platforms Inc (24 Hours)	-2.36%
+Alphabet Inc - A (24 Hours)	-2.04%
+Alphabet Inc - C (24 Hours)	-2.01%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -228,7 +226,7 @@ Professional clients trading spread bets and CFDs can lose more than they deposi
 
 The value of shares, ETFs and other ETPs bought through a share dealing account, a stocks and shares ISA or a SIPP can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of future results. Some ETPs carry additional risks depending on how they’re structured, investors should ensure they familiarise themselves with the differences before investing.
 
-Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts and US options and futures accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd.   
+Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts and futures accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd.   
 
 IG is a trading name of IG Trading and Investments Ltd (a company registered in England and Wales under number 11628764), IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. IG Markets Ltd (Register number 195355), IG Trading and Investments Ltd (Register Number 944492) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.   
 
