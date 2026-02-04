@@ -19,30 +19,34 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 25387.9
-L 24937.0
--332.3
--1.31%
-Wed 4 Feb 2026 10:49 - Wed 4 Feb 2026 17:17
-25400.0
+H 25285.3
+L 24679.9
+-505.8
+-2.00%
+Wed 4 Feb 2026 14:23 - Wed 4 Feb 2026 18:42
 25300.0
 25200.0
 25100.0
 25000.0
 24900.0
-25004.8
+24800.0
+24700.0
+24600.0
+24740.0
 Dec 2025
 Jan 2026
 Mon 12
 Mon 19
 Mon 26
 Feb 2026
-12:00
-13:00
-14:00
 15:00
+15:30
 16:00
+16:30
 17:00
+17:30
+18:00
+18:30
 Wed 4 Feb
 Data is indicative
 1 Min
@@ -50,25 +54,25 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-25003.3
+24739.9
 BUY
-25004.3
+24740.9
 1
--335.5(-1.32%)
+-598.8(-2.36%)
 
 High: 25412.3
 
-Low: 24936.5
+Low: 24679.4
 
 Long
 
 Short
 
-63%
+64%
 
-37%
+36%
 
-63% of client accounts are long on this market 
+64% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Starbucks Corp (24 Hours)	3.58%
-Adobe Systems Inc (24 Hours)	3.04%
-DENTSPLY International Inc	3%
-Apple Inc (24 Hours)	2.61%
-Liberty Global PLC - A	2.13%
+Starbucks Corp (24 Hours)	3.74%
+DENTSPLY International Inc	3.13%
+Adobe Systems Inc (24 Hours)	2.5%
+Liberty Global PLC - A	2.4%
+DISH Network Corp	1.94%
 	% Change
-Micron Technology Inc (24 Hours)	-8.24%
-Intel Corp (24 Hours)	-4.2%
-Meta Platforms Inc (24 Hours)	-2.36%
-Alphabet Inc - A (24 Hours)	-2.04%
-Alphabet Inc - C (24 Hours)	-2.01%
+Micron Technology Inc (24 Hours)	-11.54%
+Intel Corp (24 Hours)	-3.78%
+Meta Platforms Inc (24 Hours)	-3.24%
+Alphabet Inc - C (24 Hours)	-2.63%
+Alphabet Inc - A (24 Hours)	-2.62%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
