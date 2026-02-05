@@ -19,31 +19,34 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 24860.8
+H 24788.7
 L 24452.7
--60.7
--0.25%
-Thu 5 Feb 2026 13:10 - Thu 5 Feb 2026 16:55
-24900.0
+167.0
+0.68%
+Thu 5 Feb 2026 15:35 - Thu 5 Feb 2026 18:55
+24850.0
 24800.0
+24750.0
 24700.0
+24650.0
 24600.0
+24550.0
 24500.0
+24450.0
 24400.0
-24674.9
+24641.2
 2025
 Apr
 Jun
 Aug
 Oct
 Dec
-13:30
-14:00
-14:30
-15:00
-15:30
 16:00
 16:30
+17:00
+17:30
+18:00
+18:30
 Thu 5 Feb
 Data is indicative
 5 Mins
@@ -51,11 +54,11 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-24675.6
+24642.6
 BUY
-24676.6
+24643.6
 1
--222.1(-0.89%)
+-255.1(-1.02%)
 
 High: 25080.4
 
@@ -84,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	2.08%
+Gilead Sciences Inc (24 Hours)	2.39%
 DISH Network Corp	1.94%
-Netflix Inc (24 Hours)	1.31%
+Netflix Inc (24 Hours)	1.5%
+Meta Platforms Inc (24 Hours)	1.48%
 Viacom Inc - A	0.77%
-Check Point Software Technologies Ltd	0.65%
 	% Change
-QUALCOMM Inc (24 Hours)	-8.11%
-Amazon.com Inc (24 Hours)	-3.89%
-Alphabet Inc - A (24 Hours)	-3.64%
-Alphabet Inc - C (24 Hours)	-3.26%
-PayPal Holdings Inc (24 Hours)	-3.22%
+QUALCOMM Inc (24 Hours)	-7.22%
+Amazon.com Inc (24 Hours)	-3.74%
+Adobe Systems Inc (24 Hours)	-3.24%
+Microsoft Corp (24 Hours)	-3.11%
+PayPal Holdings Inc (24 Hours)	-2.85%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
