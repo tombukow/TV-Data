@@ -19,46 +19,47 @@ Platforms and tools
 Market analysis
 Open account
 US Tech 100 .NDX
-H 24737.1
-L 24334.1
--242.4
--0.99%
-Thu 5 Feb 2026 19:00 - Thu 5 Feb 2026 22:14
+H 24906.5
+L 24732.2
+106.8
+0.43%
+Fri 6 Feb 2026 15:51:20 - Fri 6 Feb 2026 16:12:40
+24900.0
+24850.0
 24800.0
+24750.0
 24700.0
-24600.0
-24500.0
-24400.0
-24300.0
-24359.0
-Dec 2025
-Jan 2026
-Mon 12
-Mon 19
-Mon 26
-Feb 2026
-19:30
-20:00
-20:30
-21:00
-21:30
-22:00
+24894.5
+Tue 3 Feb
+6:00
+15:00
 Thu 5 Feb
+9:00
+18:00
+Fri 6 Feb
+15:54
+15:57
+16:00
+16:03
+16:06
+16:09
+16:12
+Fri 6 Feb
 Data is indicative
-1 Min
+10 Secs
 
 Unlock full charts - 
 
 SELL
-24358.0
+24894.3
 BUY
-24360.0
-2
--178.6(-0.73%)
+24895.3
+1
+357.2(1.46%)
 
-High: 24594.7
+High: 24907.0
 
-Low: 24333.1
+Low: 24146.4
 
 Long
 
@@ -83,17 +84,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	2.53%
+DENTSPLY International Inc	7.86%
+Intel Corp (24 Hours)	3.52%
 DISH Network Corp	1.94%
-Viacom Inc - A	0.77%
-Netflix Inc (24 Hours)	0.4%
-Apple Inc (24 Hours)	0.12%
+Starbucks Corp (24 Hours)	1.86%
+Mattel Inc	1.56%
 	% Change
-Amazon.com Inc (24 Hours)	-13.03%
-QUALCOMM Inc (24 Hours)	-8.83%
-Microsoft Corp (24 Hours)	-5.61%
-Adobe Systems Inc (24 Hours)	-4.03%
-PayPal Holdings Inc (24 Hours)	-3.61%
+Illumina Inc	-9.7%
+Amazon.com Inc (24 Hours)	-8.15%
+Alphabet Inc - A (24 Hours)	-3.09%
+Alphabet Inc - C (24 Hours)	-2.99%
+Meta Platforms Inc (24 Hours)	-2.36%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
