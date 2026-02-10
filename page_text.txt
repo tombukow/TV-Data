@@ -20,45 +20,44 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25229.0
-L 25178.4
--22.6
--0.09%
-Tue 10 Feb 2026 19:22 - Tue 10 Feb 2026 20:13
-25230.0
-25220.0
-25210.0
+H 25362.4
+L 24247.5
+843.1
+3.47%
+Fri 6 Feb 2026 1:00 - Wed 11 Feb 2026 6:30
+25400.0
 25200.0
-25190.0
-25180.0
-25170.0
-25193.1
-Mon 29
-Jan 2026
-Mon 19
-Mon 26
+25000.0
+24800.0
+24600.0
+24400.0
+24200.0
+25150.9
+2025
+Apr
+Jun
+Aug
+Oct
+Dec
+Mon 9
+Tue 10
+Wed 11
 Feb 2026
-19:30
-19:40
-19:50
-20:00
-20:10
-Tue 10 Feb
 Data is indicative
-1 Min
+30 Mins
 
 Unlock full charts - 
 
 SELL
-25192.6
+25149.9
 BUY
-25193.6
-1
--64.8(-0.26%)
+25151.9
+2
+13.8(0.05%)
 
-High: 25362.9
+High: 25157.2
 
-Low: 25170.0
+Low: 25123.3
 
 Long
 
@@ -83,17 +82,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-BioMarin Pharmaceutical Inc	3.81%
+BioMarin Pharmaceutical Inc	3.2%
 DISH Network Corp	1.94%
-DENTSPLY International Inc	1.64%
-Illumina Inc	1.6%
-Netflix Inc (24 Hours)	1.42%
+Illumina Inc	1.77%
+DENTSPLY International Inc	1.68%
+QUALCOMM Inc (24 Hours)	0.93%
 	% Change
-Intel Corp (24 Hours)	-6.52%
-Micron Technology Inc (24 Hours)	-2.79%
-Gilead Sciences Inc (24 Hours)	-1.53%
-Alphabet Inc - A (24 Hours)	-1.44%
-Alphabet Inc - C (24 Hours)	-1.43%
+Gilead Sciences Inc (24 Hours)	-8%
+Intel Corp (24 Hours)	-6.31%
+Micron Technology Inc (24 Hours)	-3.04%
+Mattel Inc	-2.23%
+Alphabet Inc - A (24 Hours)	-1.87%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
