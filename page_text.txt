@@ -21,42 +21,40 @@ Open account
 US Tech 100
 .NDX
 H 26256.9
-L 23830.0
-64.6
-0.26%
-Tue 21 Oct 2025 - Tue 24 Feb 2026
-26500.0
+L 16031.6
+9183.1
+57.13%
+Mon 11 Dec 2023 - Mon 25 May 2026
+28000.0
 26000.0
-25500.0
-25000.0
-24500.0
 24000.0
-23500.0
-25223.7
+22000.0
+20000.0
+18000.0
+16000.0
+25256.6
 1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Nov
-Dec
-Feb
-2025
+1996
+2000
+2004
+2008
+2012
+2016
+2020
 2026
+2020
+2025
 Data is indicative
-Daily
+Weekly
 
 Unlock full charts - 
 
 SELL
-25223.2
+25255.9
 BUY
-25224.2
+25256.9
 1
-86.6(0.34%)
+119.3(0.47%)
 
 High: 25383.1
 
@@ -85,17 +83,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	7.59%
-Gilead Sciences Inc (24 Hours)	5.49%
-Apple Inc (24 Hours)	2.22%
+Micron Technology Inc (24 Hours)	9.15%
+Gilead Sciences Inc (24 Hours)	6.57%
+Apple Inc (24 Hours)	2.14%
 DISH Network Corp	1.94%
-Intel Corp (24 Hours)	1.69%
+Intel Corp (24 Hours)	1.55%
 	% Change
-Mattel Inc	-23.24%
-TripAdvisor Inc	-4.64%
-Netflix Inc (24 Hours)	-3.09%
-PayPal Holdings Inc (24 Hours)	-2.8%
-Adobe Systems Inc (24 Hours)	-2.44%
+Mattel Inc	-24.98%
+TripAdvisor Inc	-6.12%
+Netflix Inc (24 Hours)	-2.8%
+PayPal Holdings Inc (24 Hours)	-2.7%
+Adobe Systems Inc (24 Hours)	-2.39%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
