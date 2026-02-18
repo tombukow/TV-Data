@@ -20,62 +20,56 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 26256.9
-L 22703.6
-2131.8
-9.37%
-Sat 2 Aug 2025 - Fri 13 Mar 2026
-26500.0
-26000.0
-25500.0
+H 25064.7
+L 24381.9
+86.4
+0.35%
+Mon 16 Feb 2026 12:45 - Thu 19 Feb 2026 5:30
+25100.0
 25000.0
+24900.0
+24800.0
+24700.0
+24600.0
 24500.0
-24000.0
-23500.0
-23000.0
-22500.0
-24877.9
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Sep
-Oct
-Nov
-Dec
-Feb
-Mar
+24400.0
+24300.0
+24869.6
 2025
-2026
+Apr
+Jun
+Aug
+Oct
+Dec
+Tue 17
+Wed 18
+Thu 19
+Feb 2026
 Data is indicative
-Daily
+15 Mins
 
 Unlock full charts - 
 
 SELL
-24876.9
+24868.6
 BUY
-24878.9
+24870.6
 2
--10.0(-0.04%)
+-18.3(-0.07%)
 
 High: 24898.0
 
-Low: 24873.8
+Low: 24855.6
 
 Long
 
 Short
 
-61%
+60%
 
-39%
+40%
 
-61% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -90,16 +84,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Liberty Global PLC - A	17.34%
-Micron Technology Inc (24 Hours)	4.7%
-Mattel Inc	3.24%
-BioMarin Pharmaceutical Inc	3.1%
-Illumina Inc	2.85%
+Liberty Global PLC - A	16.76%
+Micron Technology Inc (24 Hours)	6%
+BioMarin Pharmaceutical Inc	3.14%
+Illumina Inc	3.07%
+Mattel Inc	2.61%
 	% Change
-Gilead Sciences Inc (24 Hours)	-1.66%
-Intel Corp (24 Hours)	-1.57%
-TripAdvisor Inc	-0.9%
-Check Point Software Technologies Ltd	-0.72%
+Intel Corp (24 Hours)	-1.56%
+Gilead Sciences Inc (24 Hours)	-1.51%
+TripAdvisor Inc	-0.76%
+Check Point Software Technologies Ltd	-0.61%
+Apple Inc (24 Hours)	-0.03%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
