@@ -20,50 +20,52 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24933.1
-L 24821.2
--103.1
--0.41%
-Wed 18 Feb 2026 19:28:30 - Wed 18 Feb 2026 20:00:50
-24940.0
-24920.0
-24900.0
-24880.0
-24860.0
-24840.0
-24820.0
-24823.9
-Sun 15 Feb
-6:00
-15:00
-Tue 17 Feb
-9:00
-18:00
-Wed 18 Feb
-12:00
-19:30
-19:35
-19:40
-19:45
-19:50
-19:55
-20:00
-Wed 18 Feb
+H 26256.9
+L 22703.6
+2131.8
+9.37%
+Sat 2 Aug 2025 - Fri 13 Mar 2026
+26500.0
+26000.0
+25500.0
+25000.0
+24500.0
+24000.0
+23500.0
+23000.0
+22500.0
+24877.9
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Sep
+Oct
+Nov
+Dec
+Feb
+Mar
+2025
+2026
 Data is indicative
-10 Secs
+Daily
 
 Unlock full charts - 
 
 SELL
-24824.1
+24876.9
 BUY
-24825.1
-1
-117.1(0.47%)
+24878.9
+2
+-10.0(-0.04%)
 
-High: 25065.2
+High: 24898.0
 
-Low: 24635.5
+Low: 24873.8
 
 Long
 
@@ -88,17 +90,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Liberty Global PLC - A	15.01%
-Micron Technology Inc (24 Hours)	5.12%
-Illumina Inc	3.29%
-Mattel Inc	2.35%
-DISH Network Corp	1.94%
+Liberty Global PLC - A	17.34%
+Micron Technology Inc (24 Hours)	4.7%
+Mattel Inc	3.24%
+BioMarin Pharmaceutical Inc	3.1%
+Illumina Inc	2.85%
 	% Change
-TripAdvisor Inc	-1.57%
-Gilead Sciences Inc (24 Hours)	-1.5%
-Intel Corp (24 Hours)	-1.1%
-Check Point Software Technologies Ltd	-1.06%
-Meta Platforms Inc (24 Hours)	-0.14%
+Gilead Sciences Inc (24 Hours)	-1.66%
+Intel Corp (24 Hours)	-1.57%
+TripAdvisor Inc	-0.9%
+Check Point Software Technologies Ltd	-0.72%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
