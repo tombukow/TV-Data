@@ -20,47 +20,43 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25064.7
-L 24381.9
-7.2
-0.03%
-Mon 16 Feb 2026 6:30 - Fri 20 Feb 2026 7:30
-25100.0
-25000.0
-24900.0
-24800.0
-24700.0
-24600.0
-24500.0
-24400.0
-24300.0
-24747.6
-2025
-Apr
-Jun
-Aug
-Oct
-Dec
-Tue 17
-Wed 18
-Thu 19
-Fri 20
-Feb 2026
+H 24776.1
+L 24764.2
+-0.6
+-0.00%
+Thu 19 Feb 2026 21:46:08 - Thu 19 Feb 2026 22:00:32
+24778.0
+24776.0
+24774.0
+24772.0
+24770.0
+24768.0
+24766.0
+24764.0
+24762.0
+24768.7
+Sorry, the timeline is not available for tick interval
+21:48
+21:50
+21:52
+21:56
+21:58
+Thu 19 Feb
 Data is indicative
-15 Mins
+Tick
 
 Unlock full charts - 
 
 SELL
-24747.4
+24768.4
 BUY
-24748.4
-1
--140.0(-0.56%)
+24770.4
+2
+-29.1(-0.12%)
 
-High: 24988.4
+High: 24808.1
 
-Low: 24683.8
+Low: 24762.5
 
 Long
 
@@ -85,17 +81,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-BioMarin Pharmaceutical Inc	2.77%
+BioMarin Pharmaceutical Inc	2.57%
 DISH Network Corp	1.94%
+TripAdvisor Inc	1.05%
+Mattel Inc	0.81%
 Viacom Inc - A	0.77%
-Alphabet Inc - A (24 Hours)	0.02%
-Meta Platforms Inc (24 Hours)	0.02%
 	% Change
-Liberty Global PLC - A	-5.33%
-Check Point Software Technologies Ltd	-2.99%
-QUALCOMM Inc (24 Hours)	-2.01%
-Adobe Systems Inc (24 Hours)	-1.98%
-Intel Corp (24 Hours)	-1.79%
+Liberty Global PLC - A	-6.06%
+Check Point Software Technologies Ltd	-3.02%
+Intel Corp (24 Hours)	-2.07%
+Apple Inc (24 Hours)	-1.56%
+Adobe Systems Inc (24 Hours)	-1.55%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
