@@ -20,39 +20,48 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25080.5
-L 24618.9
-139.4
-0.56%
-Wed 18 Feb 2026 9:00 - Sat 21 Feb 2026 1:00
-25100.0
+H 25031.5
+L 24976.8
+-29.2
+-0.12%
+Fri 20 Feb 2026 19:06:50 - Fri 20 Feb 2026 19:32:30
+25040.0
+25030.0
+25020.0
+25010.0
 25000.0
-24900.0
-24800.0
-24700.0
-24600.0
-24977.2
-2025
-Apr
-Jun
-Aug
-Oct
-Dec
-Thu 19
-Fri 20
-Sat 21
-Feb 2026
+24990.0
+24980.0
+24970.0
+24987.9
+Tue 17 Feb
+6:00
+15:00
+Thu 19 Feb
+9:00
+18:00
+Fri 20 Feb
+12:00
+19:09
+19:12
+19:15
+19:18
+19:21
+19:24
+19:27
+19:30
+Fri 20 Feb
 Data is indicative
-30 Mins
+10 Secs
 
 Unlock full charts - 
 
 SELL
-24976.2
+24986.7
 BUY
-24977.2
+24987.7
 1
-178.2(0.72%)
+188.7(0.76%)
 
 High: 25081.0
 
@@ -82,16 +91,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 Alphabet Inc - A (24 Hours)	3.91%
-Alphabet Inc - C (24 Hours)	3.69%
-TripAdvisor Inc	2.93%
-DISH Network Corp	1.94%
-Amazon.com Inc (24 Hours)	1.85%
+Alphabet Inc - C (24 Hours)	3.65%
+TripAdvisor Inc	2.79%
+Amazon.com Inc (24 Hours)	2.46%
+Liberty Global PLC - A	2.25%
 	% Change
-Illumina Inc	-3.12%
-Intel Corp (24 Hours)	-2.76%
-Adobe Systems Inc (24 Hours)	-0.91%
-Liberty Global PLC - A	-0.86%
-Mattel Inc	-0.66%
+Illumina Inc	-2.75%
+Intel Corp (24 Hours)	-0.8%
+Adobe Systems Inc (24 Hours)	-0.61%
+Microsoft Corp (24 Hours)	-0.39%
+Check Point Software Technologies Ltd	-0.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
