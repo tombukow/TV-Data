@@ -20,59 +20,57 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25080.5
-L 24381.9
-244.3
-0.99%
-Mon 16 Feb 2026 2:50 - Sat 21 Feb 2026 12:20
-25200.0
-25100.0
+H 24981.3
+L 24610.1
+-218.2
+-0.88%
+Mon 23 Feb 2026 14:04 - Mon 23 Feb 2026 18:23
 25000.0
 24900.0
 24800.0
 24700.0
 24600.0
-24500.0
-24400.0
-24300.0
-25013.6
-2025
-Apr
-Jun
-Aug
-Oct
-Dec
-Tue 17
-Wed 18
-Thu 19
-Fri 20
-Sat 21
+24658.9
+Jan 2026
+Mon 19
+Mon 26
 Feb 2026
+Mon 9
+Mon 16
+14:30
+15:00
+15:30
+16:00
+16:30
+17:00
+17:30
+18:00
+Mon 23 Feb
 Data is indicative
-10 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-25012.6
+24658.6
 BUY
-25014.6
-2
--0.2(-0%)
+24659.6
+1
+-354.7(-1.42%)
 
-High: 25019.7
+High: 25028.7
 
-Low: 25002.1
+Low: 24609.6
 
 Long
 
 Short
 
-60%
+58%
 
-40%
+42%
 
-60% of client accounts are long on this market 
+58% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Alphabet Inc - A (24 Hours)	3.98%
-Alphabet Inc - C (24 Hours)	3.62%
-Amazon.com Inc (24 Hours)	2.58%
-Micron Technology Inc (24 Hours)	2.5%
-Liberty Global PLC - A	2.49%
+PayPal Holdings Inc (24 Hours)	7.37%
+DISH Network Corp	1.94%
+Liberty Global PLC - A	1.56%
+Apple Inc (24 Hours)	1.01%
+Viacom Inc - A	0.77%
 	% Change
-Illumina Inc	-1.93%
-Intel Corp (24 Hours)	-1.18%
-Microsoft Corp (24 Hours)	-0.4%
-Adobe Systems Inc (24 Hours)	-0.28%
-PayPal Holdings Inc (24 Hours)	-0.26%
+TripAdvisor Inc	-7.63%
+Adobe Systems Inc (24 Hours)	-4.71%
+Netflix Inc (24 Hours)	-3.58%
+Starbucks Corp (24 Hours)	-3.47%
+Amazon.com Inc (24 Hours)	-3.25%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -119,6 +117,10 @@ Trading signals
 Identify the right time to trade with free technical signals, on indices and more
 
 US Tech 100 news and strategies from IG
+US stocks gain despite Trump tariff setback: Nvidia earnings and consumer confidence await
+
+Monday, 23 February 2026 • 03:15
+
 US stocks end week lower as Amazon losing streak extends
 
 Monday, 16 February 2026 • 03:44
@@ -130,10 +132,6 @@ Monday, 9 February 2026 • 03:18
 US equities: Fed chair drama triggers volatility as markets eye January payrolls
 
 Monday, 2 February 2026 • 03:11
-
-Meta Q4 2025 earnings preview: AI investments and Reality Labs in focus
-
-Tuesday, 20 January 2026 • 05:16
 
 Find your next indices trade
 
