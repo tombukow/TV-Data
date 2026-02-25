@@ -21,42 +21,42 @@ Open account
 US Tech 100
 .NDX
 H 25327.9
-L 25015.9
-291.6
-1.16%
-Wed 25 Feb 2026 9:45 - Wed 25 Feb 2026 21:00
-25350.0
+L 25215.6
+59.6
+0.24%
+Wed 25 Feb 2026 15:25 - Wed 25 Feb 2026 20:45
+25340.0
+25320.0
 25300.0
-25250.0
+25280.0
+25260.0
+25240.0
+25220.0
 25200.0
-25150.0
-25100.0
-25050.0
-25000.0
-25321.8
+25317.4
 2025
 May
 Jul
 Sep
 Nov
 2026
-12:00
-14:00
 16:00
+17:00
 18:00
+19:00
 20:00
 Wed 25 Feb
 Data is indicative
-15 Mins
+5 Mins
 
 Unlock full charts - 
 
 SELL
-25321.6
+25317.4
 BUY
-25322.6
+25318.4
 1
-342.5(1.37%)
+338.3(1.35%)
 
 High: 25328.4
 
@@ -85,16 +85,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Netflix Inc (24 Hours)	6.16%
-Microsoft Corp (24 Hours)	2.38%
-Micron Technology Inc (24 Hours)	2.32%
-Meta Platforms Inc (24 Hours)	1.97%
+Netflix Inc (24 Hours)	6.11%
+Micron Technology Inc (24 Hours)	2.89%
+Microsoft Corp (24 Hours)	2.44%
+Meta Platforms Inc (24 Hours)	2.03%
 DISH Network Corp	1.94%
 	% Change
-Mattel Inc	-3.17%
-DENTSPLY International Inc	-3.01%
-BioMarin Pharmaceutical Inc	-1.41%
-Gilead Sciences Inc (24 Hours)	-0.1%
+Mattel Inc	-3.97%
+DENTSPLY International Inc	-2.7%
+BioMarin Pharmaceutical Inc	-1.33%
+Gilead Sciences Inc (24 Hours)	-0.5%
 Liberty Global PLC - A	-0.04%
 Discover opportunity in-platform
 
