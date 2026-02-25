@@ -20,47 +20,52 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25327.9
-L 25215.6
-59.6
-0.24%
-Wed 25 Feb 2026 15:25 - Wed 25 Feb 2026 20:45
+H 25443.2
+L 25304.0
+90.9
+0.36%
+Wed 25 Feb 2026 20:06 - Wed 25 Feb 2026 22:14
+25460.0
+25440.0
+25420.0
+25400.0
+25380.0
+25360.0
 25340.0
 25320.0
 25300.0
 25280.0
-25260.0
-25240.0
-25220.0
-25200.0
-25317.4
-2025
-May
-Jul
-Sep
-Nov
-2026
-16:00
-17:00
-18:00
-19:00
-20:00
+25409.5
+Jan 2026
+Mon 26
+Feb 2026
+Mon 9
+Mon 16
+Mon 23
+20:15
+20:30
+20:45
+21:00
+21:15
+21:30
+21:45
+22:00
 Wed 25 Feb
 Data is indicative
-5 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-25317.4
+25408.5
 BUY
-25318.4
-1
-338.3(1.35%)
+25410.5
+2
+76.0(0.3%)
 
-High: 25328.4
+High: 25444.2
 
-Low: 24942.1
+Low: 25320.6
 
 Long
 
@@ -85,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Netflix Inc (24 Hours)	6.11%
-Micron Technology Inc (24 Hours)	2.89%
-Microsoft Corp (24 Hours)	2.44%
-Meta Platforms Inc (24 Hours)	2.03%
+Netflix Inc (24 Hours)	5.97%
+Micron Technology Inc (24 Hours)	3.18%
+Microsoft Corp (24 Hours)	2.79%
+Meta Platforms Inc (24 Hours)	2.31%
 DISH Network Corp	1.94%
 	% Change
-Mattel Inc	-3.97%
-DENTSPLY International Inc	-2.7%
-BioMarin Pharmaceutical Inc	-1.33%
-Gilead Sciences Inc (24 Hours)	-0.5%
-Liberty Global PLC - A	-0.04%
+Mattel Inc	-3.71%
+DENTSPLY International Inc	-2.59%
+BioMarin Pharmaceutical Inc	-1.88%
+Illumina Inc	-0.84%
+Gilead Sciences Inc (24 Hours)	-0.28%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
