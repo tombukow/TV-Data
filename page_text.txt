@@ -20,30 +20,33 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25046.5
-L 24855.3
-183.6
-0.74%
-Thu 26 Feb 2026 18:17 - Thu 26 Feb 2026 20:07
+H 25046.6
+L 24977.4
+-1.5
+-0.01%
+Thu 26 Feb 2026 19:58 - Thu 26 Feb 2026 21:08
 25050.0
-25000.0
-24950.0
-24900.0
-24850.0
 25040.0
+25030.0
+25020.0
+25010.0
+25000.0
+24990.0
+24980.0
+24970.0
+25037.9
 Jan 2026
 Mon 26
 Feb 2026
 Mon 9
 Mon 16
 Mon 23
-18:30
-18:45
-19:00
-19:15
-19:30
-19:45
-20:00
+20:10
+20:20
+20:30
+20:40
+20:50
+21:00
 Thu 26 Feb
 Data is indicative
 1 Min
@@ -51,25 +54,25 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-25039.5
+25037.1
 BUY
-25040.5
-1
--293.5(-1.16%)
+25039.1
+2
+5.9(0.02%)
 
-High: 25444.2
+High: 25039.9
 
-Low: 24817.6
+Low: 25025.9
 
 Long
 
 Short
 
-60%
+61%
 
-40%
+39%
 
-60% of client accounts are long on this market 
+61% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -84,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	4.39%
-Netflix Inc (24 Hours)	2.97%
-TripAdvisor Inc	2.53%
+Illumina Inc	4.05%
+Netflix Inc (24 Hours)	2.89%
+TripAdvisor Inc	2.63%
 DISH Network Corp	1.94%
-Mattel Inc	1.69%
+Mattel Inc	1.81%
 	% Change
-PayPal Holdings Inc (24 Hours)	-4.89%
-Intel Corp (24 Hours)	-3.26%
-Micron Technology Inc (24 Hours)	-2.86%
-Gilead Sciences Inc (24 Hours)	-2.21%
-Alphabet Inc - C (24 Hours)	-1.71%
+PayPal Holdings Inc (24 Hours)	-3.83%
+Micron Technology Inc (24 Hours)	-3.15%
+Intel Corp (24 Hours)	-3.05%
+Gilead Sciences Inc (24 Hours)	-2.26%
+Alphabet Inc - C (24 Hours)	-1.82%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
