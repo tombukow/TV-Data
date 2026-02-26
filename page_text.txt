@@ -20,33 +20,31 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25046.6
-L 24977.4
--1.5
--0.01%
-Thu 26 Feb 2026 19:58 - Thu 26 Feb 2026 21:08
-25050.0
-25040.0
-25030.0
-25020.0
-25010.0
+H 25367.9
+L 24818.1
+-319.6
+-1.26%
+Thu 26 Feb 2026 10:26 - Thu 26 Feb 2026 23:23
+25400.0
+25300.0
+25200.0
+25100.0
 25000.0
-24990.0
-24980.0
-24970.0
-25037.9
+24900.0
+24800.0
+24999.6
 Jan 2026
 Mon 26
 Feb 2026
 Mon 9
 Mon 16
 Mon 23
-20:10
-20:20
-20:30
-20:40
-20:50
-21:00
+12:00
+14:00
+16:00
+18:00
+20:00
+22:00
 Thu 26 Feb
 Data is indicative
 1 Min
@@ -54,25 +52,25 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-25037.1
+24998.8
 BUY
-25039.1
+25000.8
 2
-5.9(0.02%)
+-32.4(-0.13%)
 
-High: 25039.9
+High: 25042.6
 
-Low: 25025.9
+Low: 24987.2
 
 Long
 
 Short
 
-61%
+60%
 
-39%
+40%
 
-61% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	4.05%
-Netflix Inc (24 Hours)	2.89%
-TripAdvisor Inc	2.63%
+Illumina Inc	4.54%
+Netflix Inc (24 Hours)	2.9%
+TripAdvisor Inc	1.98%
 DISH Network Corp	1.94%
-Mattel Inc	1.81%
+Mattel Inc	1.36%
 	% Change
-PayPal Holdings Inc (24 Hours)	-3.83%
-Micron Technology Inc (24 Hours)	-3.15%
-Intel Corp (24 Hours)	-3.05%
-Gilead Sciences Inc (24 Hours)	-2.26%
-Alphabet Inc - C (24 Hours)	-1.82%
+Micron Technology Inc (24 Hours)	-3.39%
+Intel Corp (24 Hours)	-3.31%
+PayPal Holdings Inc (24 Hours)	-2.94%
+Liberty Global PLC - A	-2.42%
+Gilead Sciences Inc (24 Hours)	-2.28%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
