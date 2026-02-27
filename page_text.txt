@@ -20,45 +20,46 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25057.8
+H 25367.9
 L 24740.7
--165.6
--0.66%
-Fri 27 Feb 2026 8:00 - Fri 27 Feb 2026 20:57
+-410.8
+-1.63%
+Thu 26 Feb 2026 1:00 - Sat 28 Feb 2026 1:30
+25400.0
+25300.0
+25200.0
 25100.0
-25050.0
 25000.0
-24950.0
 24900.0
-24850.0
 24800.0
-24750.0
 24700.0
-24865.4
-Jan 2026
-Mon 26
-Feb 2026
-Mon 9
-Mon 16
-Mon 23
-10:00
+24858.0
+2025
+May
+Jul
+Sep
+Nov
+2026
+6:00
 12:00
-14:00
-16:00
 18:00
-20:00
+6:00
+12:00
+18:00
+Thu 26 Feb
 Fri 27 Feb
+Sat 28 Feb
 Data is indicative
-1 Min
+15 Mins
 
 Unlock full charts - 
 
 SELL
-24864.9
+24855.7
 BUY
-24865.9
+24856.7
 1
--166.8(-0.67%)
+-176.0(-0.7%)
 
 High: 25058.8
 
@@ -68,11 +69,11 @@ Long
 
 Short
 
-60%
+61%
 
-40%
+39%
 
-60% of client accounts are long on this market 
+61% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	13.1%
-Netflix Inc (24 Hours)	12.83%
-Illumina Inc	4.43%
-Gilead Sciences Inc (24 Hours)	4.22%
-BioMarin Pharmaceutical Inc	3.25%
+DENTSPLY International Inc	13.73%
+Netflix Inc (24 Hours)	12.78%
+Illumina Inc	4.34%
+Gilead Sciences Inc (24 Hours)	3.85%
+BioMarin Pharmaceutical Inc	2.27%
 	% Change
-TripAdvisor Inc	-2.87%
-Meta Platforms Inc (24 Hours)	-2.58%
-Apple Inc (24 Hours)	-2.51%
-QUALCOMM Inc (24 Hours)	-2.27%
-Microsoft Corp (24 Hours)	-2.23%
+TripAdvisor Inc	-2.82%
+Meta Platforms Inc (24 Hours)	-2.72%
+Apple Inc (24 Hours)	-2.71%
+Microsoft Corp (24 Hours)	-2.22%
+QUALCOMM Inc (24 Hours)	-2.14%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
