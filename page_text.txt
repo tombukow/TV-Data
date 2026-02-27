@@ -21,10 +21,10 @@ Open account
 US Tech 100
 .NDX
 H 25367.9
-L 24818.1
--319.6
--1.26%
-Thu 26 Feb 2026 10:26 - Thu 26 Feb 2026 23:23
+L 24740.7
+-304.0
+-1.20%
+Thu 26 Feb 2026 2:00 - Fri 27 Feb 2026 21:10
 25400.0
 25300.0
 25200.0
@@ -32,45 +32,47 @@ Thu 26 Feb 2026 10:26 - Thu 26 Feb 2026 23:23
 25000.0
 24900.0
 24800.0
-24999.6
-Jan 2026
-Mon 26
-Feb 2026
-Mon 9
-Mon 16
-Mon 23
+24700.0
+24964.4
+2025
+May
+Jul
+Sep
+Nov
+2026
+6:00
 12:00
-14:00
-16:00
 18:00
-20:00
-22:00
+6:00
+12:00
+18:00
 Thu 26 Feb
+Fri 27 Feb
 Data is indicative
-1 Min
+10 Mins
 
 Unlock full charts - 
 
 SELL
-24998.8
+24963.8
 BUY
-25000.8
-2
--32.4(-0.13%)
+24964.8
+1
+-67.9(-0.27%)
 
-High: 25042.6
+High: 25058.8
 
-Low: 24987.2
+Low: 24740.2
 
 Long
 
 Short
 
-60%
+61%
 
-40%
+39%
 
-60% of client accounts are long on this market 
+61% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	4.54%
-Netflix Inc (24 Hours)	2.9%
-TripAdvisor Inc	1.98%
-DISH Network Corp	1.94%
-Mattel Inc	1.36%
+DENTSPLY International Inc	13.1%
+Netflix Inc (24 Hours)	8.72%
+Illumina Inc	3.54%
+Liberty Global PLC - A	2.36%
+BioMarin Pharmaceutical Inc	2.18%
 	% Change
-Micron Technology Inc (24 Hours)	-3.39%
-Intel Corp (24 Hours)	-3.31%
-PayPal Holdings Inc (24 Hours)	-2.94%
-Liberty Global PLC - A	-2.42%
-Gilead Sciences Inc (24 Hours)	-2.28%
+TripAdvisor Inc	-2.68%
+QUALCOMM Inc (24 Hours)	-2.33%
+Check Point Software Technologies Ltd	-2.32%
+Meta Platforms Inc (24 Hours)	-1.84%
+Microsoft Corp (24 Hours)	-1.73%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
