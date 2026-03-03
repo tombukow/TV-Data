@@ -20,56 +20,60 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25443.2
-L 24437.7
-141.7
-0.57%
-Tue 24 Feb 2026 2:50 - Tue 3 Mar 2026 13:10
-25600.0
-25400.0
-25200.0
-25000.0
-24800.0
+H 24623.7
+L 24424.4
+-81.5
+-0.33%
+Tue 3 Mar 2026 14:33:00 - Tue 3 Mar 2026 15:16:10
+24650.0
 24600.0
+24550.0
+24500.0
+24450.0
 24400.0
-24956.3
-2025
-May
-Jul
-Sep
-Nov
-2026
-Wed 25
-Thu 26
-Fri 27
-Tue 3
-Feb 2026
-Mar 2026
+24462.4
+Sun 1 Mar
+4:00
+10:00
+16:00
+22:00
+Tue 3 Mar
+10:00
+14:35
+14:40
+14:45
+14:50
+14:55
+15:00
+15:05
+15:10
+15:15
+Tue 3 Mar
 Data is indicative
-10 Mins
+10 Secs
 
 Unlock full charts - 
 
 SELL
-24955.3
+24461.4
 BUY
-24957.3
-2
--24.8(-0.1%)
+24462.4
+1
+-519.2(-2.08%)
 
 High: 24989.7
 
-Low: 24935.3
+Low: 24331.7
 
 Long
 
 Short
 
-53%
+56%
 
-47%
+44%
 
-53% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,16 +89,14 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-Check Point Software Technologies Ltd	1.91%
-Microsoft Corp (24 Hours)	1.4%
 Viacom Inc - A	0.77%
-Gilead Sciences Inc (24 Hours)	0.67%
+Adobe Systems Inc (24 Hours)	0.19%
 	% Change
-Mattel Inc	-3.24%
-BioMarin Pharmaceutical Inc	-3.22%
-DENTSPLY International Inc	-2.52%
-Alphabet Inc - A (24 Hours)	-1.77%
-Alphabet Inc - C (24 Hours)	-1.69%
+Micron Technology Inc (24 Hours)	-6.77%
+Intel Corp (24 Hours)	-5.96%
+DENTSPLY International Inc	-5.07%
+Illumina Inc	-3.22%
+Mattel Inc	-2.99%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
