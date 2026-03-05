@@ -20,49 +20,45 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24887.0
-L 24742.0
-0.3
-0.00%
-Thu 5 Mar 2026 17:37 - Thu 5 Mar 2026 20:11
-24900.0
-24880.0
-24860.0
-24840.0
-24820.0
-24800.0
-24780.0
-24760.0
-24740.0
-24720.0
-24827.4
-Jan 2026
-Feb 2026
-Mon 9
-Mon 16
-Mon 23
-Mar 2026
-18:00
-18:30
-19:00
-19:30
-20:00
-Thu 5 Mar
+H 26256.9
+L 23830.0
+145.0
+0.58%
+Thu 2 Oct 2025 8:00 - Sat 21 Mar 2026 4:00
+26500.0
+26000.0
+25500.0
+25000.0
+24500.0
+24000.0
+23500.0
+24995.4
+2025
+May
+Jul
+Sep
+Nov
+2026
+Nov
+Dec
+Feb
+2025
+2026
 Data is indicative
-1 Min
+4 Hours
 
 Unlock full charts - 
 
 SELL
-24826.8
+24994.6
 BUY
-24827.8
-1
--257.7(-1.03%)
+24996.6
+2
+-15.5(-0.06%)
 
-High: 25208.3
+High: 25013.8
 
-Low: 24741.5
+Low: 24991.7
 
 Long
 
@@ -87,17 +83,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Adobe Systems Inc (24 Hours)	3.47%
-Check Point Software Technologies Ltd	3.41%
-TripAdvisor Inc	2.68%
+Check Point Software Technologies Ltd	4.06%
+Adobe Systems Inc (24 Hours)	3.17%
+TripAdvisor Inc	2.1%
 DISH Network Corp	1.94%
-PayPal Holdings Inc (24 Hours)	1.7%
+PayPal Holdings Inc (24 Hours)	1.86%
 	% Change
-Micron Technology Inc (24 Hours)	-3.83%
-Gilead Sciences Inc (24 Hours)	-2.73%
-DENTSPLY International Inc	-2.42%
-QUALCOMM Inc (24 Hours)	-2.28%
-Meta Platforms Inc (24 Hours)	-1.81%
+Gilead Sciences Inc (24 Hours)	-2.04%
+QUALCOMM Inc (24 Hours)	-1.86%
+Micron Technology Inc (24 Hours)	-1.07%
+Meta Platforms Inc (24 Hours)	-0.99%
+DENTSPLY International Inc	-0.86%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
