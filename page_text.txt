@@ -21,10 +21,10 @@ Open account
 US Tech 100
 .NDX
 H 26218.5
-L 23973.6
--377.2
--1.49%
-Fri 2 Jan 2026 - Tue 17 Mar 2026
+L 23830.0
+-122.7
+-0.49%
+Sat 15 Nov 2025 - Sun 22 Mar 2026
 26500.0
 26000.0
 25500.0
@@ -32,7 +32,7 @@ Fri 2 Jan 2026 - Tue 17 Mar 2026
 24500.0
 24000.0
 23500.0
-24910.4
+24927.9
 1990
 1998
 2002
@@ -41,8 +41,10 @@ Fri 2 Jan 2026 - Tue 17 Mar 2026
 2014
 2018
 2022
+Dec
 Feb
 Mar
+2025
 2026
 Data is indicative
 Daily
@@ -50,25 +52,25 @@ Daily
 Unlock full charts - 
 
 SELL
-24908.3
+24927.0
 BUY
-24909.3
-1
-272.0(1.1%)
+24929.0
+2
+-32.6(-0.13%)
 
-High: 25024.2
+High: 24996.3
 
-Low: 23972.6
+Low: 24874.9
 
 Long
 
 Short
 
-57%
+56%
 
-43%
+44%
 
-57% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.81%
-Micron Technology Inc (24 Hours)	4.6%
-Alphabet Inc - A (24 Hours)	2.16%
-Alphabet Inc - C (24 Hours)	2.1%
+Micron Technology Inc (24 Hours)	5.07%
+Intel Corp (24 Hours)	4.72%
+Alphabet Inc - A (24 Hours)	2.62%
+Alphabet Inc - C (24 Hours)	2.58%
 DISH Network Corp	1.94%
 	% Change
-Check Point Software Technologies Ltd	-2.54%
-PayPal Holdings Inc (24 Hours)	-1.66%
-Netflix Inc (24 Hours)	-1.2%
-BioMarin Pharmaceutical Inc	-0.97%
-Microsoft Corp (24 Hours)	-0.31%
+Check Point Software Technologies Ltd	-2.64%
+PayPal Holdings Inc (24 Hours)	-1.96%
+Netflix Inc (24 Hours)	-0.77%
+Adobe Systems Inc (24 Hours)	-0.56%
+BioMarin Pharmaceutical Inc	-0.39%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
