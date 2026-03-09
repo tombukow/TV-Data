@@ -20,56 +20,58 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24824.2
-L 24576.4
--135.5
--0.55%
-Fri 6 Mar 2026 18:52 - Fri 6 Mar 2026 21:12
-24850.0
+H 25443.2
+L 23973.6
+-623.7
+-2.47%
+Tue 10 Feb 2026 20:00 - Thu 12 Mar 2026 4:00
+25600.0
+25400.0
+25200.0
+25000.0
 24800.0
-24750.0
-24700.0
-24650.0
 24600.0
-24550.0
-24646.6
-Jan 2026
-Feb 2026
-Mon 9
+24400.0
+24200.0
+24000.0
+23800.0
+24587.3
+2025
+May
+Jul
+Sep
+Nov
+2026
 Mon 16
 Mon 23
+Mon 9
+Feb 2026
 Mar 2026
-19:00
-19:30
-20:00
-20:30
-21:00
-Fri 6 Mar
 Data is indicative
-2 Mins
+2 Hours
 
 Unlock full charts - 
 
 SELL
-24644.7
+24587.5
 BUY
-24645.7
+24588.5
 1
--365.9(-1.46%)
+-48.8(-0.2%)
 
-High: 25113.3
+High: 24654.6
 
-Low: 24575.9
+Low: 23972.6
 
 Long
 
 Short
 
-56%
+59%
 
-44%
+41%
 
-56% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,16 +87,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-BioMarin Pharmaceutical Inc	1.14%
+Micron Technology Inc (24 Hours)	0.93%
 Viacom Inc - A	0.77%
-Check Point Software Technologies Ltd	0.7%
-Adobe Systems Inc (24 Hours)	0.17%
+Gilead Sciences Inc (24 Hours)	0.46%
+Alphabet Inc - A (24 Hours)	0.29%
 	% Change
-Micron Technology Inc (24 Hours)	-7.14%
-Intel Corp (24 Hours)	-5.47%
-DENTSPLY International Inc	-4.46%
-Meta Platforms Inc (24 Hours)	-2.67%
-Illumina Inc	-2.6%
+PayPal Holdings Inc (24 Hours)	-3.06%
+Check Point Software Technologies Ltd	-2.39%
+DENTSPLY International Inc	-2.24%
+Netflix Inc (24 Hours)	-2.09%
+Meta Platforms Inc (24 Hours)	-1.6%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
