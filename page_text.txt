@@ -20,47 +20,40 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 26218.5
-L 23973.6
--850.2
--3.35%
-Thu 22 Jan 2026 - Wed 18 Mar 2026
-26500.0
-26000.0
-25500.0
-25000.0
-24500.0
-24000.0
-23500.0
-24563.1
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
+H 24714.7
+L 24541.0
+26.5
+0.11%
+Thu 12 Mar 2026 14:45 - Thu 12 Mar 2026 17:19
+24750.0
+24700.0
+24650.0
+24600.0
+24550.0
+24649.7
 Mon 26
-Mon 9
+Feb 2026
 Mon 16
 Mon 23
-Mon 9
-Mon 16
-Jan 2026
-Feb 2026
 Mar 2026
+Mon 9
+15:00
+15:30
+16:00
+16:30
+17:00
+Thu 12 Mar
 Data is indicative
-Daily
+1 Min
 
 Unlock full charts - 
 
 SELL
-24562.4
+24649.3
 BUY
-24563.4
+24650.3
 1
--397.8(-1.59%)
+-310.9(-1.25%)
 
 High: 24968.2
 
@@ -70,11 +63,11 @@ Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -90,15 +83,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-Check Point Software Technologies Ltd	1.55%
+Liberty Global PLC - A	1.52%
+Check Point Software Technologies Ltd	0.9%
 Viacom Inc - A	0.77%
-Liberty Global PLC - A	0.04%
+Gilead Sciences Inc (24 Hours)	0.1%
 	% Change
-Micron Technology Inc (24 Hours)	-4.51%
-Intel Corp (24 Hours)	-4.44%
-Apple Inc (24 Hours)	-2.34%
-Alphabet Inc - A (24 Hours)	-2.23%
-Alphabet Inc - C (24 Hours)	-2.21%
+Intel Corp (24 Hours)	-4.89%
+TripAdvisor Inc	-4.63%
+DENTSPLY International Inc	-4.6%
+Micron Technology Inc (24 Hours)	-2.98%
+Meta Platforms Inc (24 Hours)	-2.35%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
