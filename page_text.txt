@@ -20,55 +20,62 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25207.3
-L 23973.6
--79.3
--0.32%
-Tue 3 Mar 2026 6:00 - Wed 18 Mar 2026 2:00
-25400.0
-25200.0
+H 26256.9
+L 22979.3
+1177.2
+5.02%
+Thu 28 Aug 2025 - Wed 8 Apr 2026
+26500.0
+26000.0
+25500.0
 25000.0
-24800.0
-24600.0
-24400.0
-24200.0
+24500.0
 24000.0
-23800.0
-24649.0
-2025
-May
-Jul
-Sep
+23500.0
+23000.0
+22500.0
+24636.3
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Oct
 Nov
+Dec
+Feb
+Mar
+Apr
+2025
 2026
-Mon 9
-Mon 16
-Mar 2026
 Data is indicative
-1 Hour
+Daily
 
 Unlock full charts - 
 
 SELL
-24648.3
+24633.8
 BUY
-24649.3
-1
-270.5(1.11%)
+24638.8
+5
+-15.8(-0.06%)
 
-High: 24800.7
+High: 24669.1
 
-Low: 24280.4
+Low: 24627.1
 
 Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,16 +90,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	3.21%
-TripAdvisor Inc	3.08%
-Meta Platforms Inc (24 Hours)	2.24%
-Amazon.com Inc (24 Hours)	2.13%
+Micron Technology Inc (24 Hours)	4.59%
+TripAdvisor Inc	3.03%
 DISH Network Corp	1.94%
+Meta Platforms Inc (24 Hours)	1.9%
+Amazon.com Inc (24 Hours)	1.84%
 	% Change
-BioMarin Pharmaceutical Inc	-1.88%
-Mattel Inc	-1.71%
-Starbucks Corp (24 Hours)	-1.58%
-Check Point Software Technologies Ltd	-0.68%
+Mattel Inc	-1.87%
+BioMarin Pharmaceutical Inc	-1.85%
+Starbucks Corp (24 Hours)	-1.41%
+Check Point Software Technologies Ltd	-0.53%
 QUALCOMM Inc (24 Hours)	-0.27%
 Discover opportunity in-platform
 
