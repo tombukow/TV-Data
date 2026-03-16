@@ -20,41 +20,45 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24747.2
-L 24539.5
-166.9
-0.68%
-Mon 16 Mar 2026 10:25 - Mon 16 Mar 2026 16:15
-24750.0
+H 24723.0
+L 24603.6
+-22.8
+-0.09%
+Mon 16 Mar 2026 15:28 - Mon 16 Mar 2026 17:18
+24740.0
+24720.0
 24700.0
-24650.0
+24680.0
+24660.0
+24640.0
+24620.0
 24600.0
-24550.0
-24709.2
-2025
-May
-Jul
-Sep
-Nov
-2026
-11:00
-12:00
-13:00
-14:00
-15:00
+24685.4
+Mon 26
+Feb 2026
+Mon 16
+Mon 23
+Mar 2026
+Mon 9
+15:45
 16:00
+16:15
+16:30
+16:45
+17:00
+17:15
 Mon 16 Mar
 Data is indicative
-5 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-24708.7
+24684.2
 BUY
-24709.7
+24685.2
 1
-330.9(1.36%)
+306.4(1.26%)
 
 High: 24747.7
 
@@ -83,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	5.57%
-Micron Technology Inc (24 Hours)	5.36%
-TripAdvisor Inc	3.73%
-Meta Platforms Inc (24 Hours)	2.51%
-PayPal Holdings Inc (24 Hours)	2.12%
+Micron Technology Inc (24 Hours)	5.48%
+Intel Corp (24 Hours)	4.51%
+TripAdvisor Inc	3.08%
+Adobe Systems Inc (24 Hours)	2.44%
+Meta Platforms Inc (24 Hours)	1.96%
 	% Change
-BioMarin Pharmaceutical Inc	-1.62%
-Mattel Inc	-0.59%
-Illumina Inc	-0.46%
-Check Point Software Technologies Ltd	-0.22%
-Liberty Global PLC - A	-0.04%
+BioMarin Pharmaceutical Inc	-1.59%
+Mattel Inc	-1.03%
+Starbucks Corp (24 Hours)	-0.39%
+Check Point Software Technologies Ltd	-0.37%
+Gilead Sciences Inc (24 Hours)	-0.35%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
