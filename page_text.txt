@@ -22,9 +22,9 @@ US Tech 100
 .NDX
 H 26218.5
 L 23973.6
--953.0
--3.70%
-Sat 10 Jan 2026 - Wed 25 Mar 2026
+-639.1
+-2.51%
+Mon 26 Jan 2026 0:00 - Mon 23 Mar 2026 0:00
 26500.0
 26000.0
 25500.0
@@ -32,43 +32,47 @@ Sat 10 Jan 2026 - Wed 25 Mar 2026
 24500.0
 24000.0
 23500.0
-24810.6
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Feb
-Mar
+24786.2
+2025
+May
+Jul
+Sep
+Nov
 2026
+Mon 9
+Mon 16
+Mon 23
+Mon 9
+Mon 16
+Mon 23
+Jan 2026
+Feb 2026
+Mar 2026
 Data is indicative
-Daily
+4 Hours
 
 Unlock full charts - 
 
 SELL
-24810.1
+24783.7
 BUY
-24811.1
-1
-158.5(0.64%)
+24788.7
+5
+11.0(0.04%)
 
-High: 24880.8
+High: 24797.7
 
-Low: 24501.1
+Low: 24771.4
 
 Long
 
 Short
 
-57%
+56%
 
-43%
+44%
 
-57% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	4.39%
-Micron Technology Inc (24 Hours)	3.6%
-Illumina Inc	2.52%
-PayPal Holdings Inc (24 Hours)	2.43%
+Micron Technology Inc (24 Hours)	5.03%
+DENTSPLY International Inc	4.18%
+PayPal Holdings Inc (24 Hours)	1.96%
 DISH Network Corp	1.94%
+QUALCOMM Inc (24 Hours)	1.92%
 	% Change
-Intel Corp (24 Hours)	-3.23%
-Meta Platforms Inc (24 Hours)	-0.31%
-Gilead Sciences Inc (24 Hours)	-0.21%
-Microsoft Corp (24 Hours)	-0.18%
-Netflix Inc (24 Hours)	-0.17%
+Intel Corp (24 Hours)	-3.5%
+BioMarin Pharmaceutical Inc	-2.4%
+Netflix Inc (24 Hours)	-0.85%
+Meta Platforms Inc (24 Hours)	-0.68%
+Gilead Sciences Inc (24 Hours)	-0.56%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
