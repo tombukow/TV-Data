@@ -20,42 +20,43 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24803.4
-L 24582.9
--186.1
--0.75%
-Wed 18 Mar 2026 12:25 - Wed 18 Mar 2026 17:45
-24850.0
+H 25351.1
+L 23973.6
+-722.4
+-2.85%
+Thu 26 Feb 2026 14:00 - Fri 20 Mar 2026 16:00
+25600.0
+25400.0
+25200.0
+25000.0
 24800.0
-24750.0
-24700.0
-24650.0
 24600.0
-24550.0
-24602.9
+24400.0
+24200.0
+24000.0
+23800.0
+24614.6
 2025
 May
 Jul
 Sep
 Nov
 2026
-13:00
-14:00
-15:00
-16:00
-17:00
-Wed 18 Mar
+Mon 9
+Mon 16
+Feb 2026
+Mar 2026
 Data is indicative
-5 Mins
+2 Hours
 
 Unlock full charts - 
 
 SELL
-24602.5
+24614.1
 BUY
-24603.5
+24615.1
 1
--172.2(-0.7%)
+-160.6(-0.65%)
 
 High: 24979.6
 
@@ -65,11 +66,11 @@ Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -84,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	2.2%
+Intel Corp (24 Hours)	2.97%
 DISH Network Corp	1.94%
-Illumina Inc	1.6%
-Micron Technology Inc (24 Hours)	1.01%
+Illumina Inc	1.87%
+Micron Technology Inc (24 Hours)	1.42%
 Viacom Inc - A	0.79%
 	% Change
-DENTSPLY International Inc	-3.81%
-Mattel Inc	-3.03%
-PayPal Holdings Inc (24 Hours)	-2.79%
-Starbucks Corp (24 Hours)	-2.31%
-Adobe Systems Inc (24 Hours)	-2.31%
+DENTSPLY International Inc	-3.64%
+Mattel Inc	-3.63%
+Starbucks Corp (24 Hours)	-3.02%
+Adobe Systems Inc (24 Hours)	-3.01%
+PayPal Holdings Inc (24 Hours)	-2.96%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
