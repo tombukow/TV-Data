@@ -20,62 +20,58 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24088.2
-L 23955.9
--63.9
--0.27%
-Fri 20 Mar 2026 16:47 - Fri 20 Mar 2026 18:12
-24100.0
-24080.0
-24060.0
-24040.0
-24020.0
-24000.0
-23980.0
-23960.0
-23940.0
-23991.6
-Feb 2026
-Mon 16
-Mon 23
-Mar 2026
-Mon 9
-Mon 16
-16:50
-17:00
-17:10
-17:20
-17:30
-17:40
-17:50
+H 23801.4
+L 23757.6
+-26.0
+-0.11%
+Fri 20 Mar 2026 19:36:10 - Fri 20 Mar 2026 19:39:00
+23800.0
+23790.0
+23780.0
+23770.0
+23760.0
+23750.0
+23773.9
+Tue 17 Mar
+6:00
+15:00
+Thu 19 Mar
+9:00
 18:00
-18:10
+Fri 20 Mar
+12:00
+19:36:30
+19:37:00
+19:37:30
+19:38:00
+19:38:30
+19:39:00
 Fri 20 Mar
 Data is indicative
-1 Min
+10 Secs
 
 Unlock full charts - 
 
 SELL
-23989.5
+23773.9
 BUY
-23990.5
+23774.9
 1
--364.3(-1.5%)
+-579.8(-2.38%)
 
 High: 24448.5
 
-Low: 23955.4
+Low: 23757.1
 
 Long
 
 Short
 
-59%
+60%
 
-41%
+40%
 
-59% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,15 +87,15 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
+Adobe Systems Inc (24 Hours)	1.05%
 Viacom Inc - A	0.79%
-Adobe Systems Inc (24 Hours)	0.71%
-TripAdvisor Inc	0.59%
+TripAdvisor Inc	0.05%
 	% Change
-Micron Technology Inc (24 Hours)	-5.13%
-Intel Corp (24 Hours)	-3.75%
-Starbucks Corp (24 Hours)	-2.98%
-DENTSPLY International Inc	-2.35%
-Alphabet Inc - A (24 Hours)	-2.2%
+Micron Technology Inc (24 Hours)	-6.39%
+Intel Corp (24 Hours)	-5.29%
+DENTSPLY International Inc	-3.24%
+Starbucks Corp (24 Hours)	-3.03%
+Meta Platforms Inc (24 Hours)	-2.66%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
