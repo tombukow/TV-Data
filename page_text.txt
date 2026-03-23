@@ -20,43 +20,41 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 26218.5
-L 23559.8
--969.3
--3.85%
-Sat 13 Dec 2025 - Fri 3 Apr 2026
-26500.0
-26000.0
-25500.0
-25000.0
-24500.0
+H 24548.6
+L 23602.6
+615.5
+2.60%
+Mon 23 Mar 2026 10:30 - Mon 23 Mar 2026 21:10
+24600.0
+24400.0
+24200.0
 24000.0
-23500.0
-24239.7
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Feb
-Mar
-Apr
+23800.0
+23600.0
+24254.9
 2025
+May
+Jul
+Sep
+Nov
 2026
+12:00
+14:00
+16:00
+18:00
+20:00
+Mon 23 Mar
 Data is indicative
-Daily
+10 Mins
 
 Unlock full charts - 
 
 SELL
-24239.4
+24254.4
 BUY
-24240.4
+24255.4
 1
-346.0(1.45%)
+361.0(1.51%)
 
 High: 24549.6
 
@@ -66,11 +64,11 @@ Long
 
 Short
 
-61%
+60%
 
-39%
+40%
 
-61% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,15 +83,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-TripAdvisor Inc	6.47%
-DENTSPLY International Inc	4.61%
-PayPal Holdings Inc (24 Hours)	3.27%
-Amazon.com Inc (24 Hours)	2.85%
-Liberty Global PLC - A	2.78%
+TripAdvisor Inc	7.65%
+DENTSPLY International Inc	5.71%
+PayPal Holdings Inc (24 Hours)	3.52%
+Liberty Global PLC - A	3.29%
+Amazon.com Inc (24 Hours)	2.71%
 	% Change
-Micron Technology Inc (24 Hours)	-3.96%
-QUALCOMM Inc (24 Hours)	-1.25%
-Illumina Inc	-0.56%
+Micron Technology Inc (24 Hours)	-3.85%
+QUALCOMM Inc (24 Hours)	-0.91%
+Check Point Software Technologies Ltd	-0.24%
+Adobe Systems Inc (24 Hours)	-0.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
