@@ -20,64 +20,54 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24475.9
-L 24091.3
--96.3
--0.40%
-Mon 23 Mar 2026 12:27 - Mon 23 Mar 2026 22:09
+H 26218.5
+L 23559.8
+-1326.4
+-5.21%
+Tue 6 Jan 2026 8:00 - Wed 1 Apr 2026 4:00
+26500.0
+26000.0
+25500.0
+25000.0
 24500.0
-24450.0
-24400.0
-24350.0
-24300.0
-24250.0
-24200.0
-24150.0
-24100.0
-24050.0
-24195.6
-Feb 2026
-Mon 16
-Mon 23
-Mar 2026
-Mon 9
-Mon 16
-13:00
-14:00
-15:00
-16:00
-17:00
-18:00
-19:00
-20:00
-21:00
-22:00
-Mon 23 Mar
+24000.0
+23500.0
+24138.7
+2025
+May
+Jul
+Sep
+Nov
+2026
+Feb
+Mar
+Apr
+2026
 Data is indicative
-3 Mins
+4 Hours
 
 Unlock full charts - 
 
 SELL
-24193.1
+24138.6
 BUY
-24198.1
-5
-13.8(0.06%)
+24139.6
+1
+-42.7(-0.18%)
 
-High: 24217.0
+High: 24291.7
 
-Low: 24140.5
+Low: 23919.4
 
 Long
 
 Short
 
-60%
+61%
 
-40%
+39%
 
-60% of client accounts are long on this market 
+61% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -92,17 +82,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-TripAdvisor Inc	7.38%
-DENTSPLY International Inc	5.39%
-Liberty Global PLC - A	3.34%
-PayPal Holdings Inc (24 Hours)	3.09%
-Amazon.com Inc (24 Hours)	2.44%
+DISH Network Corp	1.94%
+Liberty Global PLC - A	1.78%
+Illumina Inc	1.36%
+DENTSPLY International Inc	1.08%
+Apple Inc (24 Hours)	0.94%
 	% Change
-Micron Technology Inc (24 Hours)	-4.3%
-QUALCOMM Inc (24 Hours)	-1.15%
-Check Point Software Technologies Ltd	-0.97%
-Illumina Inc	-0.43%
-Adobe Systems Inc (24 Hours)	-0.31%
+Adobe Systems Inc (24 Hours)	-3.43%
+Check Point Software Technologies Ltd	-3.15%
+TripAdvisor Inc	-3.09%
+Microsoft Corp (24 Hours)	-2.5%
+Micron Technology Inc (24 Hours)	-2.39%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
