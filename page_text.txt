@@ -20,60 +20,59 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24099.6
-L 23990.8
--100.1
--0.42%
-Tue 24 Mar 2026 19:16:20 - Tue 24 Mar 2026 19:59:30
+H 24268.7
+L 24076.7
+-127.8
+-0.53%
+Wed 25 Mar 2026 15:05:20 - Wed 25 Mar 2026 15:48:30
+24300.0
+24250.0
+24200.0
+24150.0
 24100.0
-24080.0
-24060.0
-24040.0
-24020.0
-24000.0
-23980.0
-23994.5
+24050.0
+24140.1
 Sun 22 Mar
-4:00
-10:00
-16:00
-22:00
+6:00
+15:00
 Tue 24 Mar
-10:00
-19:20
-19:25
-19:30
-19:35
-19:40
-19:45
-19:50
-19:55
-Tue 24 Mar
+9:00
+18:00
+Wed 25 Mar
+15:10
+15:15
+15:20
+15:25
+15:30
+15:35
+15:40
+15:45
+Wed 25 Mar
 Data is indicative
 10 Secs
 
 Unlock full charts - 
 
 SELL
-23993.8
+24138.7
 BUY
-23994.8
+24139.7
 1
--187.5(-0.78%)
+133.0(0.55%)
 
-High: 24291.7
+High: 24336.6
 
-Low: 23919.4
+Low: 24000.8
 
 Long
 
 Short
 
-61%
+62%
 
-39%
+38%
 
-61% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+Intel Corp (24 Hours)	7.72%
+QUALCOMM Inc (24 Hours)	2.21%
+BioMarin Pharmaceutical Inc	1.96%
 DISH Network Corp	1.94%
-Illumina Inc	1.7%
-Liberty Global PLC - A	1.03%
-Viacom Inc - A	0.79%
-QUALCOMM Inc (24 Hours)	0.14%
+Amazon.com Inc (24 Hours)	1.92%
 	% Change
-Check Point Software Technologies Ltd	-4.47%
-Alphabet Inc - A (24 Hours)	-3.65%
-Adobe Systems Inc (24 Hours)	-3.56%
-TripAdvisor Inc	-3.14%
-Alphabet Inc - C (24 Hours)	-3.1%
+Micron Technology Inc (24 Hours)	-4.65%
+Mattel Inc	-1.71%
+TripAdvisor Inc	-1.7%
+Illumina Inc	-1.27%
+Adobe Systems Inc (24 Hours)	-0.6%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
