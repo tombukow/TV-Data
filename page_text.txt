@@ -20,57 +20,57 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25189.8
-L 23559.8
--881.0
--3.56%
-Fri 6 Mar 2026 20:00 - Sat 28 Mar 2026 8:00
-25400.0
-25200.0
-25000.0
-24800.0
-24600.0
-24400.0
+H 24213.8
+L 23768.9
+-347.0
+-1.44%
+Wed 25 Mar 2026 22:05 - Thu 26 Mar 2026 19:40
 24200.0
+24100.0
 24000.0
+23900.0
 23800.0
-23600.0
-23400.0
-23898.3
+23700.0
+23794.2
 2025
 May
 Jul
 Sep
 Nov
 2026
-Mon 16
-Mon 23
-Mar 2026
+3:00
+6:00
+9:00
+12:00
+15:00
+18:00
+Wed 25 Mar
+Thu 26 Mar
 Data is indicative
-4 Hours
+5 Mins
 
 Unlock full charts - 
 
 SELL
-23898.1
+23793.6
 BUY
-23899.1
+23794.6
 1
--262.6(-1.09%)
+-367.1(-1.52%)
 
 High: 24214.8
 
-Low: 23831.7
+Low: 23768.4
 
 Long
 
 Short
 
-62%
+63%
 
-38%
+37%
 
-62% of client accounts are long on this market 
+63% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-TripAdvisor Inc	4.26%
-DENTSPLY International Inc	2.61%
-Adobe Systems Inc (24 Hours)	2.27%
+TripAdvisor Inc	4.99%
 DISH Network Corp	1.94%
-PayPal Holdings Inc (24 Hours)	1.81%
+Apple Inc (24 Hours)	1.43%
+Adobe Systems Inc (24 Hours)	1.32%
+DENTSPLY International Inc	0.98%
 	% Change
-Meta Platforms Inc (24 Hours)	-5.88%
-Intel Corp (24 Hours)	-4.71%
-Micron Technology Inc (24 Hours)	-4.64%
-Alphabet Inc - A (24 Hours)	-2.04%
-Alphabet Inc - C (24 Hours)	-1.88%
+Meta Platforms Inc (24 Hours)	-7.3%
+Micron Technology Inc (24 Hours)	-5.46%
+Intel Corp (24 Hours)	-5.3%
+Alphabet Inc - A (24 Hours)	-2.43%
+Alphabet Inc - C (24 Hours)	-2.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
