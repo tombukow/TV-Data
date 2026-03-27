@@ -20,59 +20,59 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 23209.9
-L 23117.7
--40.8
--0.18%
-Fri 27 Mar 2026 18:17 - Fri 27 Mar 2026 19:53
-23220.0
+H 24213.8
+L 23048.4
+-1083.4
+-4.49%
+Thu 26 Mar 2026 2:00 - Sat 28 Mar 2026 2:30
+24400.0
+24200.0
+24000.0
+23800.0
+23600.0
+23400.0
 23200.0
-23180.0
-23160.0
-23140.0
-23120.0
-23122.3
-Feb 2026
-Mon 23
-Mar 2026
-Mon 9
-Mon 16
-Mon 23
-18:30
-18:40
-18:50
-19:00
-19:10
-19:20
-19:30
-19:40
-19:50
+23000.0
+23069.5
+2025
+May
+Jul
+Sep
+Nov
+2026
+6:00
+12:00
+18:00
+6:00
+12:00
+18:00
+Thu 26 Mar
 Fri 27 Mar
+Sat 28 Mar
 Data is indicative
-1 Min
+15 Mins
 
 Unlock full charts - 
 
 SELL
-23121.1
+23064.4
 BUY
-23122.1
-1
--470.5(-1.99%)
+23069.4
+-59.4(-0.26%)
 
-High: 23825.5
+High: 23148.0
 
-Low: 23117.2
+Low: 23047.4
 
 Long
 
 Short
 
-64%
+63%
 
-36%
+37%
 
-64% of client accounts are long on this market 
+63% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +87,15 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-TripAdvisor Inc	1.96%
 DISH Network Corp	1.94%
+TripAdvisor Inc	1.61%
 Viacom Inc - A	0.79%
-Micron Technology Inc (24 Hours)	0.44%
-Netflix Inc (24 Hours)	0.1%
 	% Change
-Illumina Inc	-5.85%
-Starbucks Corp (24 Hours)	-4.71%
-Meta Platforms Inc (24 Hours)	-3.92%
-Amazon.com Inc (24 Hours)	-3.63%
-Check Point Software Technologies Ltd	-3.1%
+Illumina Inc	-5.41%
+Starbucks Corp (24 Hours)	-4.9%
+Meta Platforms Inc (24 Hours)	-4.14%
+Amazon.com Inc (24 Hours)	-4.06%
+PayPal Holdings Inc (24 Hours)	-3.85%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
