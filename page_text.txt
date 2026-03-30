@@ -20,47 +20,52 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 23248.0
-L 22984.5
--139.2
--0.60%
-Mon 30 Mar 2026 16:22 - Mon 30 Mar 2026 19:36
-23250.0
-23200.0
-23150.0
-23100.0
-23050.0
-23000.0
-22950.0
-22994.9
-Feb 2026
-Mar 2026
-Mon 9
-Mon 16
-Mon 23
-16:30
-17:00
-17:30
-18:00
-18:30
-19:00
-19:30
-Mon 30 Mar
+H 26256.9
+L 16325.0
+4426.4
+23.86%
+Mon 20 May 2024 - Mon 29 Jun 2026
+28000.0
+26000.0
+24000.0
+22000.0
+20000.0
+18000.0
+16000.0
+22979.6
+1990
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+Jul
+Oct
+Apr
+Jul
+Oct
+Apr
+Jul
+2024
+2025
+2026
 Data is indicative
-1 Min
+Weekly
 
 Unlock full charts - 
 
 SELL
-22994.9
+22980.4
 BUY
-22995.9
+22981.4
 1
--130.9(-0.57%)
+-145.4(-0.63%)
 
 High: 23389.8
 
-Low: 22912.1
+Low: 22839.7
 
 Long
 
@@ -85,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	3.05%
-Adobe Systems Inc (24 Hours)	2.49%
-Meta Platforms Inc (24 Hours)	2.19%
-PayPal Holdings Inc (24 Hours)	2.03%
-Liberty Global PLC - A	1.96%
+Adobe Systems Inc (24 Hours)	2.64%
+Illumina Inc	2.64%
+TripAdvisor Inc	2.62%
+PayPal Holdings Inc (24 Hours)	2.39%
+DISH Network Corp	1.94%
 	% Change
-Micron Technology Inc (24 Hours)	-8.64%
-Intel Corp (24 Hours)	-4.37%
-DENTSPLY International Inc	-3.01%
-Apple Inc (24 Hours)	-0.73%
-Starbucks Corp (24 Hours)	-0.59%
+Micron Technology Inc (24 Hours)	-9.69%
+Intel Corp (24 Hours)	-4.74%
+DENTSPLY International Inc	-2.57%
+Mattel Inc	-1.15%
+Apple Inc (24 Hours)	-0.98%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
