@@ -20,41 +20,45 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 23714.4
-L 22780.2
--97.5
--0.41%
-Fri 27 Mar 2026 7:00 - Wed 1 Apr 2026 1:45
-23800.0
+H 23644.4
+L 23562.6
+9.4
+0.04%
+Tue 31 Mar 2026 18:54:30 - Tue 31 Mar 2026 19:15:50
+23640.0
+23620.0
 23600.0
-23400.0
-23200.0
-23000.0
-22800.0
-23616.7
-2025
-Jun
-Aug
-Oct
-Dec
-2026
-Mon 30
-Tue 31
-Mar 2026
-Apr 2026
+23580.0
+23560.0
+23611.1
+Sun 29 Mar
+4:00
+10:00
+16:00
+22:00
+Tue 31 Mar
+10:00
+18:57
+19:00
+19:03
+19:06
+19:09
+19:12
+19:15
+Tue 31 Mar
 Data is indicative
-15 Mins
+10 Secs
 
 Unlock full charts - 
 
 SELL
-23613.5
+23609.6
 BUY
-23614.5
+23610.6
 1
-662.4(2.89%)
+658.5(2.87%)
 
-High: 23672.7
+High: 23691.3
 
 Low: 22779.2
 
@@ -62,11 +66,11 @@ Long
 
 Short
 
-64%
+63%
 
-36%
+37%
 
-64% of client accounts are long on this market 
+63% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -81,11 +85,11 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Meta Platforms Inc (24 Hours)	5.45%
-Intel Corp (24 Hours)	5.26%
-Alphabet Inc - A (24 Hours)	4.15%
-Alphabet Inc - C (24 Hours)	3.91%
-Amazon.com Inc (24 Hours)	3.58%
+Meta Platforms Inc (24 Hours)	6.07%
+Intel Corp (24 Hours)	5.51%
+Alphabet Inc - A (24 Hours)	4.98%
+Alphabet Inc - C (24 Hours)	4.41%
+Amazon.com Inc (24 Hours)	3.74%
 	% Change
 Discover opportunity in-platform
 
