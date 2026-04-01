@@ -20,46 +20,51 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24145.8
-L 23684.4
-432.6
-1.83%
-Tue 31 Mar 2026 20:30 - Wed 1 Apr 2026 20:30
+H 24162.7
+L 22780.2
+1043.3
+4.53%
+Mon 30 Mar 2026 18:30 - Thu 2 Apr 2026 1:30
+24400.0
 24200.0
-24100.0
 24000.0
-23900.0
 23800.0
-23700.0
 23600.0
-24133.3
+23400.0
+23200.0
+23000.0
+22800.0
+22600.0
+24056.0
 2025
 Jun
 Aug
 Oct
 Dec
 2026
-3:00
 6:00
-9:00
 12:00
-15:00
 18:00
+6:00
+12:00
+18:00
+Mon 30 Mar
 Tue 31 Mar
 Wed 1 Apr
+Thu 2 Apr
 Data is indicative
-15 Mins
+30 Mins
 
 Unlock full charts - 
 
 SELL
-24132.8
+24055.8
 BUY
-24133.8
+24056.8
 1
-405.3(1.71%)
+328.3(1.38%)
 
-High: 24146.3
+High: 24163.2
 
 Low: 23683.4
 
@@ -67,11 +72,11 @@ Long
 
 Short
 
-61%
+60%
 
-39%
+40%
 
-61% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -86,16 +91,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	10.97%
-Intel Corp (24 Hours)	9.22%
-Alphabet Inc - A (24 Hours)	4.14%
-Illumina Inc	3.4%
-Alphabet Inc - C (24 Hours)	3.39%
+Micron Technology Inc (24 Hours)	9.66%
+Intel Corp (24 Hours)	9.26%
+Alphabet Inc - A (24 Hours)	3.78%
+Illumina Inc	3.44%
+Alphabet Inc - C (24 Hours)	3.12%
 	% Change
-PayPal Holdings Inc (24 Hours)	-0.93%
-Netflix Inc (24 Hours)	-0.43%
-Mattel Inc	-0.24%
-Adobe Systems Inc (24 Hours)	-0.04%
+PayPal Holdings Inc (24 Hours)	-0.88%
+Netflix Inc (24 Hours)	-0.61%
+Adobe Systems Inc (24 Hours)	-0.37%
+QUALCOMM Inc (24 Hours)	-0.34%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
