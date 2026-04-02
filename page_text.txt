@@ -20,51 +20,47 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24162.7
-L 23491.5
--50.1
--0.21%
-Wed 1 Apr 2026 16:30 - Fri 3 Apr 2026 0:30
-24200.0
-24100.0
+H 25443.2
+L 22780.2
+-740.7
+-2.99%
+Mon 23 Feb 2026 6:00 - Mon 6 Apr 2026 18:00
+25500.0
+25000.0
+24500.0
 24000.0
-23900.0
-23800.0
-23700.0
-23600.0
 23500.0
-23400.0
-24013.5
+23000.0
+22500.0
+24040.4
 2025
 Jun
 Aug
 Oct
 Dec
 2026
-20:00
-4:00
-8:00
-12:00
-16:00
-20:00
-Wed 1 Apr
-Thu 2 Apr
-Fri 3 Apr
+Mon 9
+Mon 16
+Mon 23
+Mon 6
+Feb 2026
+Mar 2026
+Apr 2026
 Data is indicative
-15 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-24013.8
+24037.9
 BUY
-24014.8
-1
--4.6(-0.02%)
+24042.9
+5
+-7.9(-0.03%)
 
-High: 24089.5
+High: 24060.2
 
-Low: 23490.5
+Low: 24024.6
 
 Long
 
@@ -89,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.54%
-Netflix Inc (24 Hours)	2.41%
+Intel Corp (24 Hours)	4.68%
+Netflix Inc (24 Hours)	2.98%
 DISH Network Corp	1.94%
-PayPal Holdings Inc (24 Hours)	1.39%
-Liberty Global PLC - A	1.19%
+Check Point Software Technologies Ltd	1.69%
+PayPal Holdings Inc (24 Hours)	1.43%
 	% Change
-BioMarin Pharmaceutical Inc	-3.22%
-Mattel Inc	-1.13%
-Meta Platforms Inc (24 Hours)	-0.89%
-Gilead Sciences Inc (24 Hours)	-0.84%
-Alphabet Inc - A (24 Hours)	-0.78%
+BioMarin Pharmaceutical Inc	-3.04%
+Mattel Inc	-1.37%
+Meta Platforms Inc (24 Hours)	-0.72%
+Micron Technology Inc (24 Hours)	-0.69%
+Amazon.com Inc (24 Hours)	-0.44%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
