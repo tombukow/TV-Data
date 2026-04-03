@@ -20,11 +20,11 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24079.0
+H 24081.4
 L 23931.9
--70.8
--0.29%
-Fri 3 Apr 2026 2:50 - Fri 3 Apr 2026 15:47
+-77.6
+-0.32%
+Thu 2 Apr 2026 21:15 - Fri 3 Apr 2026 16:30
 24100.0
 24080.0
 24060.0
@@ -36,21 +36,25 @@ Fri 3 Apr 2026 2:50 - Fri 3 Apr 2026 15:47
 23940.0
 23920.0
 23960.5
-Feb 2026
-Mar 2026
-Mon 9
-Mon 16
-Mon 23
-Mon 30
+2025
+Jun
+Aug
+Oct
+Dec
+2026
+22:00
+2:00
 4:00
 6:00
 8:00
 10:00
 12:00
 14:00
+16:00
+Thu 2 Apr
 Fri 3 Apr
 Data is indicative
-1 Min
+15 Mins
 
 Unlock full charts - 
 
