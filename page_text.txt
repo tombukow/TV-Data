@@ -20,47 +20,41 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25443.2
+H 24548.6
 L 22780.2
--740.7
--2.99%
-Mon 23 Feb 2026 6:00 - Mon 6 Apr 2026 18:00
-25500.0
-25000.0
+-414.1
+-1.70%
+Thu 19 Mar 2026 6:00 - Sun 5 Apr 2026 2:00
 24500.0
 24000.0
 23500.0
 23000.0
 22500.0
-24040.4
+23960.5
 2025
 Jun
 Aug
 Oct
 Dec
 2026
-Mon 9
-Mon 16
 Mon 23
-Mon 6
-Feb 2026
+Mon 30
 Mar 2026
 Apr 2026
 Data is indicative
-1 Hour
+2 Hours
 
 Unlock full charts - 
 
 SELL
-24037.9
+23958.1
 BUY
-24042.9
-5
--7.9(-0.03%)
+23963.1
+-87.7(-0.36%)
 
-High: 24060.2
+High: 24082.4
 
-Low: 24024.6
+Low: 23930.9
 
 Long
 
@@ -85,17 +79,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.68%
-Netflix Inc (24 Hours)	2.98%
+Intel Corp (24 Hours)	4.71%
+Netflix Inc (24 Hours)	2.88%
 DISH Network Corp	1.94%
 Check Point Software Technologies Ltd	1.69%
 PayPal Holdings Inc (24 Hours)	1.43%
 	% Change
 BioMarin Pharmaceutical Inc	-3.04%
 Mattel Inc	-1.37%
-Meta Platforms Inc (24 Hours)	-0.72%
-Micron Technology Inc (24 Hours)	-0.69%
-Amazon.com Inc (24 Hours)	-0.44%
+Meta Platforms Inc (24 Hours)	-0.79%
+Micron Technology Inc (24 Hours)	-0.75%
+Gilead Sciences Inc (24 Hours)	-0.43%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -128,10 +122,6 @@ Monday, 16 February 2026 • 03:44
 Dow Jones hits 50,000 as Japan's Takaichi landslide further boosts sentiment
 
 Monday, 9 February 2026 • 03:18
-
-US equities: Fed chair drama triggers volatility as markets eye January payrolls
-
-Monday, 2 February 2026 • 03:11
 
 Find your next indices trade
 
