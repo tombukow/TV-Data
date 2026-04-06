@@ -20,54 +20,59 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24162.7
-L 23491.5
-153.4
-0.64%
-Wed 1 Apr 2026 5:10 - Fri 3 Apr 2026 21:55
+H 24279.2
+L 23809.3
+78.6
+0.33%
+Thu 2 Apr 2026 21:30 - Mon 6 Apr 2026 20:30
+24300.0
 24200.0
 24100.0
 24000.0
 23900.0
 23800.0
-23700.0
-23600.0
-23500.0
-23400.0
-23960.5
+24130.4
 2025
 Jun
 Aug
 Oct
 Dec
 2026
-Thu 2
-Fri 3
-Apr 2026
+4:00
+8:00
+4:00
+8:00
+12:00
+16:00
+20:00
+Thu 2 Apr
+Fri 3 Apr
+Mon 6 Apr
 Data is indicative
-5 Mins
+15 Mins
 
 Unlock full charts - 
 
 SELL
-23958.1
+24129.3
 BUY
-23963.1
-0.0(-0%)
+24130.3
+1
+169.2(0.71%)
 
-High: 23963.1
+High: 24279.7
 
-Low: 23958.1
+Low: 23808.3
 
 Long
 
 Short
 
-59%
+53%
 
-41%
+47%
 
-59% of client accounts are long on this market 
+53% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -82,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.71%
-Netflix Inc (24 Hours)	2.88%
+Micron Technology Inc (24 Hours)	3.79%
+Starbucks Corp (24 Hours)	3.36%
+Liberty Global PLC - A	2.9%
 DISH Network Corp	1.94%
-Check Point Software Technologies Ltd	1.69%
-PayPal Holdings Inc (24 Hours)	1.43%
+Apple Inc (24 Hours)	1.63%
 	% Change
-BioMarin Pharmaceutical Inc	-3.04%
-Mattel Inc	-1.37%
-Meta Platforms Inc (24 Hours)	-0.79%
-Micron Technology Inc (24 Hours)	-0.75%
-Gilead Sciences Inc (24 Hours)	-0.43%
+Check Point Software Technologies Ltd	-0.58%
+DENTSPLY International Inc	-0.39%
+Microsoft Corp (24 Hours)	-0.34%
+Mattel Inc	-0.1%
+QUALCOMM Inc (24 Hours)	-0.06%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
