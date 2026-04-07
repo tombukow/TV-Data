@@ -20,48 +20,45 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24073.1
-L 23792.9
-263.1
-1.11%
-Tue 7 Apr 2026 16:09:30 - Tue 7 Apr 2026 18:19:00
+H 24251.3
+L 23776.0
+-83.0
+-0.34%
+Tue 7 Apr 2026 2:24 - Tue 7 Apr 2026 21:48
+24300.0
+24200.0
 24100.0
-24050.0
 24000.0
-23950.0
 23900.0
-23850.0
 23800.0
-23750.0
-24059.9
-Sun 5 Apr
+23700.0
+24017.9
+Mon 23
+Mar 2026
+Mon 16
+Mon 23
+Mon 30
 4:00
+6:00
+8:00
 10:00
+12:00
+14:00
 16:00
-22:00
-Tue 7 Apr
-10:00
-16:15
-16:30
-16:45
-17:00
-17:15
-17:30
-17:45
 18:00
-18:15
+20:00
 Tue 7 Apr
 Data is indicative
-10 Secs
+3 Mins
 
 Unlock full charts - 
 
 SELL
-24059.0
+24017.6
 BUY
-24060.0
+24018.6
 1
--133.1(-0.55%)
+-174.5(-0.72%)
 
 High: 24252.3
 
@@ -71,11 +68,11 @@ Long
 
 Short
 
-55%
+54%
 
-45%
+46%
 
-55% of client accounts are long on this market 
+54% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -90,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.08%
+Intel Corp (24 Hours)	2.84%
 DISH Network Corp	1.94%
-TripAdvisor Inc	1.61%
-Alphabet Inc - C (24 Hours)	1.14%
-Alphabet Inc - A (24 Hours)	1.01%
+Alphabet Inc - C (24 Hours)	1.16%
+Alphabet Inc - A (24 Hours)	1%
+Viacom Inc - A	0.79%
 	% Change
-Apple Inc (24 Hours)	-3.3%
-QUALCOMM Inc (24 Hours)	-1.66%
-Adobe Systems Inc (24 Hours)	-1.41%
+Apple Inc (24 Hours)	-2.88%
+Adobe Systems Inc (24 Hours)	-1.93%
+QUALCOMM Inc (24 Hours)	-1.84%
 Liberty Global PLC - A	-1.24%
-Gilead Sciences Inc (24 Hours)	-1.17%
+PayPal Holdings Inc (24 Hours)	-1.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
