@@ -20,44 +20,48 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24335.6
-L 22780.2
--123.1
--0.51%
-Tue 24 Mar 2026 18:00 - Wed 8 Apr 2026 23:00
-24600.0
-24400.0
-24200.0
+H 24073.1
+L 23792.9
+263.1
+1.11%
+Tue 7 Apr 2026 16:09:30 - Tue 7 Apr 2026 18:19:00
+24100.0
+24050.0
 24000.0
+23950.0
+23900.0
+23850.0
 23800.0
-23600.0
-23400.0
-23200.0
-23000.0
-22800.0
-22600.0
-23911.2
-2025
-Jun
-Aug
-Oct
-Dec
-2026
-Mon 30
-Mon 6
-Mar 2026
-Apr 2026
+23750.0
+24059.9
+Sun 5 Apr
+4:00
+10:00
+16:00
+22:00
+Tue 7 Apr
+10:00
+16:15
+16:30
+16:45
+17:00
+17:15
+17:30
+17:45
+18:00
+18:15
+Tue 7 Apr
 Data is indicative
-1 Hour
+10 Secs
 
 Unlock full charts - 
 
 SELL
-23910.7
+24059.0
 BUY
-23911.7
+24060.0
 1
--281.4(-1.16%)
+-133.1(-0.55%)
 
 High: 24252.3
 
@@ -67,11 +71,11 @@ Long
 
 Short
 
-54%
+55%
 
-46%
+45%
 
-54% of client accounts are long on this market 
+55% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -86,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	1.99%
+Intel Corp (24 Hours)	4.08%
 DISH Network Corp	1.94%
-Viacom Inc - A	0.79%
-TripAdvisor Inc	0.78%
-Alphabet Inc - C (24 Hours)	0.35%
+TripAdvisor Inc	1.61%
+Alphabet Inc - C (24 Hours)	1.14%
+Alphabet Inc - A (24 Hours)	1.01%
 	% Change
-Apple Inc (24 Hours)	-4.37%
-QUALCOMM Inc (24 Hours)	-2.22%
-Micron Technology Inc (24 Hours)	-2.04%
-Adobe Systems Inc (24 Hours)	-1.47%
-DENTSPLY International Inc	-1.42%
+Apple Inc (24 Hours)	-3.3%
+QUALCOMM Inc (24 Hours)	-1.66%
+Adobe Systems Inc (24 Hours)	-1.41%
+Liberty Global PLC - A	-1.24%
+Gilead Sciences Inc (24 Hours)	-1.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
