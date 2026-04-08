@@ -20,43 +20,49 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 24283.3
-L 23491.5
-585.4
-2.48%
-Tue 31 Mar 2026 19:20 - Wed 8 Apr 2026 13:30
+H 25086.3
+L 23776.0
+832.5
+3.46%
+Tue 7 Apr 2026 12:20 - Wed 8 Apr 2026 20:40
+25200.0
+25000.0
+24800.0
+24600.0
 24400.0
 24200.0
 24000.0
 23800.0
 23600.0
-23400.0
-24224.6
+24910.8
 2025
 Jun
 Aug
 Oct
 Dec
 2026
-Thu 2
-Fri 3
-Mon 6
-Tue 7
-Wed 8
-Apr 2026
+16:00
+20:00
+4:00
+8:00
+12:00
+16:00
+20:00
+Tue 7 Apr
+Wed 8 Apr
 Data is indicative
 10 Mins
 
 Unlock full charts - 
 
 SELL
-24222.1
+24910.3
 BUY
-24227.1
-5
-24.2(0.1%)
+24911.3
+1
+710.4(2.94%)
 
-High: 24284.3
+High: 25087.3
 
 Low: 24175.4
 
@@ -83,17 +89,13 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.16%
-Alphabet Inc - C (24 Hours)	2.31%
-Alphabet Inc - A (24 Hours)	2.12%
-DISH Network Corp	1.94%
-Viacom Inc - A	0.79%
+Intel Corp (24 Hours)	8.42%
+Micron Technology Inc (24 Hours)	7.32%
+Alphabet Inc - A (24 Hours)	4.07%
+Alphabet Inc - C (24 Hours)	3.58%
+Amazon.com Inc (24 Hours)	3.52%
 	% Change
-Apple Inc (24 Hours)	-2.29%
-Adobe Systems Inc (24 Hours)	-1.62%
-QUALCOMM Inc (24 Hours)	-1.47%
-PayPal Holdings Inc (24 Hours)	-1.08%
-Liberty Global PLC - A	-1.04%
+Check Point Software Technologies Ltd	-1.19%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -115,6 +117,10 @@ Trading signals
 Identify the right time to trade with free technical signals, on indices and more
 
 US Tech 100 news and strategies from IG
+Netflix Q1 2026 earnings preview
+
+Wednesday, 8 April 2026 • 03:01
+
 US stocks gain despite Trump tariff setback: Nvidia earnings and consumer confidence await
 
 Monday, 23 February 2026 • 03:15
