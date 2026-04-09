@@ -21,50 +21,50 @@ Open account
 US Tech 100
 .NDX
 H 25097.5
-L 25058.8
--11.8
--0.05%
-Thu 9 Apr 2026 20:35:00 - Thu 9 Apr 2026 21:07:20
+L 24787.0
+266.3
+1.07%
+Thu 9 Apr 2026 15:18 - Thu 9 Apr 2026 23:00
+25150.0
 25100.0
-25095.0
-25090.0
-25085.0
-25080.0
-25075.0
-25070.0
-25065.0
-25060.0
-25055.0
-25061.0
-Tue 7 Apr
-9:00
+25050.0
+25000.0
+24950.0
+24900.0
+24850.0
+24800.0
+24750.0
+25082.5
+Mon 23
+Mar 2026
+Mon 16
+Mon 23
+Mon 30
+Apr 2026
+16:00
+17:00
 18:00
-Wed 8 Apr
-12:00
+19:00
+20:00
 21:00
-Thu 9 Apr
-20:40
-20:45
-20:50
-20:55
-21:00
-21:05
+22:00
+23:00
 Thu 9 Apr
 Data is indicative
-10 Secs
+3 Mins
 
 Unlock full charts - 
 
 SELL
-25060.3
+25080.0
 BUY
-25062.3
-2
--16.7(-0.07%)
+25085.0
+5
+4.5(0.02%)
 
-High: 25082.5
+High: 25085.0
 
-Low: 25057.8
+Low: 25049.5
 
 Long
 
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Amazon.com Inc (24 Hours)	5.36%
-TripAdvisor Inc	5.17%
-Intel Corp (24 Hours)	4.78%
-Micron Technology Inc (24 Hours)	4.02%
-Netflix Inc (24 Hours)	2.82%
+Amazon.com Inc (24 Hours)	5.54%
+TripAdvisor Inc	5.12%
+Intel Corp (24 Hours)	4.66%
+Micron Technology Inc (24 Hours)	3.45%
+Meta Platforms Inc (24 Hours)	2.8%
 	% Change
-Adobe Systems Inc (24 Hours)	-4.14%
-Illumina Inc	-4.05%
-Check Point Software Technologies Ltd	-3.13%
-Liberty Global PLC - A	-1.63%
-BioMarin Pharmaceutical Inc	-1.56%
+Adobe Systems Inc (24 Hours)	-3.98%
+Illumina Inc	-3.38%
+Check Point Software Technologies Ltd	-2.76%
+Liberty Global PLC - A	-1.98%
+BioMarin Pharmaceutical Inc	-1.57%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
