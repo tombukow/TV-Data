@@ -20,11 +20,13 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25025.4
-L 24787.0
-187.8
-0.76%
-Thu 9 Apr 2026 11:18 - Thu 9 Apr 2026 17:46
+H 25092.1
+L 24752.4
+59.1
+0.24%
+Wed 8 Apr 2026 8:00 - Thu 9 Apr 2026 22:30
+25150.0
+25100.0
 25050.0
 25000.0
 24950.0
@@ -32,33 +34,38 @@ Thu 9 Apr 2026 11:18 - Thu 9 Apr 2026 17:46
 24850.0
 24800.0
 24750.0
-25024.0
-Mon 23
-Mar 2026
-Mon 16
-Mon 23
-Mon 30
-Apr 2026
+24700.0
+25059.4
+2025
+Jun
+Aug
+Oct
+Dec
+2026
 12:00
-13:00
-14:00
-15:00
 16:00
-17:00
+20:00
+4:00
+8:00
+12:00
+16:00
+20:00
+Wed 8 Apr
 Thu 9 Apr
+Fri 10 Apr
 Data is indicative
-1 Min
+15 Mins
 
 Unlock full charts - 
 
 SELL
-25023.5
+25059.4
 BUY
-25024.5
+25060.4
 1
-110.1(0.44%)
+146.0(0.59%)
 
-High: 25025.9
+High: 25092.6
 
 Low: 24780.8
 
@@ -85,17 +92,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Amazon.com Inc (24 Hours)	4.47%
-Meta Platforms Inc (24 Hours)	3.16%
-Intel Corp (24 Hours)	2.61%
-DISH Network Corp	1.94%
-Netflix Inc (24 Hours)	1.51%
+Amazon.com Inc (24 Hours)	4.51%
+Meta Platforms Inc (24 Hours)	3.31%
+Intel Corp (24 Hours)	2.59%
+Netflix Inc (24 Hours)	2.39%
+TripAdvisor Inc	2.24%
 	% Change
-Adobe Systems Inc (24 Hours)	-4.18%
-Check Point Software Technologies Ltd	-2.54%
-DENTSPLY International Inc	-2.04%
-BioMarin Pharmaceutical Inc	-1.83%
-Illumina Inc	-1.82%
+Adobe Systems Inc (24 Hours)	-4.39%
+Check Point Software Technologies Ltd	-3.17%
+Illumina Inc	-2.86%
+Liberty Global PLC - A	-1.47%
+BioMarin Pharmaceutical Inc	-1.04%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
