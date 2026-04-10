@@ -20,45 +20,46 @@ Market analysis
 Open account
 US Tech 100
 .NDX
-H 25227.7
-L 24781.8
-230.9
-0.93%
-Wed 8 Apr 2026 23:00 - Fri 10 Apr 2026 23:30
-25300.0
+H 25206.3
+L 25059.2
+-29.7
+-0.12%
+Fri 10 Apr 2026 13:26 - Fri 10 Apr 2026 19:54
+25220.0
 25200.0
+25180.0
+25160.0
+25140.0
+25120.0
 25100.0
-25000.0
-24900.0
-24800.0
-24700.0
-25097.8
-2025
-Jun
-Aug
-Oct
-Dec
-2026
-6:00
-12:00
+25080.0
+25060.0
+25040.0
+25085.5
+Mon 23
+Mar 2026
+Mon 16
+Mon 23
+Mon 30
+Apr 2026
+14:00
+15:00
+16:00
+17:00
 18:00
-6:00
-12:00
-18:00
-Thu 9 Apr
+19:00
 Fri 10 Apr
-Sat 11 Apr
 Data is indicative
-15 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-25097.4
+25085.0
 BUY
-25098.4
+25086.0
 1
-19.9(0.08%)
+7.5(0.03%)
 
 High: 25228.2
 
@@ -88,16 +89,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-Amazon.com Inc (24 Hours)	1.66%
-Intel Corp (24 Hours)	1.17%
-QUALCOMM Inc (24 Hours)	0.98%
+Amazon.com Inc (24 Hours)	1.82%
+Intel Corp (24 Hours)	1.74%
 Viacom Inc - A	0.79%
+QUALCOMM Inc (24 Hours)	0.73%
 	% Change
 TripAdvisor Inc	-4.74%
-Check Point Software Technologies Ltd	-3.35%
-BioMarin Pharmaceutical Inc	-2.57%
-Adobe Systems Inc (24 Hours)	-2.07%
-PayPal Holdings Inc (24 Hours)	-1.95%
+Check Point Software Technologies Ltd	-3.88%
+BioMarin Pharmaceutical Inc	-3.26%
+Adobe Systems Inc (24 Hours)	-2.3%
+PayPal Holdings Inc (24 Hours)	-2.09%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
