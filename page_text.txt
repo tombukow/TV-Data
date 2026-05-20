@@ -18,57 +18,59 @@ Learn
 Platforms and tools
 Market analysis
 Open account
+About us
+Indices market data
 US Tech 100
 .NDX
-H 25227.7
-L 23491.5
-1276.6
-5.34%
-Wed 1 Apr 2026 11:00 - Sat 11 Apr 2026 21:00
-25500.0
-25000.0
-24500.0
-24000.0
-23500.0
-25164.7
-2025
-Jun
-Aug
-Oct
-Dec
-2026
-Thu 2
-Fri 3
-Tue 7
-Wed 8
-Thu 9
-Fri 10
-Sat 11
+H 29304.3
+L 28913.3
+262.7
+0.91%
+Wed 20 May 2026 14:58 - Wed 20 May 2026 21:26
+29300.0
+29200.0
+29100.0
+29000.0
+28900.0
+29263.7
 Apr 2026
+Mon 20
+Mon 27
+May 2026
+Mon 11
+Mon 18
+16:00
+17:00
+18:00
+19:00
+20:00
+21:00
+Wed 20 May
 Data is indicative
-1 Hour
+1 Min
 
 Unlock full charts - 
 
 SELL
-25164.1
+29264.3
 BUY
-25169.1
-48.9(0.19%)
+29265.3
+1
+438.4(1.52%)
 
-High: 25169.7
+High: 29304.8
 
-Low: 25106.6
+Low: 28704.1
 
 Long
 
 Short
 
-53%
+51%
 
-47%
+49%
 
-53% of client accounts are long on this market 
+51% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+TripAdvisor Inc	7.37%
+Intel Corp (24 Hours)	6.89%
+Micron Technology Inc (24 Hours)	4.43%
+QUALCOMM Inc (24 Hours)	3.56%
 DISH Network Corp	1.94%
-Amazon.com Inc (24 Hours)	1.91%
-Intel Corp (24 Hours)	1%
-Netflix Inc (24 Hours)	0.96%
-Viacom Inc - A	0.79%
 	% Change
-TripAdvisor Inc	-4.96%
-Check Point Software Technologies Ltd	-4.67%
-BioMarin Pharmaceutical Inc	-3.14%
-Illumina Inc	-2.22%
-Gilead Sciences Inc (24 Hours)	-2.12%
+Liberty Global PLC - A	-1.85%
+Mattel Inc	-1.77%
+Netflix Inc (24 Hours)	-1.17%
+Adobe Systems Inc (24 Hours)	-0.58%
+Illumina Inc	-0.46%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -115,17 +117,21 @@ Trading signals
 Identify the right time to trade with free technical signals, on indices and more
 
 US Tech 100 news and strategies from IG
-Netflix Q1 2026 earnings preview
+NVIDIA Q1 FY 2027 earnings preview: is AI demand strong enough?
 
-Wednesday, 8 April 2026 • 03:01
+Wednesday, 13 May 2026 • 04:03
 
-US stocks gain despite Trump tariff setback: Nvidia earnings and consumer confidence await
+US equities soar, but President Trump’s ‘Operation Project Freedom’ sparks new Hormuz drama
 
-Monday, 23 February 2026 • 03:15
+Monday, 4 May 2026 • 03:23
 
-US stocks end week lower as Amazon losing streak extends
+Super Micro Computer Q3 2026 earnings preview: will margins stabilise?
 
-Monday, 16 February 2026 • 03:44
+Tuesday, 28 April 2026 • 04:15
+
+Wall Street hits record highs while the oil storage clock ticks down on Iran
+
+Monday, 27 April 2026 • 03:23
 
 Find your next indices trade
 
@@ -221,6 +227,8 @@ Spread bets and CFDs are complex instruments and come with a high risk of losing
 Professional clients trading spread bets and CFDs can lose more than they deposit.
 
 The value of shares, ETFs and other ETPs bought through a share dealing account, a stocks and shares ISA or a SIPP can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of future results. Some ETPs carry additional risks depending on how they’re structured, investors should ensure they familiarise themselves with the differences before investing.
+
+Crypto - Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment, and you should not expect to be protected if something goes wrong. Take 2 mins to learn more.
 
 Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts and futures accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd.   
 
