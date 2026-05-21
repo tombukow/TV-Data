@@ -22,48 +22,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29371.8
-L 29360.8
--1.1
--0.00%
-Thu 21 May 2026 21:39:30 - Thu 21 May 2026 21:53:40
-29372.0
-29370.0
-29368.0
-29366.0
-29364.0
-29362.0
-29360.0
-29364.6
-Tue 19 May
-9:00
-18:00
-Wed 20 May
-12:00
-21:00
-Thu 21 May
-15:00
-21:40
-21:42
-21:44
-21:46
-21:48
-21:50
-21:52
-Thu 21 May
+H 29677.1
+L 28566.9
+-92.2
+-0.31%
+Thu 14 May 2026 6:00 - Fri 22 May 2026 16:00
+29800.0
+29600.0
+29400.0
+29200.0
+29000.0
+28800.0
+28600.0
+28400.0
+29366.2
+2025
+Jul
+Sep
+Nov
+2026
+Mar
+Fri 15
+Mon 18
+Tue 19
+Wed 20
+Thu 21
+Fri 22
+May 2026
 Data is indicative
-10 Secs
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29363.6
+29363.7
 BUY
-29365.6
-2
-13.4(0.05%)
+29368.7
+5
+15.0(0.05%)
 
-High: 29379.6
+High: 29384.7
 
 Low: 29343.1
 
@@ -91,16 +89,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 BioMarin Pharmaceutical Inc	7.77%
-QUALCOMM Inc (24 Hours)	4.96%
-Micron Technology Inc (24 Hours)	3.79%
+QUALCOMM Inc (24 Hours)	4.85%
+Micron Technology Inc (24 Hours)	3.64%
 Liberty Global PLC - A	3.12%
 Check Point Software Technologies Ltd	2.65%
 	% Change
-Adobe Systems Inc (24 Hours)	-2.79%
-Starbucks Corp (24 Hours)	-2.16%
-Intel Corp (24 Hours)	-0.63%
+Adobe Systems Inc (24 Hours)	-2.91%
+Starbucks Corp (24 Hours)	-2.08%
+Intel Corp (24 Hours)	-0.91%
 TripAdvisor Inc	-0.3%
-Alphabet Inc - C (24 Hours)	-0.15%
+PayPal Holdings Inc (24 Hours)	-0.17%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
