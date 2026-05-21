@@ -22,47 +22,50 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29677.1
-L 26876.6
-2072.1
-7.60%
-Mon 27 Apr 2026 - Sun 24 May 2026
-30000.0
-29500.0
-29000.0
-28500.0
-28000.0
-27500.0
-27000.0
-26500.0
-29330.6
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Mon 11
-Mon 18
-Apr 2026
-May 2026
+H 29371.8
+L 29360.8
+-1.1
+-0.00%
+Thu 21 May 2026 21:39:30 - Thu 21 May 2026 21:53:40
+29372.0
+29370.0
+29368.0
+29366.0
+29364.0
+29362.0
+29360.0
+29364.6
+Tue 19 May
+9:00
+18:00
+Wed 20 May
+12:00
+21:00
+Thu 21 May
+15:00
+21:40
+21:42
+21:44
+21:46
+21:48
+21:50
+21:52
+Thu 21 May
 Data is indicative
-Daily
+10 Secs
 
 Unlock full charts - 
 
 SELL
-29330.1
+29363.6
 BUY
-29331.1
-1
-30.0(0.1%)
+29365.6
+2
+13.4(0.05%)
 
-High: 29463.6
+High: 29379.6
 
-Low: 29023.9
+Low: 29343.1
 
 Long
 
@@ -87,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-BioMarin Pharmaceutical Inc	7.16%
-QUALCOMM Inc (24 Hours)	4.11%
-Liberty Global PLC - A	3.41%
-Illumina Inc	2.93%
-Micron Technology Inc (24 Hours)	2.69%
+BioMarin Pharmaceutical Inc	7.77%
+QUALCOMM Inc (24 Hours)	4.96%
+Micron Technology Inc (24 Hours)	3.79%
+Liberty Global PLC - A	3.12%
+Check Point Software Technologies Ltd	2.65%
 	% Change
-Adobe Systems Inc (24 Hours)	-3.7%
-Starbucks Corp (24 Hours)	-2.07%
-Intel Corp (24 Hours)	-0.73%
-Microsoft Corp (24 Hours)	-0.44%
-Alphabet Inc - A (24 Hours)	-0.11%
+Adobe Systems Inc (24 Hours)	-2.79%
+Starbucks Corp (24 Hours)	-2.16%
+Intel Corp (24 Hours)	-0.63%
+TripAdvisor Inc	-0.3%
+Alphabet Inc - C (24 Hours)	-0.15%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
