@@ -22,50 +22,50 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29677.1
-L 23776.0
-5631.4
-23.55%
-Mon 6 Apr 2026 - Wed 27 May 2026
-30000.0
+H 29672.1
+L 29040.9
+228.4
+0.78%
+Thu 21 May 2026 3:00 - Sat 23 May 2026 3:00
+29700.0
+29600.0
+29500.0
+29400.0
+29300.0
+29200.0
+29100.0
 29000.0
-28000.0
-27000.0
-26000.0
-25000.0
-24000.0
-23000.0
-29540.0
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Mon 13
-Mon 20
-Mon 11
-Mon 18
-Mon 25
-Apr 2026
-May 2026
+29452.4
+2025
+Jul
+Sep
+Nov
+2026
+Mar
+6:00
+12:00
+18:00
+6:00
+12:00
+18:00
+Thu 21 May
+Fri 22 May
+Sat 23 May
 Data is indicative
-Daily
+30 Mins
 
 Unlock full charts - 
 
 SELL
-29539.5
+29451.4
 BUY
-29540.5
-1
-188.8(0.64%)
+29453.4
+2
+-30.8(-0.1%)
 
-High: 29672.6
+High: 29503.5
 
-Low: 29343.1
+Low: 29425.5
 
 Long
 
@@ -90,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	12.48%
-DENTSPLY International Inc	2.87%
-Gilead Sciences Inc (24 Hours)	2.83%
+QUALCOMM Inc (24 Hours)	11.6%
+Gilead Sciences Inc (24 Hours)	2.95%
+DENTSPLY International Inc	2.82%
 DISH Network Corp	1.94%
-Intel Corp (24 Hours)	1.55%
+TripAdvisor Inc	1.82%
 	% Change
-Netflix Inc (24 Hours)	-1.14%
-Liberty Global PLC - A	-0.94%
-Starbucks Corp (24 Hours)	-0.79%
-Alphabet Inc - A (24 Hours)	-0.75%
-BioMarin Pharmaceutical Inc	-0.72%
+Micron Technology Inc (24 Hours)	-1.3%
+Alphabet Inc - A (24 Hours)	-1.12%
+Starbucks Corp (24 Hours)	-1.09%
+Alphabet Inc - C (24 Hours)	-0.91%
+Netflix Inc (24 Hours)	-0.86%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
