@@ -22,47 +22,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30541.4
-L 30092.8
-149.1
-0.49%
-Thu 4 Jun 2026 9:12 - Thu 4 Jun 2026 22:09
-30600.0
-30500.0
-30400.0
-30300.0
-30200.0
-30100.0
-30519.8
-Apr 2026
-May 2026
-Mon 11
-Mon 18
-Mon 25
-Jun 2026
-10:00
-12:00
-14:00
-16:00
-18:00
-20:00
-22:00
-Thu 4 Jun
+H 30759.2
+L 22780.2
+5152.4
+20.45%
+Wed 11 Feb 2026 - Wed 17 Jun 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+30344.5
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Mar
+Apr
+May
+Jun
+2026
 Data is indicative
-1 Min
+Daily
 
 Unlock full charts - 
 
 SELL
-30520.4
+30342.0
 BUY
-30521.4
-1
--54.8(-0.18%)
+30347.0
+5
+-74.2(-0.24%)
 
-High: 30579.3
+High: 30428.7
 
-Low: 30092.3
+Low: 30329.8
 
 Long
 
@@ -87,17 +86,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-BioMarin Pharmaceutical Inc	4%
-Alphabet Inc - A (24 Hours)	3.47%
-Alphabet Inc - C (24 Hours)	3.45%
-DENTSPLY International Inc	2.85%
+Alphabet Inc - A (24 Hours)	3.53%
+Alphabet Inc - C (24 Hours)	3.52%
+BioMarin Pharmaceutical Inc	3.31%
+DENTSPLY International Inc	2.49%
 DISH Network Corp	1.94%
 	% Change
-Micron Technology Inc (24 Hours)	-4.93%
-QUALCOMM Inc (24 Hours)	-1.84%
-Illumina Inc	-1.84%
-Starbucks Corp (24 Hours)	-1.75%
-Mattel Inc	-1.29%
+Micron Technology Inc (24 Hours)	-8.41%
+QUALCOMM Inc (24 Hours)	-3.66%
+Intel Corp (24 Hours)	-1.94%
+Starbucks Corp (24 Hours)	-1.83%
+Illumina Inc	-1.68%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
