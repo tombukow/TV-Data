@@ -22,56 +22,62 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29672.2
-L 28566.3
-485.0
-1.67%
-Mon 18 May 2026 5:00 - Mon 25 May 2026 13:00
-29800.0
-29600.0
-29400.0
-29200.0
-29000.0
-28800.0
-28600.0
-28400.0
-29444.5
+H 30759.2
+L 30092.8
+-200.8
+-0.66%
+Tue 2 Jun 2026 21:00 - Fri 5 Jun 2026 0:00
+30800.0
+30700.0
+30600.0
+30500.0
+30400.0
+30300.0
+30200.0
+30100.0
+30000.0
+30454.6
 2025
-Jul
-Sep
-Nov
+Aug
+Oct
+Dec
 2026
-Mar
-Tue 19
-Wed 20
-Thu 21
-Fri 22
-Mon 25
-May 2026
+Apr
+6:00
+12:00
+18:00
+6:00
+12:00
+18:00
+Tue 2 Jun
+Wed 3 Jun
+Thu 4 Jun
+Fri 5 Jun
 Data is indicative
 1 Hour
 
 Unlock full charts - 
 
 SELL
-29445.9
+30454.3
 BUY
-29450.9
--34.8(-0.12%)
+30455.3
+1
+-120.9(-0.4%)
 
-High: 29503.5
+High: 30579.3
 
-Low: 29425.5
+Low: 30092.3
 
 Long
 
 Short
 
-52%
+51%
 
-48%
+49%
 
-52% of client accounts are long on this market 
+51% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -86,17 +92,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	11.23%
-Gilead Sciences Inc (24 Hours)	2.9%
-DENTSPLY International Inc	2.82%
+Alphabet Inc - A (24 Hours)	3.9%
+Alphabet Inc - C (24 Hours)	3.8%
+BioMarin Pharmaceutical Inc	3.45%
+DENTSPLY International Inc	3.16%
 DISH Network Corp	1.94%
-TripAdvisor Inc	1.82%
 	% Change
-Micron Technology Inc (24 Hours)	-1.57%
-Alphabet Inc - A (24 Hours)	-1.12%
-Starbucks Corp (24 Hours)	-1.11%
-Alphabet Inc - C (24 Hours)	-0.95%
-Netflix Inc (24 Hours)	-0.82%
+Micron Technology Inc (24 Hours)	-5.12%
+QUALCOMM Inc (24 Hours)	-3.48%
+Mattel Inc	-1.78%
+Starbucks Corp (24 Hours)	-1.49%
+Illumina Inc	-1.29%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -118,6 +124,10 @@ Trading signals
 Identify the right time to trade with free technical signals, on indices and more
 
 US Tech 100 news and strategies from IG
+US equities hit record highs as focus shifts to US jobs data and monster SpaceX IPO
+
+Monday, 1 June 2026 • 03:57
+
 NVIDIA Q1 FY 2027 earnings preview: is AI demand strong enough?
 
 Wednesday, 13 May 2026 • 04:03
@@ -129,10 +139,6 @@ Monday, 4 May 2026 • 03:23
 Super Micro Computer Q3 2026 earnings preview: will margins stabilise?
 
 Tuesday, 28 April 2026 • 04:15
-
-Wall Street hits record highs while the oil storage clock ticks down on Iran
-
-Monday, 27 April 2026 • 03:23
 
 Find your next indices trade
 
@@ -231,7 +237,7 @@ The value of shares, ETFs and other ETPs bought through a share dealing account,
 
 Crypto - Don’t invest unless you’re prepared to lose all the money you invest. This is a high-risk investment, and you should not expect to be protected if something goes wrong. Take 2 mins to learn more.
 
-Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts and futures accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd.   
+Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd, cryptoassets services are provided by IG Digital Assets Ltd.
 
 IG is a trading name of IG Trading and Investments Ltd (a company registered in England and Wales under number 11628764), IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. IG Markets Ltd (Register number 195355), IG Trading and Investments Ltd (Register Number 944492) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.   
 
@@ -241,3 +247,4 @@ Careers
 IG Group
 Marketing partnership
 © 2003-2026
+Téléchargez l'app:
