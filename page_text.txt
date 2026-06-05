@@ -22,51 +22,45 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29455.0
-L 29313.2
-4.4
-0.01%
-Fri 5 Jun 2026 17:56 - Fri 5 Jun 2026 19:06
-29480.0
-29460.0
-29440.0
-29420.0
-29400.0
-29380.0
-29360.0
-29340.0
-29320.0
-29300.0
-29421.7
-Apr 2026
-May 2026
-Mon 11
-Mon 18
-Mon 25
-Jun 2026
-18:00
-18:10
-18:20
-18:30
-18:40
-18:50
-19:00
-Fri 5 Jun
+H 30759.2
+L 22780.2
+3668.2
+14.52%
+Thu 26 Feb 2026 - Tue 16 Jun 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+28938.3
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Apr
+May
+Jun
+2026
 Data is indicative
-1 Min
+Daily
 
 Unlock full charts - 
 
 SELL
-29421.4
+28936.4
 BUY
-29422.4
+28937.4
 1
--996.8(-3.28%)
+-1481.8(-4.87%)
 
 High: 30428.7
 
-Low: 29312.6
+Low: 28927.4
 
 Long
 
@@ -92,16 +86,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.46%
-Gilead Sciences Inc (24 Hours)	1.07%
-Liberty Global PLC - A	0.9%
+Starbucks Corp (24 Hours)	1.08%
 Viacom Inc - A	0.79%
+Liberty Global PLC - A	0.56%
+Gilead Sciences Inc (24 Hours)	0.53%
 	% Change
-QUALCOMM Inc (24 Hours)	-9.95%
-Micron Technology Inc (24 Hours)	-9.76%
-Intel Corp (24 Hours)	-8.83%
-Illumina Inc	-3.18%
-Meta Platforms Inc (24 Hours)	-3.05%
+Micron Technology Inc (24 Hours)	-12.27%
+QUALCOMM Inc (24 Hours)	-10.63%
+Intel Corp (24 Hours)	-10.59%
+Meta Platforms Inc (24 Hours)	-5.85%
+Illumina Inc	-4.15%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
