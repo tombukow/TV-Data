@@ -22,50 +22,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28803.2
-L 28736.0
--48.9
--0.17%
-Fri 5 Jun 2026 21:30:10 - Fri 5 Jun 2026 21:51:30
-28810.0
-28800.0
-28790.0
-28780.0
-28770.0
-28760.0
-28750.0
-28740.0
-28730.0
-28754.3
-Wed 3 Jun
-9:00
+H 29665.8
+L 29442.3
+-97.0
+-0.33%
+Mon 8 Jun 2026 16:40 - Mon 8 Jun 2026 18:48
+29700.0
+29650.0
+29600.0
+29550.0
+29500.0
+29450.0
+29513.0
+Mon 27
+May 2026
+Mon 18
+Mon 25
+Jun 2026
+16:45
+17:00
+17:15
+17:30
+17:45
 18:00
-Thu 4 Jun
-12:00
-21:00
-Fri 5 Jun
-15:00
-21:33
-21:36
-21:39
-21:42
-21:45
-21:48
-21:51
-Fri 5 Jun
+18:15
+18:30
+18:45
+Mon 8 Jun
 Data is indicative
-10 Secs
+1 Min
 
 Unlock full charts - 
 
 SELL
-28752.7
+29513.3
 BUY
-28754.7
-2
--217.8(-0.75%)
+29514.3
+1
+542.3(1.87%)
 
-High: 28999.0
+High: 29700.0
 
 Low: 28735.0
 
@@ -73,11 +69,11 @@ Long
 
 Short
 
-57%
+58%
 
-43%
+42%
 
-57% of client accounts are long on this market 
+58% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -92,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+Intel Corp (24 Hours)	11.1%
+Micron Technology Inc (24 Hours)	9.63%
 DISH Network Corp	1.94%
-DENTSPLY International Inc	1.21%
-Liberty Global PLC - A	1.12%
-Viacom Inc - A	0.79%
-Starbucks Corp (24 Hours)	0.73%
+Apple Inc (24 Hours)	1.9%
+Mattel Inc	1.74%
 	% Change
-Micron Technology Inc (24 Hours)	-14.03%
-Intel Corp (24 Hours)	-12.9%
-QUALCOMM Inc (24 Hours)	-12.09%
-Meta Platforms Inc (24 Hours)	-5.99%
-PayPal Holdings Inc (24 Hours)	-3.56%
+Check Point Software Technologies Ltd	-3.71%
+Illumina Inc	-2.96%
+Adobe Systems Inc (24 Hours)	-2.13%
+Alphabet Inc - A (24 Hours)	-1.81%
+Microsoft Corp (24 Hours)	-1.8%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
