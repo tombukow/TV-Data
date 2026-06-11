@@ -22,44 +22,41 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29266.2
-L 28228.0
-767.7
-2.70%
-Wed 10 Jun 2026 23:45 - Thu 11 Jun 2026 21:20
-29400.0
-29200.0
+H 30199.0
+L 28185.6
+-845.9
+-2.81%
+Fri 5 Jun 2026 2:00 - Fri 12 Jun 2026 10:00
+30500.0
+30000.0
+29500.0
 29000.0
-28800.0
-28600.0
-28400.0
-28200.0
-29161.5
+28500.0
+28000.0
+29240.9
 2025
 Aug
 Oct
 Dec
 2026
 Apr
-3:00
-6:00
-9:00
-12:00
-15:00
-18:00
-21:00
-Thu 11 Jun
+Mon 8
+Tue 9
+Wed 10
+Thu 11
+Fri 12
+Jun 2026
 Data is indicative
-5 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29161.0
+29240.3
 BUY
-29162.0
+29241.3
 1
-671.8(2.36%)
+751.1(2.64%)
 
 High: 29266.7
 
@@ -69,11 +66,11 @@ Long
 
 Short
 
-60%
+59%
 
-40%
+41%
 
-60% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	6.72%
-Micron Technology Inc (24 Hours)	5.62%
-Gilead Sciences Inc (24 Hours)	4.81%
-QUALCOMM Inc (24 Hours)	4.57%
-Starbucks Corp (24 Hours)	3.68%
+Intel Corp (24 Hours)	7.45%
+Micron Technology Inc (24 Hours)	7.34%
+QUALCOMM Inc (24 Hours)	4.75%
+Gilead Sciences Inc (24 Hours)	4.32%
+Starbucks Corp (24 Hours)	3.13%
 	% Change
-Adobe Systems Inc (24 Hours)	-3.66%
-Microsoft Corp (24 Hours)	-2.13%
-Check Point Software Technologies Ltd	-1.71%
-Mattel Inc	-1.12%
-Alphabet Inc - A (24 Hours)	-1.04%
+Adobe Systems Inc (24 Hours)	-4.54%
+Microsoft Corp (24 Hours)	-2.46%
+Check Point Software Technologies Ltd	-1.67%
+Mattel Inc	-1.46%
+Netflix Inc (24 Hours)	-0.98%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
