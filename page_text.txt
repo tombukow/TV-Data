@@ -22,59 +22,59 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29803.8
-L 28185.6
-393.2
-1.35%
-Mon 8 Jun 2026 8:00 - Fri 12 Jun 2026 8:00
+H 30759.2
+L 27498.9
+1609.8
+5.79%
+Mon 4 May 2026 7:00 - Mon 15 Jun 2026 18:00
+31000.0
+30500.0
 30000.0
-29800.0
-29600.0
-29400.0
-29200.0
+29500.0
 29000.0
-28800.0
-28600.0
-28400.0
-28200.0
+28500.0
 28000.0
-29451.0
+27500.0
+27000.0
+29423.7
 2025
 Aug
 Oct
 Dec
 2026
 Apr
-Tue 9
-Wed 10
-Thu 11
-Fri 12
+Mon 11
+Mon 18
+Mon 25
+Mon 8
+Mon 15
+May 2026
 Jun 2026
 Data is indicative
-4 Hours
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29450.5
+29421.2
 BUY
-29451.5
-1
-961.3(3.37%)
+29426.2
+5
+-0.2(-0%)
 
-High: 29508.1
+High: 29489.4
 
-Low: 28227
+Low: 29372.6
 
 Long
 
 Short
 
-59%
+60%
 
-41%
+40%
 
-59% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	10.69%
-Intel Corp (24 Hours)	9.92%
-QUALCOMM Inc (24 Hours)	6%
-Gilead Sciences Inc (24 Hours)	3.93%
-Starbucks Corp (24 Hours)	3.59%
+Micron Technology Inc (24 Hours)	10.16%
+Intel Corp (24 Hours)	9.24%
+QUALCOMM Inc (24 Hours)	5.42%
+Starbucks Corp (24 Hours)	3.44%
+Gilead Sciences Inc (24 Hours)	3.25%
 	% Change
-Adobe Systems Inc (24 Hours)	-5.46%
-Microsoft Corp (24 Hours)	-1.98%
-Check Point Software Technologies Ltd	-1.95%
-BioMarin Pharmaceutical Inc	-0.85%
-Netflix Inc (24 Hours)	-0.63%
+Adobe Systems Inc (24 Hours)	-11.47%
+Check Point Software Technologies Ltd	-2.04%
+Microsoft Corp (24 Hours)	-1.53%
+BioMarin Pharmaceutical Inc	-1.12%
+Netflix Inc (24 Hours)	-0.6%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
