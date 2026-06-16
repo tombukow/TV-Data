@@ -24,9 +24,9 @@ US Tech 100
 .NDX
 H 30653.1
 L 29939.2
--34.4
--0.11%
-Mon 15 Jun 2026 1:00 - Wed 17 Jun 2026 4:00
+-582.8
+-1.90%
+Tue 16 Jun 2026 12:10 - Wed 17 Jun 2026 1:00
 30700.0
 30600.0
 30500.0
@@ -36,35 +36,33 @@ Mon 15 Jun 2026 1:00 - Wed 17 Jun 2026 4:00
 30100.0
 30000.0
 29900.0
-29995.2
+30039.9
 2025
 Aug
 Oct
 Dec
 2026
 Apr
-6:00
-12:00
+14:00
+16:00
 18:00
-6:00
-12:00
-18:00
-Mon 15 Jun
+20:00
+22:00
 Tue 16 Jun
 Wed 17 Jun
 Data is indicative
-1 Hour
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29992.8
+30038.9
 BUY
-29997.8
-5
-20.5(0.07%)
+30040.9
+2
+65.1(0.22%)
 
-High: 30007.5
+High: 30045.4
 
 Low: 29938.2
 
@@ -72,11 +70,11 @@ Long
 
 Short
 
-55%
+56%
 
-45%
+44%
 
-55% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
