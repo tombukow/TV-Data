@@ -22,55 +22,55 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30211.2
-L 29737.9
--355.2
--1.18%
-Wed 17 Jun 2026 11:10 - Wed 17 Jun 2026 21:50
-30200.0
-30100.0
+H 30759.2
+L 22780.2
+5227.8
+21.24%
+Wed 24 Sep 2025 - Sat 18 Jul 2026
+32000.0
 30000.0
-29900.0
-29800.0
-29700.0
-29759.7
-2025
-Aug
-Oct
-Dec
-2026
+28000.0
+26000.0
+24000.0
+22000.0
+29839.8
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
 Apr
-12:00
-14:00
-16:00
-18:00
-20:00
-Wed 17 Jun
+Jul
+2025
+2026
 Data is indicative
-5 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29760.2
+29837.3
 BUY
-29761.2
-1
--214.1(-0.71%)
+29842.3
+5
+165.3(0.56%)
 
-High: 30253.4
+High: 29845.5
 
-Low: 29737.4
+Low: 29673.5
 
 Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	5.14%
-Intel Corp (24 Hours)	3.65%
+Intel Corp (24 Hours)	4.07%
+Micron Technology Inc (24 Hours)	3.76%
 DISH Network Corp	1.94%
 Viacom Inc - A	0.79%
-QUALCOMM Inc (24 Hours)	0.58%
+QUALCOMM Inc (24 Hours)	0.28%
 	% Change
-Meta Platforms Inc (24 Hours)	-4.83%
-Liberty Global PLC - A	-4.53%
-Adobe Systems Inc (24 Hours)	-4.37%
-Microsoft Corp (24 Hours)	-3.54%
-DENTSPLY International Inc	-3.4%
+Liberty Global PLC - A	-5.07%
+Meta Platforms Inc (24 Hours)	-4.96%
+Adobe Systems Inc (24 Hours)	-4.88%
+DENTSPLY International Inc	-4.02%
+Microsoft Corp (24 Hours)	-3.44%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
