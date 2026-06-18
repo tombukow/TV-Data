@@ -22,42 +22,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30653.1
-L 29606.0
--377.8
--1.25%
-Mon 15 Jun 2026 14:15 - Thu 18 Jun 2026 7:00
-30800.0
-30600.0
-30400.0
-30200.0
+H 30759.2
+L 20670.0
+9108.1
+42.77%
+Thu 15 May 2025 - Mon 3 Aug 2026
+32000.0
 30000.0
-29800.0
-29600.0
-29897.4
-2025
-Aug
+28000.0
+26000.0
+24000.0
+22000.0
+20000.0
+30405.6
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Jul
 Oct
-Dec
-2026
 Apr
-Tue 16
-Wed 17
-Thu 18
-Jun 2026
+Jul
+2025
+2026
 Data is indicative
-5 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29895.9
+30405.1
 BUY
-29897.9
-2
-222.4(0.75%)
+30406.1
+1
+731.1(2.46%)
 
-High: 29898.0
+High: 30418.6
 
 Low: 29673.5
 
@@ -65,11 +69,11 @@ Long
 
 Short
 
-57%
+56%
 
-43%
+44%
 
-57% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -84,17 +88,15 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	4.07%
-Micron Technology Inc (24 Hours)	3.76%
-DISH Network Corp	1.94%
-Viacom Inc - A	0.79%
-QUALCOMM Inc (24 Hours)	0.28%
+Intel Corp (24 Hours)	10.43%
+Micron Technology Inc (24 Hours)	8.93%
+QUALCOMM Inc (24 Hours)	6.52%
+Mattel Inc	3.91%
+DENTSPLY International Inc	3.44%
 	% Change
-Liberty Global PLC - A	-5.07%
-Meta Platforms Inc (24 Hours)	-4.96%
-Adobe Systems Inc (24 Hours)	-4.88%
-DENTSPLY International Inc	-4.02%
-Microsoft Corp (24 Hours)	-3.44%
+Gilead Sciences Inc (24 Hours)	-2.12%
+Adobe Systems Inc (24 Hours)	-0.57%
+Liberty Global PLC - A	-0.31%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
