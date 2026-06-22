@@ -22,53 +22,61 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30759.2
-L 28185.6
--105.3
--0.35%
-Mon 1 Jun 2026 12:30 - Tue 23 Jun 2026 20:30
-31000.0
+H 30653.0
+L 30015.4
+4.0
+0.01%
+Fri 19 Jun 2026 20:15 - Mon 22 Jun 2026 22:15
+30700.0
+30600.0
 30500.0
+30400.0
+30300.0
+30200.0
+30100.0
 30000.0
-29500.0
-29000.0
-28500.0
-28000.0
-30293.6
+29900.0
+30332.1
 2025
 Aug
 Oct
 Dec
 2026
 Apr
-Mon 8
-Mon 15
-Mon 22
-Jun 2026
+3:00
+6:00
+9:00
+12:00
+15:00
+18:00
+21:00
+Sun 21 Jun
+Mon 22 Jun
 Data is indicative
-30 Mins
+15 Mins
 
 Unlock full charts - 
 
 SELL
-30291.1
+30332.6
 BUY
-30296.1
-0.0(-0%)
+30333.6
+1
+39.5(0.13%)
 
-High: 30296.1
+High: 30653.8
 
-Low: 30291.1
+Low: 30014.4
 
 Long
 
 Short
 
-56%
+53%
 
-44%
+47%
 
-56% of client accounts are long on this market 
+53% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -83,16 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	10.77%
-Micron Technology Inc (24 Hours)	9.26%
-QUALCOMM Inc (24 Hours)	6.62%
-DENTSPLY International Inc	2.99%
-TripAdvisor Inc	2.82%
+Micron Technology Inc (24 Hours)	5.36%
+Intel Corp (24 Hours)	4.6%
+BioMarin Pharmaceutical Inc	2.09%
+DISH Network Corp	1.94%
+Gilead Sciences Inc (24 Hours)	0.93%
 	% Change
-Liberty Global PLC - A	-1.84%
-Gilead Sciences Inc (24 Hours)	-1.79%
-BioMarin Pharmaceutical Inc	-0.6%
-Adobe Systems Inc (24 Hours)	-0.46%
+Netflix Inc (24 Hours)	-5.39%
+Alphabet Inc - A (24 Hours)	-5.37%
+Alphabet Inc - C (24 Hours)	-5.33%
+Amazon.com Inc (24 Hours)	-4.17%
+Microsoft Corp (24 Hours)	-2.38%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
