@@ -22,37 +22,35 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30365.0
-L 30224.9
-92.2
-0.30%
-Mon 22 Jun 2026 19:55 - Mon 22 Jun 2026 21:31
-30380.0
-30360.0
-30340.0
-30320.0
-30300.0
-30280.0
-30260.0
-30240.0
-30220.0
-30200.0
+H 30355.6
+L 30339.4
+2.8
+0.01%
+Mon 22 Jun 2026 22:00 - Mon 22 Jun 2026 22:36
 30358.0
+30356.0
+30354.0
+30352.0
+30350.0
+30348.0
+30346.0
+30344.0
+30342.0
+30340.0
+30338.0
+30351.5
 May 2026
 Mon 25
 Jun 2026
 Mon 8
 Mon 15
-20:00
-20:10
-20:20
-20:30
-20:40
-20:50
-21:00
-21:10
-21:20
-21:30
+22:05
+22:10
+22:15
+22:20
+22:25
+22:30
+22:35
 Mon 22 Jun
 Data is indicative
 1 Min
@@ -60,11 +58,11 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-30357.0
+30349.0
 BUY
-30359.0
-2
-17.3(0.06%)
+30354.0
+5
+10.8(0.04%)
 
 High: 30366.0
 
@@ -93,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	8.33%
-Intel Corp (24 Hours)	4.99%
+Micron Technology Inc (24 Hours)	9.7%
+Intel Corp (24 Hours)	4.83%
 BioMarin Pharmaceutical Inc	2.21%
 DISH Network Corp	1.94%
 Gilead Sciences Inc (24 Hours)	0.86%
 	% Change
-Netflix Inc (24 Hours)	-5.78%
-Alphabet Inc - A (24 Hours)	-5.1%
-Alphabet Inc - C (24 Hours)	-5.09%
+Netflix Inc (24 Hours)	-5.88%
+Alphabet Inc - A (24 Hours)	-5.7%
+Alphabet Inc - C (24 Hours)	-5.66%
+Amazon.com Inc (24 Hours)	-4.68%
 TripAdvisor Inc	-4.67%
-Amazon.com Inc (24 Hours)	-4.54%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
