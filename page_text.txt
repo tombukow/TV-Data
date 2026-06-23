@@ -22,51 +22,45 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29590.4
-L 29273.9
--156.0
--0.53%
-Tue 23 Jun 2026 18:33:30 - Tue 23 Jun 2026 20:43:00
-29600.0
-29550.0
+H 30759.2
+L 28185.6
+-680.8
+-2.26%
+Thu 28 May 2026 16:00 - Fri 26 Jun 2026 8:00
+31000.0
+30500.0
+30000.0
 29500.0
-29450.0
-29400.0
-29350.0
-29300.0
-29250.0
-29404.9
-Sun 21 Jun
-4:00
-10:00
-16:00
-22:00
-Tue 23 Jun
-10:00
-18:45
-19:00
-19:15
-19:30
-19:45
-20:00
-20:15
-20:30
-Tue 23 Jun
+29000.0
+28500.0
+28000.0
+29431.0
+2025
+Aug
+Oct
+Dec
+2026
+Apr
+Mon 8
+Mon 15
+Mon 22
+May 2026
+Jun 2026
 Data is indicative
-10 Secs
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29403.1
+29428.5
 BUY
-29404.1
-1
--937.1(-3.09%)
+29433.5
+5
+91.7(0.31%)
 
-High: 30390.9
+High: 29444.1
 
-Low: 29273.4
+Low: 29318.7
 
 Long
 
@@ -91,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Check Point Software Technologies Ltd	3.18%
-Illumina Inc	1.97%
+Check Point Software Technologies Ltd	2.98%
+Illumina Inc	2.2%
 DISH Network Corp	1.94%
-Microsoft Corp (24 Hours)	1.76%
-Liberty Global PLC - A	1.59%
+Microsoft Corp (24 Hours)	1.83%
+Liberty Global PLC - A	1.63%
 	% Change
-Micron Technology Inc (24 Hours)	-13.32%
-QUALCOMM Inc (24 Hours)	-7.9%
-Intel Corp (24 Hours)	-5.62%
-Mattel Inc	-1.48%
-PayPal Holdings Inc (24 Hours)	-1.32%
+Micron Technology Inc (24 Hours)	-12.5%
+QUALCOMM Inc (24 Hours)	-7.94%
+Intel Corp (24 Hours)	-5.85%
+PayPal Holdings Inc (24 Hours)	-1.42%
+Mattel Inc	-0.86%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
