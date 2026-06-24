@@ -22,61 +22,54 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29599.5
-L 29223.4
--61.7
--0.21%
-Wed 24 Jun 2026 14:40 - Wed 24 Jun 2026 18:00
-29650.0
-29600.0
-29550.0
+H 30653.1
+L 28185.6
+-1173.6
+-3.87%
+Fri 5 Jun 2026 0:00 - Fri 26 Jun 2026 12:00
+31000.0
+30500.0
+30000.0
 29500.0
-29450.0
-29400.0
-29350.0
-29300.0
-29250.0
-29200.0
-29360.4
+29000.0
+28500.0
+28000.0
+29130.7
 2025
 Aug
 Oct
 Dec
 2026
 Apr
-15:00
-15:30
-16:00
-16:30
-17:00
-17:30
-18:00
-Wed 24 Jun
+Mon 8
+Mon 15
+Mon 22
+Jun 2026
 Data is indicative
-5 Mins
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29358.4
+29129.7
 BUY
-29359.4
+29130.7
 1
-19.6(0.07%)
+-209.1(-0.71%)
 
 High: 29600.1
 
-Low: 29222.7
+Low: 29062.3
 
 Long
 
 Short
 
-61%
+60%
 
-39%
+40%
 
-61% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +84,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	6.81%
-TripAdvisor Inc	3.67%
-DENTSPLY International Inc	3.28%
-Amazon.com Inc (24 Hours)	2.81%
-Starbucks Corp (24 Hours)	2.68%
+Illumina Inc	6.68%
+TripAdvisor Inc	3.51%
+Starbucks Corp (24 Hours)	2.37%
+PayPal Holdings Inc (24 Hours)	2.03%
+DISH Network Corp	1.94%
 	% Change
-QUALCOMM Inc (24 Hours)	-3.38%
-Netflix Inc (24 Hours)	-1.26%
-Micron Technology Inc (24 Hours)	-0.94%
-Liberty Global PLC - A	-0.85%
-Microsoft Corp (24 Hours)	-0.21%
+QUALCOMM Inc (24 Hours)	-4.04%
+Micron Technology Inc (24 Hours)	-3.06%
+Intel Corp (24 Hours)	-1.75%
+Netflix Inc (24 Hours)	-1.02%
+Meta Platforms Inc (24 Hours)	-0.94%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
