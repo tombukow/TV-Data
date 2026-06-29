@@ -22,58 +22,55 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30166.3
-L 28866.0
--394.9
--1.31%
-Tue 23 Jun 2026 3:00 - Tue 30 Jun 2026 11:00
-30400.0
-30200.0
-30000.0
+H 29788.1
+L 28989.5
+349.9
+1.19%
+Mon 29 Jun 2026 10:25 - Mon 29 Jun 2026 23:22
 29800.0
 29600.0
 29400.0
 29200.0
 29000.0
-28800.0
-29759.5
-2025
-Aug
-Oct
-Dec
-2026
-Apr
-Wed 24
-Thu 25
-Fri 26
-Mon 29
-Tue 30
+29726.0
+May 2026
+Mon 25
 Jun 2026
+Mon 8
+Mon 15
+Mon 22
+12:00
+14:00
+16:00
+18:00
+20:00
+22:00
+Mon 29 Jun
 Data is indicative
-1 Hour
+1 Min
 
 Unlock full charts - 
 
 SELL
-29759.4
+29725.0
 BUY
-29760.4
-1
-711.4(2.45%)
+29727.0
+2
+-42.1(-0.14%)
 
-High: 29783.3
+High: 29769.1
 
-Low: 28958.9
+Low: 29712.4
 
 Long
 
 Short
 
-56%
+55%
 
-44%
+45%
 
-56% of client accounts are long on this market 
+55% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Alphabet Inc - C (24 Hours)	4.64%
-Alphabet Inc - A (24 Hours)	4.55%
-Amazon.com Inc (24 Hours)	3.79%
-Meta Platforms Inc (24 Hours)	2.83%
-TripAdvisor Inc	2.43%
+Alphabet Inc - C (24 Hours)	4.7%
+Alphabet Inc - A (24 Hours)	4.59%
+Amazon.com Inc (24 Hours)	3%
+Illumina Inc	2.58%
+Meta Platforms Inc (24 Hours)	2.34%
 	% Change
-BioMarin Pharmaceutical Inc	-3.1%
-DENTSPLY International Inc	-1.86%
-Mattel Inc	-1.68%
-Gilead Sciences Inc (24 Hours)	-1.52%
-Microsoft Corp (24 Hours)	-1.01%
+BioMarin Pharmaceutical Inc	-2.25%
+Mattel Inc	-2.07%
+DENTSPLY International Inc	-1.73%
+Gilead Sciences Inc (24 Hours)	-1.47%
+Check Point Software Technologies Ltd	-1%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
