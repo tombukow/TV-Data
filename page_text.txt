@@ -22,45 +22,44 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29273.8
-L 28959.9
--259.3
--0.89%
-Fri 26 Jun 2026 19:09 - Sun 28 Jun 2026 23:22
-29300.0
-29250.0
-29200.0
-29150.0
-29100.0
-29050.0
-29000.0
-28950.0
-28990.1
-May 2026
-Mon 25
-Jun 2026
-Mon 8
-Mon 15
-Mon 22
-19:30
-20:00
-20:30
-21:00
-21:30
-Fri 26 Jun
-Sun 28 Jun 23:00
+H 30759.2
+L 22780.2
+5985.0
+25.23%
+Sat 21 Mar 2026 - Fri 10 Jul 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+29703.0
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Apr
+May
+Jun
+Jul
+2026
 Data is indicative
-1 Min
+Daily
 
 Unlock full charts - 
 
 SELL
-28988.5
+29702.3
 BUY
-28993.5
--57.5(-0.2%)
+29703.3
+1
+654.3(2.25%)
 
-High: 29112.2
+High: 29716.6
 
 Low: 28958.9
 
@@ -68,11 +67,11 @@ Long
 
 Short
 
-62%
+57%
 
-38%
+43%
 
-62% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +86,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-TripAdvisor Inc	7.5%
-Check Point Software Technologies Ltd	5.87%
-Microsoft Corp (24 Hours)	5.57%
-Adobe Systems Inc (24 Hours)	4.75%
-PayPal Holdings Inc (24 Hours)	4.06%
+Alphabet Inc - C (24 Hours)	4.71%
+Alphabet Inc - A (24 Hours)	4.57%
+Amazon.com Inc (24 Hours)	3.36%
+Meta Platforms Inc (24 Hours)	2.77%
+DISH Network Corp	1.94%
 	% Change
-QUALCOMM Inc (24 Hours)	-7.64%
-Micron Technology Inc (24 Hours)	-6.8%
-Intel Corp (24 Hours)	-4.32%
-Alphabet Inc - C (24 Hours)	-1.78%
-Alphabet Inc - A (24 Hours)	-1.66%
+BioMarin Pharmaceutical Inc	-3.19%
+Mattel Inc	-1.75%
+DENTSPLY International Inc	-1.68%
+Gilead Sciences Inc (24 Hours)	-1.58%
+Apple Inc (24 Hours)	-1.3%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -130,10 +129,6 @@ Wednesday, 13 May 2026 • 04:03
 US equities soar, but President Trump’s ‘Operation Project Freedom’ sparks new Hormuz drama
 
 Monday, 4 May 2026 • 03:23
-
-Super Micro Computer Q3 2026 earnings preview: will margins stabilise?
-
-Tuesday, 28 April 2026 • 04:15
 
 Find your next indices trade
 
