@@ -22,45 +22,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30653.1
-L 28185.6
-94.8
-0.32%
-Tue 9 Jun 2026 13:00 - Wed 1 Jul 2026 20:00
-31000.0
-30500.0
+H 30233.4
+L 29718.5
+368.6
+1.23%
+Tue 30 Jun 2026 11:54 - Tue 30 Jun 2026 18:22
+30300.0
+30200.0
+30100.0
 30000.0
-29500.0
-29000.0
-28500.0
-28000.0
-29732.6
-2025
-Aug
-Oct
-Dec
-2026
-Apr
+29900.0
+29800.0
+29700.0
+30216.7
+May 2026
+Jun 2026
+Mon 8
 Mon 15
 Mon 22
-Mon 29
-Jun 2026
-Jul 2026
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+Tue 30 Jun
 Data is indicative
-1 Hour
+1 Min
 
 Unlock full charts - 
 
 SELL
-29730.1
+30216.6
 BUY
-29735.1
-5
--35.5(-0.12%)
+30217.6
+1
+449.0(1.51%)
 
-High: 29769.1
+High: 30233.9
 
-Low: 29711.8
+Low: 29656.9
 
 Long
 
@@ -85,17 +86,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Alphabet Inc - C (24 Hours)	4.65%
-Alphabet Inc - A (24 Hours)	4.57%
-Amazon.com Inc (24 Hours)	3%
-Illumina Inc	2.58%
-Meta Platforms Inc (24 Hours)	2.34%
+Intel Corp (24 Hours)	6.38%
+Apple Inc (24 Hours)	2.36%
+DISH Network Corp	1.94%
+Alphabet Inc - A (24 Hours)	1.2%
+Mattel Inc	1.13%
 	% Change
-BioMarin Pharmaceutical Inc	-2.25%
-Mattel Inc	-2.07%
-DENTSPLY International Inc	-1.73%
-Gilead Sciences Inc (24 Hours)	-1.47%
-Microsoft Corp (24 Hours)	-1.06%
+PayPal Holdings Inc (24 Hours)	-3.2%
+DENTSPLY International Inc	-2.82%
+Adobe Systems Inc (24 Hours)	-2.28%
+QUALCOMM Inc (24 Hours)	-1.65%
+Illumina Inc	-1.63%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
