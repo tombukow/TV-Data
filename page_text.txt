@@ -22,11 +22,12 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30058.8
-L 29084.4
--585.2
--1.96%
-Thu 2 Jul 2026 5:40 - Thu 2 Jul 2026 21:50
+H 30326.8
+L 28959.9
+313.3
+1.08%
+Fri 26 Jun 2026 21:00 - Fri 3 Jul 2026 11:00
+30400.0
 30200.0
 30000.0
 29800.0
@@ -34,36 +35,34 @@ Thu 2 Jul 2026 5:40 - Thu 2 Jul 2026 21:50
 29400.0
 29200.0
 29000.0
-29236.7
+28800.0
+29315.4
 2025
-Sep
-Nov
+Aug
+Oct
+Dec
 2026
-Mar
-May
-8:00
-10:00
-12:00
-14:00
-16:00
-18:00
-20:00
-Thu 2 Jul
+Apr
+Tue 30
+Thu 2
+Fri 3
+Jun 2026
+Jul 2026
 Data is indicative
-5 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29236.7
+29312.9
 BUY
-29237.7
-1
--576.2(-1.93%)
+29317.9
+5
+24.7(0.08%)
 
-High: 30059.8
+High: 29320.0
 
-Low: 29083.9
+Low: 29268.5
 
 Long
 
@@ -88,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Netflix Inc (24 Hours)	5.39%
-Adobe Systems Inc (24 Hours)	4.92%
-Apple Inc (24 Hours)	4.42%
-Gilead Sciences Inc (24 Hours)	3.41%
-DENTSPLY International Inc	3.38%
+DENTSPLY International Inc	5.05%
+Apple Inc (24 Hours)	4.61%
+Netflix Inc (24 Hours)	4.52%
+Adobe Systems Inc (24 Hours)	4.29%
+Gilead Sciences Inc (24 Hours)	3.99%
 	% Change
-Micron Technology Inc (24 Hours)	-6.01%
-Intel Corp (24 Hours)	-5.64%
-Meta Platforms Inc (24 Hours)	-4.51%
-QUALCOMM Inc (24 Hours)	-3.86%
-Mattel Inc	-3.46%
+Micron Technology Inc (24 Hours)	-5.26%
+Intel Corp (24 Hours)	-5.1%
+Meta Platforms Inc (24 Hours)	-4.76%
+Mattel Inc	-2.91%
+QUALCOMM Inc (24 Hours)	-2.56%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
