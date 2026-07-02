@@ -1,6 +1,6 @@
 Skip to content
 
-Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 68% of retail investor accounts lose money when trading spread bets and CFDs with this provider. You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money.
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 69% of retail investor accounts lose money when trading spread bets and CFDs with this provider. You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money.
 
 
 Personal
@@ -22,56 +22,60 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30172.2
-L 29741.5
--290.2
--0.96%
-Wed 1 Jul 2026 11:34 - Thu 2 Jul 2026 0:31
-30200.0
-30100.0
+H 30759.2
+L 2824.6
+26393.3
+887.71%
+Mon 13 May 2013 - Mon 3 Apr 2028
+35000.0
 30000.0
-29900.0
-29800.0
-29700.0
-29834.9
-May 2026
-Jun 2026
-Mon 8
-Mon 15
-Mon 22
-Mon 29
-14:00
-16:00
-18:00
-20:00
-22:00
-Wed 1 Jul
-Thu 2 Jul
+25000.0
+20000.0
+15000.0
+10000.0
+5000.0
+0.0
+29366.5
+1990
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+2018
+2022
+2028
+2010
+2015
+2020
+2025
 Data is indicative
-1 Min
+Weekly
 
 Unlock full charts - 
 
 SELL
-29832.4
+29366.5
 BUY
-29837.4
-5
-21.5(0.07%)
+29367.5
+1
+-446.4(-1.5%)
 
-High: 29839.8
+High: 30059.8
 
-Low: 29740.5
+Low: 29336.2
 
 Long
 
 Short
 
-57%
+60%
 
-43%
+40%
 
-57% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -86,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Meta Platforms Inc (24 Hours)	8.85%
-Illumina Inc	4.58%
-DENTSPLY International Inc	4.52%
-Netflix Inc (24 Hours)	3.85%
-Microsoft Corp (24 Hours)	3.06%
+Apple Inc (24 Hours)	4.55%
+Adobe Systems Inc (24 Hours)	4.45%
+Netflix Inc (24 Hours)	3.88%
+Gilead Sciences Inc (24 Hours)	3.33%
+DENTSPLY International Inc	2.84%
 	% Change
-Micron Technology Inc (24 Hours)	-10.28%
-Intel Corp (24 Hours)	-8.58%
-QUALCOMM Inc (24 Hours)	-1.69%
-Mattel Inc	-1.01%
-Liberty Global PLC - A	-0.62%
+Meta Platforms Inc (24 Hours)	-4.54%
+Micron Technology Inc (24 Hours)	-4.4%
+Intel Corp (24 Hours)	-4.15%
+QUALCOMM Inc (24 Hours)	-4.01%
+Mattel Inc	-2.15%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -219,7 +223,7 @@ Investors
 Modern slavery act
 Connect with us
 
-Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 68% of retail investor accounts lose money when trading spread bets and CFDs with this provider. You should consider whether you understand how spread bets and CFDs work and whether you can afford to take the high risk of losing your money. 
+Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 69% of retail investor accounts lose money when trading spread bets and CFDs with this provider. You should consider whether you understand how spread bets and CFDs work and whether you can afford to take the high risk of losing your money. 
 
 Professional clients trading spread bets and CFDs can lose more than they deposit.
 
