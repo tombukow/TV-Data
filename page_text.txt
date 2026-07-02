@@ -23,10 +23,10 @@ Indices market data
 US Tech 100
 .NDX
 H 30058.8
-L 29097.6
--713.5
--2.39%
-Wed 1 Jul 2026 23:50 - Thu 2 Jul 2026 21:25
+L 29084.4
+-585.2
+-1.96%
+Thu 2 Jul 2026 5:40 - Thu 2 Jul 2026 21:50
 30200.0
 30000.0
 29800.0
@@ -34,20 +34,20 @@ Wed 1 Jul 2026 23:50 - Thu 2 Jul 2026 21:25
 29400.0
 29200.0
 29000.0
-29118.6
+29236.7
 2025
 Sep
 Nov
 2026
 Mar
 May
-3:00
-6:00
-9:00
+8:00
+10:00
 12:00
-15:00
+14:00
+16:00
 18:00
-21:00
+20:00
 Thu 2 Jul
 Data is indicative
 5 Mins
@@ -55,15 +55,15 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-29119.0
+29236.7
 BUY
-29120.0
+29237.7
 1
--693.9(-2.33%)
+-576.2(-1.93%)
 
 High: 30059.8
 
-Low: 29097.1
+Low: 29083.9
 
 Long
 
@@ -88,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Netflix Inc (24 Hours)	5.43%
-Adobe Systems Inc (24 Hours)	4.86%
-Apple Inc (24 Hours)	4.62%
-DENTSPLY International Inc	3.47%
-Gilead Sciences Inc (24 Hours)	3.06%
+Netflix Inc (24 Hours)	5.39%
+Adobe Systems Inc (24 Hours)	4.92%
+Apple Inc (24 Hours)	4.42%
+Gilead Sciences Inc (24 Hours)	3.41%
+DENTSPLY International Inc	3.38%
 	% Change
-Micron Technology Inc (24 Hours)	-7.26%
-Intel Corp (24 Hours)	-6.45%
-QUALCOMM Inc (24 Hours)	-4.96%
-Meta Platforms Inc (24 Hours)	-4.68%
-Mattel Inc	-3.24%
+Micron Technology Inc (24 Hours)	-6.01%
+Intel Corp (24 Hours)	-5.64%
+Meta Platforms Inc (24 Hours)	-4.51%
+QUALCOMM Inc (24 Hours)	-3.86%
+Mattel Inc	-3.46%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
