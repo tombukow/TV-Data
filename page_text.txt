@@ -22,41 +22,42 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30058.8
-L 29084.4
--100.8
--0.34%
-Wed 1 Jul 2026 21:00 - Tue 7 Jul 2026 4:00
-30200.0
-30000.0
+H 29787.2
+L 29706.6
+80.1
+0.27%
+Mon 6 Jul 2026 19:15 - Mon 6 Jul 2026 20:25
 29800.0
-29600.0
-29400.0
-29200.0
-29000.0
-29713.1
-2025
-Sep
-Nov
-2026
-Mar
-May
-Thu 2
-Fri 3
-Mon 6
-Tue 7
-Jul 2026
+29780.0
+29760.0
+29740.0
+29720.0
+29700.0
+29786.9
+May 2026
+Mon 8
+Mon 15
+Mon 22
+Mon 29
+19:20
+19:30
+19:40
+19:50
+20:00
+20:10
+20:20
+Mon 6 Jul
 Data is indicative
-30 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-29712.3
+29787.2
 BUY
-29713.3
+29788.2
 1
-50.8(0.17%)
+125.7(0.42%)
 
 High: 29848.2
 
@@ -85,17 +86,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	5.54%
-QUALCOMM Inc (24 Hours)	5.24%
-Illumina Inc	2.22%
-Intel Corp (24 Hours)	2.01%
-DISH Network Corp	1.94%
+DENTSPLY International Inc	6.82%
+QUALCOMM Inc (24 Hours)	5.65%
+Meta Platforms Inc (24 Hours)	3.14%
+Alphabet Inc - C (24 Hours)	2.39%
+Micron Technology Inc (24 Hours)	2.28%
 	% Change
-Liberty Global PLC - A	-3.14%
-TripAdvisor Inc	-2.97%
-Starbucks Corp (24 Hours)	-2.8%
-Netflix Inc (24 Hours)	-1.93%
-Gilead Sciences Inc (24 Hours)	-1.61%
+Liberty Global PLC - A	-3.58%
+Starbucks Corp (24 Hours)	-2.37%
+TripAdvisor Inc	-2.2%
+Netflix Inc (24 Hours)	-2.17%
+Gilead Sciences Inc (24 Hours)	-1.52%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
