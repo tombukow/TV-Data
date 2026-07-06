@@ -22,57 +22,53 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29669.0
-L 29650.6
-10.0
-0.03%
-Fri 3 Jul 2026 18:50 - Sun 5 Jul 2026 23:10
-29670.0
-29665.0
-29660.0
-29655.0
-29650.0
-29663.1
+H 30759.2
+L 26398.2
+3205.6
+12.08%
+Mon 20 Apr 2026 12:00 - Tue 14 Jul 2026 8:00
+31000.0
+30000.0
+29000.0
+28000.0
+27000.0
+26000.0
+29752.0
 2025
 Sep
 Nov
 2026
 Mar
 May
-19:00
-19:15
-19:30
-19:45
-20:00
-20:15
-20:30
-20:45
-Fri 3 Jul
-Sun 5 Jul 23:00
+May
+Jun
+Jul
+2026
 Data is indicative
-5 Mins
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29660.6
+29752.5
 BUY
-29665.6
-0.0(0%)
+29753.5
+1
+91.0(0.31%)
 
-High: 29665.6
+High: 29848.2
 
-Low: 29660.6
+Low: 29439.9
 
 Long
 
 Short
 
-60%
+58%
 
-40%
+42%
 
-60% of client accounts are long on this market 
+58% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +83,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	5.05%
-Apple Inc (24 Hours)	4.61%
-Netflix Inc (24 Hours)	4.52%
-Adobe Systems Inc (24 Hours)	4.29%
-Gilead Sciences Inc (24 Hours)	3.99%
+DENTSPLY International Inc	6.14%
+QUALCOMM Inc (24 Hours)	5.97%
+Intel Corp (24 Hours)	3.21%
+Illumina Inc	2.94%
+Micron Technology Inc (24 Hours)	2.27%
 	% Change
-Micron Technology Inc (24 Hours)	-5.26%
-Intel Corp (24 Hours)	-5.1%
-Meta Platforms Inc (24 Hours)	-4.76%
-Mattel Inc	-2.91%
-QUALCOMM Inc (24 Hours)	-2.56%
+Starbucks Corp (24 Hours)	-3.4%
+TripAdvisor Inc	-3.32%
+Liberty Global PLC - A	-2.69%
+Gilead Sciences Inc (24 Hours)	-1.71%
+Netflix Inc (24 Hours)	-1.67%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
