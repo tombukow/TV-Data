@@ -22,43 +22,47 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30653.0
-L 28866.0
--1102.5
--3.65%
-Wed 17 Jun 2026 10:00 - Thu 9 Jul 2026 18:00
-30500.0
-30000.0
-29500.0
-29000.0
-28500.0
-29074.7
-2025
-Sep
-Nov
-2026
-Mar
-May
+H 29191.9
+L 29173.9
+4.7
+0.02%
+Tue 7 Jul 2026 21:25 - Tue 7 Jul 2026 21:53
+29195.0
+29190.0
+29185.0
+29180.0
+29175.0
+29185.1
+May 2026
+Mon 8
+Mon 15
 Mon 22
 Mon 29
-Mon 6
-Jun 2026
-Jul 2026
+21:27
+21:30
+21:33
+21:36
+21:39
+21:42
+21:45
+21:48
+21:51
+Tue 7 Jul
 Data is indicative
-1 Hour
+1 Min
 
 Unlock full charts - 
 
 SELL
-29072.9
+29184.1
 BUY
-29073.9
-1
--641.3(-2.16%)
+29186.1
+2
+22.7(0.08%)
 
-High: 29738.2
+High: 29205.8
 
-Low: 28974.4
+Low: 29153.4
 
 Long
 
@@ -83,17 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	4.23%
-Mattel Inc	2.8%
-Meta Platforms Inc (24 Hours)	2.65%
-Adobe Systems Inc (24 Hours)	2.37%
-BioMarin Pharmaceutical Inc	2.13%
+Gilead Sciences Inc (24 Hours)	5.32%
+Mattel Inc	2.84%
+BioMarin Pharmaceutical Inc	2.65%
+Meta Platforms Inc (24 Hours)	2.52%
+DISH Network Corp	1.94%
 	% Change
-Intel Corp (24 Hours)	-11.34%
-Micron Technology Inc (24 Hours)	-7.7%
-QUALCOMM Inc (24 Hours)	-3.39%
-Illumina Inc	-1.92%
-DENTSPLY International Inc	-1.58%
+Intel Corp (24 Hours)	-9.86%
+Micron Technology Inc (24 Hours)	-4.94%
+QUALCOMM Inc (24 Hours)	-1.76%
+Illumina Inc	-1.32%
+TripAdvisor Inc	-1.15%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
