@@ -22,53 +22,48 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29232.0
-L 29100.1
-38.3
-0.13%
-Wed 8 Jul 2026 18:01:10 - Wed 8 Jul 2026 20:10:40
-29240.0
-29220.0
+H 30058.8
+L 28682.2
+-611.6
+-2.05%
+Thu 2 Jul 2026 1:00 - Thu 9 Jul 2026 12:30
+30200.0
+30000.0
+29800.0
+29600.0
+29400.0
 29200.0
-29180.0
-29160.0
-29140.0
-29120.0
-29100.0
-29080.0
-29175.0
-Sun 5 Jul
-6:00
-15:00
-Tue 7 Jul
-9:00
-18:00
-Wed 8 Jul
-12:00
-18:15
-18:30
-18:45
-19:00
-19:15
-19:30
-19:45
-20:00
-Wed 8 Jul
+29000.0
+28800.0
+28600.0
+29175.6
+2025
+Sep
+Nov
+2026
+Mar
+May
+Fri 3
+Mon 6
+Tue 7
+Wed 8
+Thu 9
+Jul 2026
 Data is indicative
-10 Secs
+30 Mins
 
 Unlock full charts - 
 
 SELL
-29174.7
+29174.6
 BUY
-29175.7
-1
-12.8(0.04%)
+29176.6
+2
+-63.1(-0.22%)
 
-High: 29326.7
+High: 29251.1
 
-Low: 28679.6
+Low: 29166.7
 
 Long
 
@@ -94,16 +89,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-QUALCOMM Inc (24 Hours)	1.45%
-Apple Inc (24 Hours)	1.07%
+QUALCOMM Inc (24 Hours)	1.52%
+Apple Inc (24 Hours)	0.82%
 Viacom Inc - A	0.77%
-Micron Technology Inc (24 Hours)	0.29%
+Micron Technology Inc (24 Hours)	0.31%
 	% Change
-TripAdvisor Inc	-5.14%
-DENTSPLY International Inc	-3.98%
-PayPal Holdings Inc (24 Hours)	-2.9%
-Intel Corp (24 Hours)	-2.55%
-Alphabet Inc - A (24 Hours)	-2.25%
+TripAdvisor Inc	-3.72%
+DENTSPLY International Inc	-3.36%
+PayPal Holdings Inc (24 Hours)	-2.3%
+Illumina Inc	-2.06%
+Meta Platforms Inc (24 Hours)	-1.92%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
