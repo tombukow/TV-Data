@@ -22,59 +22,58 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29774.4
-L 29362.1
-312.7
-1.06%
-Thu 9 Jul 2026 12:00 - Thu 9 Jul 2026 21:10
-29800.0
-29700.0
-29600.0
+H 30759.2
+L 28185.6
+901.8
+3.13%
+Wed 20 May 2026 0:00 - Wed 15 Jul 2026 0:00
+31000.0
+30500.0
+30000.0
 29500.0
-29400.0
-29300.0
-29700.5
+29000.0
+28500.0
+28000.0
+29719.2
 2025
 Sep
 Nov
 2026
 Mar
 May
-13:00
-14:00
-15:00
-16:00
-17:00
-18:00
-19:00
-20:00
-21:00
-Thu 9 Jul
+Mon 25
+Mon 8
+Mon 15
+Mon 22
+Mon 13
+May 2026
+Jun 2026
+Jul 2026
 Data is indicative
-5 Mins
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29699.8
+29718.2
 BUY
-29700.8
-1
-461.6(1.58%)
+29720.2
+2
+-12.5(-0.04%)
 
-High: 29774.9
+High: 29757.0
 
-Low: 29133.9
+Low: 29713.6
 
 Long
 
 Short
 
-60%
+59%
 
-40%
+41%
 
-60% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +88,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	5.91%
-Starbucks Corp (24 Hours)	2.62%
-Meta Platforms Inc (24 Hours)	2.48%
-QUALCOMM Inc (24 Hours)	2.04%
-Illumina Inc	2.03%
+Micron Technology Inc (24 Hours)	4.44%
+Meta Platforms Inc (24 Hours)	4.13%
+Illumina Inc	3.17%
+QUALCOMM Inc (24 Hours)	2.48%
+Starbucks Corp (24 Hours)	2.48%
 	% Change
-Alphabet Inc - A (24 Hours)	-1.23%
-Alphabet Inc - C (24 Hours)	-1.18%
-Gilead Sciences Inc (24 Hours)	-1.09%
-Netflix Inc (24 Hours)	-0.95%
-Mattel Inc	-0.72%
+Alphabet Inc - A (24 Hours)	-0.9%
+Alphabet Inc - C (24 Hours)	-0.81%
+Gilead Sciences Inc (24 Hours)	-0.72%
+Netflix Inc (24 Hours)	-0.32%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
