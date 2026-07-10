@@ -22,58 +22,59 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29774.4
-L 29646.3
-32.7
-0.11%
-Thu 9 Jul 2026 17:18 - Thu 9 Jul 2026 23:42
-29780.0
-29760.0
-29740.0
-29720.0
-29700.0
-29680.0
-29660.0
-29640.0
-29713.5
-May 2026
-Mon 8
-Mon 15
-Mon 22
-Mon 29
-Jul 2026
-18:00
-19:00
-20:00
-21:00
-22:00
-23:00
-Thu 9 Jul
+H 30759.2
+L 22780.2
+4330.4
+17.00%
+Tue 23 Dec 2025 - Sun 2 Aug 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+29809.9
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+2026
 Data is indicative
-3 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29711.0
+29809.1
 BUY
-29716.0
-5
--18.2(-0.06%)
+29810.1
+1
+77.9(0.26%)
 
-High: 29757.0
+High: 29819.3
 
-Low: 29703.5
+Low: 29465.7
 
 Long
 
 Short
 
-59%
+60%
 
-41%
+40%
 
-59% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,16 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	4.55%
-Meta Platforms Inc (24 Hours)	3.96%
-Illumina Inc	3.17%
-Starbucks Corp (24 Hours)	2.48%
-QUALCOMM Inc (24 Hours)	2.47%
+Meta Platforms Inc (24 Hours)	6.03%
+TripAdvisor Inc	3.79%
+DENTSPLY International Inc	2.65%
+DISH Network Corp	1.94%
+PayPal Holdings Inc (24 Hours)	1.7%
 	% Change
-Alphabet Inc - A (24 Hours)	-1.05%
-Alphabet Inc - C (24 Hours)	-0.87%
-Gilead Sciences Inc (24 Hours)	-0.72%
-Netflix Inc (24 Hours)	-0.22%
+Check Point Software Technologies Ltd	-4.01%
+Gilead Sciences Inc (24 Hours)	-3.8%
+Netflix Inc (24 Hours)	-3.46%
+Intel Corp (24 Hours)	-2.7%
+Liberty Global PLC - A	-1.64%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
