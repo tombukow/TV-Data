@@ -22,11 +22,11 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30759.2
-L 26875.0
-2325.4
-8.64%
-Fri 24 Apr 2026 - Wed 22 Jul 2026
+H 30653.1
+L 28185.6
+-579.4
+-1.92%
+Fri 5 Jun 2026 4:00 - Sat 18 Jul 2026 12:00
 31000.0
 30500.0
 30000.0
@@ -34,37 +34,33 @@ Fri 24 Apr 2026 - Wed 22 Jul 2026
 29000.0
 28500.0
 28000.0
-27500.0
-27000.0
-26500.0
-29225.0
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-May
-Jun
-Jul
+29578.3
+2025
+Sep
+Nov
 2026
+Mar
+May
+Mon 15
+Mon 22
+Mon 13
+Jun 2026
+Jul 2026
 Data is indicative
-Daily
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29222.5
+29577.8
 BUY
-29227.5
-5
--33.2(-0.11%)
+29578.8
+1
+320.1(1.09%)
 
-High: 29267.7
+High: 29714.8
 
-Low: 29180.9
+Low: 29095.9
 
 Long
 
@@ -89,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	4.24%
-Mattel Inc	3.83%
-TripAdvisor Inc	3%
-Adobe Systems Inc (24 Hours)	2.81%
-PayPal Holdings Inc (24 Hours)	2.78%
+Micron Technology Inc (24 Hours)	4.8%
+Intel Corp (24 Hours)	3.21%
+Check Point Software Technologies Ltd	2.37%
+DISH Network Corp	1.94%
+Alphabet Inc - A (24 Hours)	1.09%
 	% Change
-Intel Corp (24 Hours)	-6.13%
-Micron Technology Inc (24 Hours)	-5.09%
-QUALCOMM Inc (24 Hours)	-2.68%
-Meta Platforms Inc (24 Hours)	-1.88%
-Alphabet Inc - A (24 Hours)	-1.3%
+Adobe Systems Inc (24 Hours)	-3.89%
+TripAdvisor Inc	-3.78%
+Mattel Inc	-2.93%
+QUALCOMM Inc (24 Hours)	-2.27%
+PayPal Holdings Inc (24 Hours)	-1.97%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
