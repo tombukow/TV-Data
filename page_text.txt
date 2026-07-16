@@ -22,49 +22,49 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29263.3
-L 28880.7
--247.9
--0.85%
-Thu 16 Jul 2026 16:40 - Thu 16 Jul 2026 21:35
-29300.0
-29250.0
+H 29862.3
+L 28682.2
+-316.9
+-1.08%
+Tue 7 Jul 2026 18:30 - Fri 17 Jul 2026 21:30
+30000.0
+29800.0
+29600.0
+29400.0
 29200.0
-29150.0
-29100.0
-29050.0
 29000.0
-28950.0
-28900.0
-28850.0
-29011.4
+28800.0
+28600.0
+28980.7
 2025
 Sep
 Nov
 2026
 Mar
 May
-17:00
-18:00
-19:00
-20:00
-21:00
-Thu 16 Jul
+Thu 9
+Fri 10
+Mon 13
+Tue 14
+Wed 15
+Thu 16
+Fri 17
+Jul 2026
 Data is indicative
-5 Mins
+15 Mins
 
 Unlock full charts - 
 
 SELL
-29010.7
+28978.2
 BUY
-29012.7
-2
--6.5(-0.02%)
+28983.2
+5
+-37.5(-0.13%)
 
 High: 29032.1
 
-Low: 29000.1
+Low: 28965.7
 
 Long
 
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Mattel Inc	5.74%
-Adobe Systems Inc (24 Hours)	4.73%
-Gilead Sciences Inc (24 Hours)	3.5%
-DENTSPLY International Inc	3.47%
-Check Point Software Technologies Ltd	3.27%
+Mattel Inc	5.7%
+Adobe Systems Inc (24 Hours)	4.05%
+DENTSPLY International Inc	3.36%
+Gilead Sciences Inc (24 Hours)	3.32%
+Check Point Software Technologies Ltd	3.11%
 	% Change
-Intel Corp (24 Hours)	-6.03%
-Micron Technology Inc (24 Hours)	-6.01%
-Alphabet Inc - A (24 Hours)	-4.48%
-Alphabet Inc - C (24 Hours)	-4.39%
-QUALCOMM Inc (24 Hours)	-4.36%
+Netflix Inc (24 Hours)	-7.1%
+Intel Corp (24 Hours)	-5.99%
+Micron Technology Inc (24 Hours)	-5.28%
+QUALCOMM Inc (24 Hours)	-4.29%
+Alphabet Inc - A (24 Hours)	-3.93%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
