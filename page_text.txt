@@ -22,11 +22,11 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29862.3
-L 29194.2
--113.4
--0.38%
-Tue 14 Jul 2026 17:55 - Thu 16 Jul 2026 2:15
+H 29798.6
+L 29062.5
+-498.3
+-1.68%
+Wed 15 Jul 2026 12:20 - Thu 16 Jul 2026 20:40
 29900.0
 29800.0
 29700.0
@@ -36,20 +36,21 @@ Tue 14 Jul 2026 17:55 - Thu 16 Jul 2026 2:15
 29300.0
 29200.0
 29100.0
-29493.9
+29000.0
+29229.8
 2025
 Sep
 Nov
 2026
 Mar
 May
+16:00
 20:00
 4:00
 8:00
 12:00
 16:00
 20:00
-Tue 14 Jul
 Wed 15 Jul
 Thu 16 Jul
 Data is indicative
@@ -58,25 +59,25 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-29491.4
+29230.1
 BUY
-29496.4
-5
--4.5(-0.02%)
+29231.1
+1
+-267.8(-0.91%)
 
-High: 29534.9
+High: 29598.6
 
-Low: 29462.8
+Low: 29062.0
 
 Long
 
 Short
 
-59%
+60%
 
-41%
+40%
 
-59% of client accounts are long on this market 
+60% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +92,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-PayPal Holdings Inc (24 Hours)	16.78%
-DENTSPLY International Inc	5.51%
-TripAdvisor Inc	4.29%
-Apple Inc (24 Hours)	4.01%
-Alphabet Inc - C (24 Hours)	3.29%
+Mattel Inc	5.38%
+Starbucks Corp (24 Hours)	3.06%
+DENTSPLY International Inc	3.02%
+PayPal Holdings Inc (24 Hours)	2.75%
+Check Point Software Technologies Ltd	2.1%
 	% Change
-Micron Technology Inc (24 Hours)	-8%
-Intel Corp (24 Hours)	-4.32%
-Check Point Software Technologies Ltd	-3.38%
-Illumina Inc	-2.12%
-Starbucks Corp (24 Hours)	-0.86%
+Micron Technology Inc (24 Hours)	-4.54%
+Intel Corp (24 Hours)	-3.76%
+QUALCOMM Inc (24 Hours)	-2.73%
+Meta Platforms Inc (24 Hours)	-0.83%
+TripAdvisor Inc	-0.51%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
