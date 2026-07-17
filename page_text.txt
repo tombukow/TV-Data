@@ -22,46 +22,50 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29029.9
-L 28217.5
--437.3
--1.51%
-Thu 16 Jul 2026 22:30 - Sat 18 Jul 2026 0:00
-29000.0
-28800.0
+H 28670.4
+L 28530.6
+-42.7
+-0.15%
+Fri 17 Jul 2026 20:34 - Fri 17 Jul 2026 22:10
+28680.0
+28660.0
+28640.0
+28620.0
 28600.0
-28400.0
-28200.0
-28545.2
-2025
-Sep
-Nov
-2026
-Mar
-May
-3:00
-6:00
-9:00
-12:00
-15:00
-18:00
+28580.0
+28560.0
+28540.0
+28520.0
+28589.4
+Jun 2026
+Mon 15
+Mon 22
+Mon 29
+Jul 2026
+Mon 13
+20:40
+20:50
 21:00
-Thu 16 Jul
+21:10
+21:20
+21:30
+21:40
+21:50
+22:00
+22:10
 Fri 17 Jul
-Sat 18 Jul
 Data is indicative
-30 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-28544.2
+28585.3
 BUY
-28546.2
-2
--39.2(-0.14%)
+28590.3
+3.4(0.01%)
 
-High: 28586.4
+High: 28598.5
 
 Low: 28529.6
 
@@ -69,11 +73,11 @@ Long
 
 Short
 
-62%
+63%
 
-38%
+37%
 
-62% of client accounts are long on this market 
+63% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,16 +93,16 @@ Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
 DISH Network Corp	1.94%
-DENTSPLY International Inc	1.34%
-Adobe Systems Inc (24 Hours)	1.01%
-QUALCOMM Inc (24 Hours)	0.8%
+DENTSPLY International Inc	1.44%
+Adobe Systems Inc (24 Hours)	0.97%
+QUALCOMM Inc (24 Hours)	0.78%
 Viacom Inc - A	0.77%
 	% Change
-Netflix Inc (24 Hours)	-6.82%
-Liberty Global PLC - A	-3.22%
-Starbucks Corp (24 Hours)	-2.59%
-Meta Platforms Inc (24 Hours)	-2.59%
-Mattel Inc	-2.22%
+Netflix Inc (24 Hours)	-7.02%
+Meta Platforms Inc (24 Hours)	-3.07%
+Liberty Global PLC - A	-2.98%
+Starbucks Corp (24 Hours)	-2.57%
+Intel Corp (24 Hours)	-2.57%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
