@@ -22,59 +22,55 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29862.3
-L 28682.2
--316.9
--1.08%
-Tue 7 Jul 2026 18:30 - Fri 17 Jul 2026 21:30
+H 30759.2
+L 28185.6
+-463.9
+-1.59%
+Mon 18 May 2026 - Fri 24 Jul 2026
+31000.0
+30500.0
 30000.0
-29800.0
-29600.0
-29400.0
-29200.0
+29500.0
 29000.0
-28800.0
-28600.0
-28980.7
-2025
-Sep
-Nov
+28500.0
+28000.0
+28672.1
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Jun
+Jul
 2026
-Mar
-May
-Thu 9
-Fri 10
-Mon 13
-Tue 14
-Wed 15
-Thu 16
-Fri 17
-Jul 2026
 Data is indicative
-15 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-28978.2
+28670.2
 BUY
-28983.2
-5
--37.5(-0.13%)
+28671.2
+1
+-347.5(-1.2%)
 
 High: 29032.1
 
-Low: 28965.7
+Low: 28217.0
 
 Long
 
 Short
 
-61%
+62%
 
-39%
+38%
 
-61% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +85,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Mattel Inc	5.7%
-Adobe Systems Inc (24 Hours)	4.05%
-DENTSPLY International Inc	3.36%
-Gilead Sciences Inc (24 Hours)	3.32%
-Check Point Software Technologies Ltd	3.11%
+DISH Network Corp	1.94%
+Micron Technology Inc (24 Hours)	1.7%
+Gilead Sciences Inc (24 Hours)	1.06%
+Viacom Inc - A	0.77%
 	% Change
-Netflix Inc (24 Hours)	-7.1%
-Intel Corp (24 Hours)	-5.99%
-Micron Technology Inc (24 Hours)	-5.28%
-QUALCOMM Inc (24 Hours)	-4.29%
-Alphabet Inc - A (24 Hours)	-3.93%
+Netflix Inc (24 Hours)	-7.56%
+Meta Platforms Inc (24 Hours)	-5.23%
+Illumina Inc	-3%
+Intel Corp (24 Hours)	-2.94%
+Microsoft Corp (24 Hours)	-2.22%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
