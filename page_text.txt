@@ -22,50 +22,49 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28670.4
-L 28530.6
--42.7
--0.15%
-Fri 17 Jul 2026 20:34 - Fri 17 Jul 2026 22:10
-28680.0
-28660.0
-28640.0
-28620.0
-28600.0
-28580.0
-28560.0
-28540.0
-28520.0
-28589.4
+H 29012.5
+L 28698.9
+86.1
+0.30%
+Mon 20 Jul 2026 13:19 - Mon 20 Jul 2026 17:38
+29050.0
+29000.0
+28950.0
+28900.0
+28850.0
+28800.0
+28750.0
+28700.0
+28650.0
+28922.5
 Jun 2026
-Mon 15
 Mon 22
 Mon 29
 Jul 2026
 Mon 13
-20:40
-20:50
-21:00
-21:10
-21:20
-21:30
-21:40
-21:50
-22:00
-22:10
-Fri 17 Jul
+13:30
+14:00
+14:30
+15:00
+15:30
+16:00
+16:30
+17:00
+17:30
+Mon 20 Jul
 Data is indicative
 1 Min
 
 Unlock full charts - 
 
 SELL
-28585.3
+28922.0
 BUY
-28590.3
-3.4(0.01%)
+28923.0
+1
+338.1(1.18%)
 
-High: 28598.5
+High: 29013.0
 
 Low: 28529.6
 
@@ -92,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DISH Network Corp	1.94%
-DENTSPLY International Inc	1.44%
-Adobe Systems Inc (24 Hours)	0.97%
-QUALCOMM Inc (24 Hours)	0.78%
-Viacom Inc - A	0.77%
+Micron Technology Inc (24 Hours)	5.22%
+Intel Corp (24 Hours)	3.92%
+Alphabet Inc - C (24 Hours)	2.88%
+Alphabet Inc - A (24 Hours)	2.83%
+Amazon.com Inc (24 Hours)	1.94%
 	% Change
-Netflix Inc (24 Hours)	-7.02%
-Meta Platforms Inc (24 Hours)	-3.07%
-Liberty Global PLC - A	-2.98%
-Starbucks Corp (24 Hours)	-2.57%
-Intel Corp (24 Hours)	-2.57%
+Apple Inc (24 Hours)	-2.34%
+Adobe Systems Inc (24 Hours)	-2.34%
+Netflix Inc (24 Hours)	-1.94%
+DENTSPLY International Inc	-1.89%
+Illumina Inc	-1.41%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
