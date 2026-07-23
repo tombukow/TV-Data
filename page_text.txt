@@ -23,50 +23,48 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28441.1
-L 28384.0
-6.5
-0.02%
-Thu 23 Jul 2026 19:18:20 - Thu 23 Jul 2026 19:50:40
-28450.0
-28440.0
-28430.0
-28420.0
-28410.0
+H 29117.0
+L 28272.7
+-410.8
+-1.42%
+Wed 22 Jul 2026 22:24 - Fri 24 Jul 2026 0:18
+29200.0
+29000.0
+28800.0
+28600.0
 28400.0
-28390.0
-28380.0
-28402.7
-Tue 21 Jul
+28200.0
+28571.8
+Jun 2026
+Mon 22
+Mon 29
+Jul 2026
+Mon 13
+Mon 20
+3:00
+6:00
 9:00
-18:00
-Wed 22 Jul
 12:00
+15:00
+18:00
 21:00
 Thu 23 Jul
-19:20
-19:25
-19:30
-19:35
-19:40
-19:45
-19:50
-Thu 23 Jul
+Fri 24 Jul
 Data is indicative
-10 Secs
+2 Mins
 
 Unlock full charts - 
 
 SELL
-28401.7
+28570.8
 BUY
-28402.7
-1
--586.5(-2.02%)
+28572.8
+2
+129.2(0.45%)
 
-High: 29118.0
+High: 28578.9
 
-Low: 28272.1
+Low: 28441.6
 
 Long
 
@@ -91,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	3.19%
-Illumina Inc	2.34%
+Intel Corp (24 Hours)	5.33%
+Micron Technology Inc (24 Hours)	4.06%
+Illumina Inc	3.14%
 DISH Network Corp	1.94%
-BioMarin Pharmaceutical Inc	0.78%
-Viacom Inc - A	0.77%
+BioMarin Pharmaceutical Inc	0.8%
 	% Change
-Alphabet Inc - A (24 Hours)	-6.76%
-Alphabet Inc - C (24 Hours)	-6.56%
-DENTSPLY International Inc	-6.44%
-Amazon.com Inc (24 Hours)	-4.56%
-QUALCOMM Inc (24 Hours)	-3.79%
+Alphabet Inc - A (24 Hours)	-7.14%
+Alphabet Inc - C (24 Hours)	-6.88%
+Amazon.com Inc (24 Hours)	-4.55%
+DENTSPLY International Inc	-4.14%
+Meta Platforms Inc (24 Hours)	-3.65%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
