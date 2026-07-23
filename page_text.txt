@@ -23,46 +23,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28972.5
-L 28272.7
--417.4
--1.44%
-Thu 23 Jul 2026 7:00 - Thu 23 Jul 2026 19:57
-29100.0
-29000.0
-28900.0
-28800.0
-28700.0
-28600.0
-28500.0
+H 28441.1
+L 28384.0
+6.5
+0.02%
+Thu 23 Jul 2026 19:18:20 - Thu 23 Jul 2026 19:50:40
+28450.0
+28440.0
+28430.0
+28420.0
+28410.0
 28400.0
-28300.0
-28200.0
-28505.3
-Jun 2026
-Mon 22
-Mon 29
-Jul 2026
-Mon 13
-Mon 20
-8:00
-10:00
-12:00
-14:00
-16:00
+28390.0
+28380.0
+28402.7
+Tue 21 Jul
+9:00
 18:00
+Wed 22 Jul
+12:00
+21:00
+Thu 23 Jul
+19:20
+19:25
+19:30
+19:35
+19:40
+19:45
+19:50
 Thu 23 Jul
 Data is indicative
-1 Min
+10 Secs
 
 Unlock full charts - 
 
 SELL
-28506.2
+28401.7
 BUY
-28507.2
+28402.7
 1
--482.0(-1.66%)
+-586.5(-2.02%)
 
 High: 29118.0
 
@@ -72,11 +72,11 @@ Long
 
 Short
 
-61%
+62%
 
-39%
+38%
 
-61% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	4.05%
+Micron Technology Inc (24 Hours)	3.19%
+Illumina Inc	2.34%
 DISH Network Corp	1.94%
-Illumina Inc	1.87%
+BioMarin Pharmaceutical Inc	0.78%
 Viacom Inc - A	0.77%
-Netflix Inc (24 Hours)	0.47%
 	% Change
-Alphabet Inc - A (24 Hours)	-6.36%
-Alphabet Inc - C (24 Hours)	-6.21%
-DENTSPLY International Inc	-6.07%
-Amazon.com Inc (24 Hours)	-4.25%
-TripAdvisor Inc	-3.87%
+Alphabet Inc - A (24 Hours)	-6.76%
+Alphabet Inc - C (24 Hours)	-6.56%
+DENTSPLY International Inc	-6.44%
+Amazon.com Inc (24 Hours)	-4.56%
+QUALCOMM Inc (24 Hours)	-3.79%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
