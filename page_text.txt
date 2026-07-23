@@ -23,57 +23,58 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29862.3
-L 28217.5
--516.6
--1.75%
-Thu 9 Jul 2026 9:00 - Fri 24 Jul 2026 5:00
-30000.0
-29800.0
-29600.0
-29400.0
+H 29176.9
+L 28272.7
+-516.1
+-1.78%
+Wed 22 Jul 2026 12:35 - Thu 23 Jul 2026 20:55
 29200.0
 29000.0
 28800.0
 28600.0
 28400.0
 28200.0
-28000.0
-28952.3
+28422.3
 2025
 Sep
 Nov
 2026
 Mar
 May
-Mon 13
-Mon 20
-Jul 2026
+16:00
+20:00
+4:00
+8:00
+12:00
+16:00
+20:00
+Wed 22 Jul
+Thu 23 Jul
 Data is indicative
-1 Hour
+5 Mins
 
 Unlock full charts - 
 
 SELL
-28949.8
+28422.6
 BUY
-28954.8
-5
--36.5(-0.13%)
+28423.6
+1
+-565.6(-1.95%)
 
-High: 29092.1
+High: 29118.0
 
-Low: 28947.3
+Low: 28272.1
 
 Long
 
 Short
 
-60%
+62%
 
-40%
+38%
 
-60% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+Micron Technology Inc (24 Hours)	3.27%
+Illumina Inc	2.31%
 DISH Network Corp	1.94%
-QUALCOMM Inc (24 Hours)	1.5%
-Mattel Inc	1.41%
-Liberty Global PLC - A	1.36%
 Viacom Inc - A	0.77%
+BioMarin Pharmaceutical Inc	0.73%
 	% Change
-Alphabet Inc - A (24 Hours)	-5.06%
-Alphabet Inc - C (24 Hours)	-4.43%
-Meta Platforms Inc (24 Hours)	-3.35%
-Adobe Systems Inc (24 Hours)	-3.21%
-DENTSPLY International Inc	-2.78%
+Alphabet Inc - C (24 Hours)	-6.43%
+Alphabet Inc - A (24 Hours)	-6.43%
+DENTSPLY International Inc	-6.07%
+Amazon.com Inc (24 Hours)	-4.78%
+Meta Platforms Inc (24 Hours)	-4.11%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
