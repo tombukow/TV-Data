@@ -23,49 +23,42 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 27893.1
-L 27818.4
-24.1
-0.09%
-Tue 28 Jul 2026 18:15:00 - Tue 28 Jul 2026 18:40:40
+H 27924.8
+L 27459.1
+328.8
+1.20%
+Tue 28 Jul 2026 15:20 - Tue 28 Jul 2026 20:30
+28000.0
 27900.0
-27890.0
-27880.0
-27870.0
-27860.0
-27850.0
-27840.0
-27830.0
-27820.0
-27810.0
-27858.1
-Sun 26 Jul
-4:00
-10:00
+27800.0
+27700.0
+27600.0
+27500.0
+27400.0
+27795.7
+2025
+Sep
+Nov
+2026
+Mar
+May
 16:00
-22:00
-Tue 28 Jul
-10:00
-18:18
-18:21
-18:24
-18:27
-18:30
-18:33
-18:36
-18:39
+17:00
+18:00
+19:00
+20:00
 Tue 28 Jul
 Data is indicative
-10 Secs
+10 Mins
 
 Unlock full charts - 
 
 SELL
-27856.6
+27795.3
 BUY
-27857.6
+27796.3
 1
--180.6(-0.64%)
+-241.9(-0.86%)
 
 High: 28080.8
 
@@ -94,16 +87,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Adobe Systems Inc (24 Hours)	6.42%
-PayPal Holdings Inc (24 Hours)	4.56%
-Liberty Global PLC - A	4.22%
-Netflix Inc (24 Hours)	4.15%
-Mattel Inc	3.95%
+Adobe Systems Inc (24 Hours)	6%
+PayPal Holdings Inc (24 Hours)	4.34%
+Check Point Software Technologies Ltd	4.23%
+Mattel Inc	4.22%
+Liberty Global PLC - A	4.12%
 	% Change
-Micron Technology Inc (24 Hours)	-8.67%
-Intel Corp (24 Hours)	-4.68%
-QUALCOMM Inc (24 Hours)	-3.11%
-Starbucks Corp (24 Hours)	-0.43%
+Micron Technology Inc (24 Hours)	-9.02%
+Intel Corp (24 Hours)	-6.04%
+QUALCOMM Inc (24 Hours)	-4.39%
+Starbucks Corp (24 Hours)	-0.66%
+Meta Platforms Inc (24 Hours)	-0.13%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
