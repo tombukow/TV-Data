@@ -23,57 +23,54 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 27953.8
-L 27062.6
--796.2
--2.86%
-Wed 29 Jul 2026 11:05 - Wed 29 Jul 2026 23:55
+H 29191.2
+L 26982.6
+-533.5
+-1.87%
+Fri 17 Jul 2026 8:00 - Fri 31 Jul 2026 22:00
+29500.0
+29000.0
+28500.0
 28000.0
-27800.0
-27600.0
-27400.0
-27200.0
+27500.0
 27000.0
-27084.0
+26500.0
+28022.4
 2025
 Oct
 Dec
 2026
 Apr
 Jun
-12:00
-14:00
-16:00
-18:00
-20:00
-22:00
-Wed 29 Jul
-Thu 30 Jul
+Mon 20
+Mon 27
+Jul 2026
+Aug 2026
 Data is indicative
-5 Mins
+2 Hours
 
 Unlock full charts - 
 
 SELL
-27081.5
+28022.5
 BUY
-27086.5
-5
--120.8(-0.44%)
+28023.5
+1
+818.2(3.01%)
 
-High: 27220.1
+High: 28113.7
 
-Low: 27061.6
+Low: 26980.1
 
 Long
 
 Short
 
-67%
+65%
 
-33%
+35%
 
-67% of client accounts are long on this market 
+65% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Starbucks Corp (24 Hours)	7.61%
-DENTSPLY International Inc	5.26%
-Adobe Systems Inc (24 Hours)	4.9%
-Liberty Global PLC - A	3.03%
-Microsoft Corp (24 Hours)	2.23%
+Micron Technology Inc (24 Hours)	15.65%
+Microsoft Corp (24 Hours)	15.03%
+Intel Corp (24 Hours)	12.77%
+Amazon.com Inc (24 Hours)	5.22%
+Starbucks Corp (24 Hours)	3.89%
 	% Change
-Micron Technology Inc (24 Hours)	-12.67%
-QUALCOMM Inc (24 Hours)	-10.09%
-Meta Platforms Inc (24 Hours)	-9.69%
-Intel Corp (24 Hours)	-7.08%
-TripAdvisor Inc	-2.34%
+Check Point Software Technologies Ltd	-11.02%
+Meta Platforms Inc (24 Hours)	-8.76%
+Adobe Systems Inc (24 Hours)	-6.17%
+DENTSPLY International Inc	-4.26%
+TripAdvisor Inc	-2.5%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
