@@ -23,47 +23,49 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28275.6
-L 27452.1
-775.1
-2.82%
-Thu 30 Jul 2026 11:20 - Fri 31 Jul 2026 0:10
+H 28602.6
+L 27957.2
+-278.0
+-0.98%
+Fri 31 Jul 2026 5:52 - Fri 31 Jul 2026 18:48
+28700.0
+28600.0
+28500.0
 28400.0
+28300.0
 28200.0
+28100.0
 28000.0
-27800.0
-27600.0
-27400.0
-28227.8
-2025
-Oct
-Dec
-2026
-Apr
-Jun
+27900.0
+28137.2
+Jun 2026
+Mon 29
+Jul 2026
+Mon 13
+Mon 20
+Mon 27
+8:00
+10:00
 12:00
 14:00
 16:00
 18:00
-20:00
-22:00
-Thu 30 Jul
 Fri 31 Jul
 Data is indicative
-5 Mins
+2 Mins
 
 Unlock full charts - 
 
 SELL
-28225.3
+28139.6
 BUY
-28230.3
-5
-131.3(0.47%)
+28140.6
+1
+43.6(0.16%)
 
-High: 28276.8
+High: 28603.1
 
-Low: 28079.9
+Low: 27956.7
 
 Long
 
@@ -88,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	20.36%
-Microsoft Corp (24 Hours)	14.89%
-Intel Corp (24 Hours)	12.85%
-Amazon.com Inc (24 Hours)	12.31%
-Illumina Inc	5.27%
+Amazon.com Inc (24 Hours)	14.16%
+Alphabet Inc - A (24 Hours)	5.41%
+Alphabet Inc - C (24 Hours)	5.25%
+Microsoft Corp (24 Hours)	2.67%
+DISH Network Corp	1.94%
 	% Change
-Check Point Software Technologies Ltd	-8.19%
-Meta Platforms Inc (24 Hours)	-7.6%
-Adobe Systems Inc (24 Hours)	-6.23%
-Apple Inc (24 Hours)	-6.04%
-DENTSPLY International Inc	-3.24%
+Apple Inc (24 Hours)	-9.64%
+Micron Technology Inc (24 Hours)	-5.5%
+Illumina Inc	-2.87%
+DENTSPLY International Inc	-2.8%
+QUALCOMM Inc (24 Hours)	-2.18%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -118,11 +120,6 @@ React to the latest market news in-platform, where you need it
 Trading signals
 
 Identify the right time to trade with free technical signals, on indices and more
-
-US Tech 100 news and strategies from IG
-US equities hit record highs as focus shifts to US jobs data and monster SpaceX IPO
-
-Monday, 1 June 2026 • 03:57
 
 Find your next indices trade
 
