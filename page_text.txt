@@ -23,48 +23,47 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30327.6
-L 26982.6
--1561.4
--5.16%
-Tue 23 Jun 2026 - Sat 8 Aug 2026
-30500.0
-30000.0
-29500.0
-29000.0
-28500.0
-28000.0
-27500.0
-27000.0
-26500.0
-28713.2
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
+H 28778.4
+L 28623.7
+136.9
+0.48%
+Mon 3 Aug 2026 16:37 - Mon 3 Aug 2026 19:11
+28800.0
+28780.0
+28760.0
+28740.0
+28720.0
+28700.0
+28680.0
+28660.0
+28640.0
+28620.0
+28600.0
+28776.3
+Jun 2026
+Mon 6
 Mon 13
 Mon 20
 Mon 27
-Mon 3
-Jun 2026
-Jul 2026
+17:00
+17:30
+18:00
+18:30
+19:00
+Mon 3 Aug
 Data is indicative
-Daily
+1 Min
 
 Unlock full charts - 
 
 SELL
-28712.2
+28775.8
 BUY
-28713.2
+28776.8
 1
-431.3(1.53%)
+494.9(1.75%)
 
-High: 28726.0
+High: 28778.9
 
 Low: 28145.5
 
@@ -91,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Meta Platforms Inc (24 Hours)	7.23%
-Alphabet Inc - A (24 Hours)	5.42%
-DENTSPLY International Inc	5.27%
-Microsoft Corp (24 Hours)	5.14%
-Alphabet Inc - C (24 Hours)	5.03%
+Meta Platforms Inc (24 Hours)	6.24%
+Alphabet Inc - A (24 Hours)	5.2%
+Microsoft Corp (24 Hours)	5.2%
+Alphabet Inc - C (24 Hours)	4.69%
+Amazon.com Inc (24 Hours)	4.6%
 	% Change
-Check Point Software Technologies Ltd	-2.53%
-Illumina Inc	-1.66%
-Starbucks Corp (24 Hours)	-1.03%
-Apple Inc (24 Hours)	-0.83%
-Gilead Sciences Inc (24 Hours)	-0.81%
+Check Point Software Technologies Ltd	-2.99%
+Illumina Inc	-2.54%
+Gilead Sciences Inc (24 Hours)	-0.83%
+Apple Inc (24 Hours)	-0.81%
+Starbucks Corp (24 Hours)	-0.75%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
