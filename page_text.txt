@@ -23,58 +23,60 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28377.1
-L 27957.2
-73.9
-0.26%
-Fri 31 Jul 2026 14:52 - Fri 31 Jul 2026 19:11
-28400.0
-28300.0
-28200.0
-28100.0
+H 30327.6
+L 26982.6
+-1561.4
+-5.16%
+Tue 23 Jun 2026 - Sat 8 Aug 2026
+30500.0
+30000.0
+29500.0
+29000.0
+28500.0
 28000.0
-27900.0
-28342.6
-Jun 2026
-Mon 29
-Jul 2026
+27500.0
+27000.0
+26500.0
+28713.2
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
 Mon 13
 Mon 20
 Mon 27
-15:30
-16:00
-16:30
-17:00
-17:30
-18:00
-18:30
-19:00
-Fri 31 Jul
+Mon 3
+Jun 2026
+Jul 2026
 Data is indicative
-1 Min
+Daily
 
 Unlock full charts - 
 
 SELL
-28342.1
+28712.2
 BUY
-28343.1
+28713.2
 1
-246.1(0.88%)
+431.3(1.53%)
 
-High: 28603.1
+High: 28726.0
 
-Low: 27956.7
+Low: 28145.5
 
 Long
 
 Short
 
-64%
+58%
 
-36%
+42%
 
-64% of client accounts are long on this market 
+58% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Amazon.com Inc (24 Hours)	15.07%
-Alphabet Inc - A (24 Hours)	6.05%
-Alphabet Inc - C (24 Hours)	5.98%
-Microsoft Corp (24 Hours)	2.53%
-Intel Corp (24 Hours)	2.35%
+Meta Platforms Inc (24 Hours)	7.23%
+Alphabet Inc - A (24 Hours)	5.42%
+DENTSPLY International Inc	5.27%
+Microsoft Corp (24 Hours)	5.14%
+Alphabet Inc - C (24 Hours)	5.03%
 	% Change
-Apple Inc (24 Hours)	-9.6%
-Micron Technology Inc (24 Hours)	-2.61%
-Netflix Inc (24 Hours)	-2.38%
-Illumina Inc	-2.1%
-QUALCOMM Inc (24 Hours)	-1.79%
+Check Point Software Technologies Ltd	-2.53%
+Illumina Inc	-1.66%
+Starbucks Corp (24 Hours)	-1.03%
+Apple Inc (24 Hours)	-0.83%
+Gilead Sciences Inc (24 Hours)	-0.81%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
