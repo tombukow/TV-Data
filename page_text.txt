@@ -23,48 +23,43 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 28843.6
-L 28690.7
-96.0
-0.33%
-Mon 3 Aug 2026 17:50 - Mon 3 Aug 2026 20:24
-28860.0
-28840.0
-28820.0
-28800.0
-28780.0
-28760.0
-28740.0
-28720.0
-28700.0
-28680.0
-28807.3
-Jun 2026
-Mon 6
-Mon 13
-Mon 20
+H 29191.2
+L 26982.6
+-166.7
+-0.58%
+Tue 21 Jul 2026 8:00 - Wed 5 Aug 2026 4:00
+29500.0
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+26500.0
+28803.5
+2025
+Oct
+Dec
+2026
+Apr
+Jun
 Mon 27
-18:00
-18:30
-19:00
-19:30
-20:00
-Mon 3 Aug
+Jul 2026
+Aug 2026
 Data is indicative
-1 Min
+1 Hour
 
 Unlock full charts - 
 
 SELL
-28807.5
+28802.5
 BUY
-28808.5
-1
-526.6(1.86%)
+28804.5
+2
+22.4(0.08%)
 
-High: 28844.1
+High: 28822.3
 
-Low: 28145.5
+Low: 28758.4
 
 Long
 
@@ -89,17 +84,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Meta Platforms Inc (24 Hours)	6.51%
-Alphabet Inc - A (24 Hours)	5.35%
-Microsoft Corp (24 Hours)	5.32%
-Alphabet Inc - C (24 Hours)	4.75%
-Amazon.com Inc (24 Hours)	4.36%
+Meta Platforms Inc (24 Hours)	5.81%
+DENTSPLY International Inc	5.68%
+Microsoft Corp (24 Hours)	4.75%
+Alphabet Inc - A (24 Hours)	4.59%
+Amazon.com Inc (24 Hours)	4.21%
 	% Change
-Check Point Software Technologies Ltd	-2.9%
-Illumina Inc	-2.35%
-Apple Inc (24 Hours)	-1.13%
-Starbucks Corp (24 Hours)	-0.91%
-Mattel Inc	-0.43%
+Illumina Inc	-3.38%
+Check Point Software Technologies Ltd	-3.27%
+Apple Inc (24 Hours)	-1.72%
+Starbucks Corp (24 Hours)	-1.67%
+Mattel Inc	-1.39%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
