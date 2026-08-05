@@ -23,60 +23,60 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29712.5
-L 29574.5
--26.1
--0.09%
-Wed 5 Aug 2026 16:55 - Wed 5 Aug 2026 20:25
-29720.0
-29700.0
-29680.0
-29660.0
-29640.0
-29620.0
-29600.0
-29580.0
-29560.0
-29624.8
-2025
-Oct
-Dec
-2026
-Apr
-Jun
-17:00
-17:30
-18:00
-18:30
-19:00
-19:30
-20:00
-Wed 5 Aug
+H 30058.8
+L 26982.6
+-401.2
+-1.34%
+Thu 2 Jul 2026 - Sun 9 Aug 2026
+30500.0
+30000.0
+29500.0
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+26500.0
+29446.2
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+Mon 6
+Mon 13
+Mon 20
+Mon 27
+Mon 3
+Jul 2026
 Data is indicative
-5 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29623.0
+29445.2
 BUY
-29624.0
-1
--126.0(-0.42%)
+29447.2
+2
+-37.3(-0.13%)
 
-High: 29952.6
+High: 29494.1
 
-Low: 29574.0
+Low: 29408.2
 
 Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	2.75%
 DISH Network Corp	1.94%
-Intel Corp (24 Hours)	1.09%
-Check Point Software Technologies Ltd	0.88%
-Viacom Inc - A	0.77%
+Check Point Software Technologies Ltd	1.15%
+Starbucks Corp (24 Hours)	1.14%
+Netflix Inc (24 Hours)	0.92%
+Micron Technology Inc (24 Hours)	0.78%
 	% Change
-Alphabet Inc - A (24 Hours)	-4.28%
-Alphabet Inc - C (24 Hours)	-4.21%
-Liberty Global PLC - A	-3.71%
-DENTSPLY International Inc	-3.4%
-Gilead Sciences Inc (24 Hours)	-3.01%
+Alphabet Inc - A (24 Hours)	-3.92%
+Alphabet Inc - C (24 Hours)	-3.86%
+QUALCOMM Inc (24 Hours)	-3.67%
+DENTSPLY International Inc	-3.43%
+Liberty Global PLC - A	-3.21%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
