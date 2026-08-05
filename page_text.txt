@@ -23,47 +23,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29952.1
+H 29712.5
 L 29574.5
--210.1
--0.70%
-Wed 5 Aug 2026 7:15 - Wed 5 Aug 2026 20:12
-30000.0
-29950.0
-29900.0
-29850.0
-29800.0
-29750.0
+-26.1
+-0.09%
+Wed 5 Aug 2026 16:55 - Wed 5 Aug 2026 20:25
+29720.0
 29700.0
-29650.0
+29680.0
+29660.0
+29640.0
+29620.0
 29600.0
-29550.0
-29649.4
-Jun 2026
-Mon 6
-Mon 13
-Mon 20
-Mon 27
-Aug 2026
-8:00
-10:00
-12:00
-14:00
-16:00
+29580.0
+29560.0
+29624.8
+2025
+Oct
+Dec
+2026
+Apr
+Jun
+17:00
+17:30
 18:00
+18:30
+19:00
+19:30
 20:00
 Wed 5 Aug
 Data is indicative
-1 Min
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29648.9
+29623.0
 BUY
-29649.9
+29624.0
 1
--100.1(-0.34%)
+-126.0(-0.42%)
 
 High: 29952.6
 
@@ -92,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	2.96%
+Micron Technology Inc (24 Hours)	2.75%
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.3%
+Intel Corp (24 Hours)	1.09%
 Check Point Software Technologies Ltd	0.88%
-Intel Corp (24 Hours)	0.81%
+Viacom Inc - A	0.77%
 	% Change
-Alphabet Inc - C (24 Hours)	-4.08%
-Alphabet Inc - A (24 Hours)	-4.07%
-Gilead Sciences Inc (24 Hours)	-3.66%
-Liberty Global PLC - A	-3.62%
-DENTSPLY International Inc	-3.12%
+Alphabet Inc - A (24 Hours)	-4.28%
+Alphabet Inc - C (24 Hours)	-4.21%
+Liberty Global PLC - A	-3.71%
+DENTSPLY International Inc	-3.4%
+Gilead Sciences Inc (24 Hours)	-3.01%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
