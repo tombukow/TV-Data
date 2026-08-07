@@ -24,57 +24,57 @@ Indices market data
 US Tech 100
 .NDX
 H 29952.1
-L 29409.2
--323.2
--1.09%
-Wed 5 Aug 2026 3:45 - Thu 6 Aug 2026 1:20
+L 26982.6
+241.3
+0.83%
+Wed 8 Jul 2026 0:00 - Mon 10 Aug 2026 0:00
+30500.0
 30000.0
-29900.0
-29800.0
-29700.0
-29600.0
 29500.0
-29400.0
-29414.7
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+26500.0
+29394.2
 2025
 Oct
 Dec
 2026
 Apr
 Jun
-6:00
-9:00
-12:00
-15:00
-18:00
-21:00
-Wed 5 Aug
-Thu 6 Aug
+Mon 13
+Mon 20
+Mon 27
+Mon 3
+Mon 10
+Jul 2026
 Data is indicative
-5 Mins
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29412.2
+29392.7
 BUY
-29417.2
-5
--68.8(-0.23%)
+29394.7
+2
+18.6(0.06%)
 
-High: 29494.1
+High: 29505.2
 
-Low: 29408.2
+Low: 29357.0
 
 Long
 
 Short
 
-57%
+58%
 
-43%
+42%
 
-57% of client accounts are long on this market 
+58% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+PayPal Holdings Inc (24 Hours)	2.64%
+BioMarin Pharmaceutical Inc	2.59%
+Microsoft Corp (24 Hours)	2.35%
+Liberty Global PLC - A	1.99%
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.31%
-Check Point Software Technologies Ltd	1.15%
-Netflix Inc (24 Hours)	0.95%
-Viacom Inc - A	0.77%
 	% Change
-Alphabet Inc - A (24 Hours)	-3.97%
-Alphabet Inc - C (24 Hours)	-3.87%
-QUALCOMM Inc (24 Hours)	-3.69%
-Adobe Systems Inc (24 Hours)	-3.48%
-DENTSPLY International Inc	-3.43%
+TripAdvisor Inc	-25.52%
+DENTSPLY International Inc	-4.43%
+Illumina Inc	-3.08%
+Gilead Sciences Inc (24 Hours)	-1.33%
+Alphabet Inc - A (24 Hours)	-1.2%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
