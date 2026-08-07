@@ -23,19 +23,22 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29643.8
-L 29618.2
--6.8
--0.02%
-Fri 7 Aug 2026 18:54:10 - Fri 7 Aug 2026 19:15:30
-29645.0
+H 29711.0
+L 29564.9
+72.6
+0.24%
+Fri 7 Aug 2026 18:59:30 - Fri 7 Aug 2026 21:09:00
+29720.0
+29700.0
+29680.0
+29660.0
 29640.0
-29635.0
-29630.0
-29625.0
 29620.0
-29615.0
-29620.8
+29600.0
+29580.0
+29560.0
+29540.0
+29709.1
 Wed 5 Aug
 9:00
 18:00
@@ -43,13 +46,14 @@ Thu 6 Aug
 12:00
 21:00
 Fri 7 Aug
-18:57
-19:00
-19:03
-19:06
-19:09
-19:12
 19:15
+19:30
+19:45
+20:00
+20:15
+20:30
+20:45
+21:00
 Fri 7 Aug
 Data is indicative
 10 Secs
@@ -57,11 +61,11 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-29620.4
+29709.2
 BUY
-29621.4
+29710.2
 1
-245.8(0.84%)
+334.6(1.14%)
 
 High: 29752.6
 
@@ -90,17 +94,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	4.57%
-BioMarin Pharmaceutical Inc	3.36%
-TripAdvisor Inc	2.26%
-Gilead Sciences Inc (24 Hours)	2.11%
-Adobe Systems Inc (24 Hours)	2.05%
+QUALCOMM Inc (24 Hours)	4.26%
+BioMarin Pharmaceutical Inc	3.64%
+TripAdvisor Inc	2.93%
+Gilead Sciences Inc (24 Hours)	2.32%
+Adobe Systems Inc (24 Hours)	2.02%
 	% Change
-DENTSPLY International Inc	-8.09%
-Illumina Inc	-2.54%
-Liberty Global PLC - A	-1.44%
-Micron Technology Inc (24 Hours)	-1.04%
-PayPal Holdings Inc (24 Hours)	-0.97%
+DENTSPLY International Inc	-8.01%
+Illumina Inc	-3.04%
+Liberty Global PLC - A	-1.81%
+PayPal Holdings Inc (24 Hours)	-1.15%
+Alphabet Inc - A (24 Hours)	-0.75%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
