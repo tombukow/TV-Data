@@ -23,57 +23,59 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29751.6
-L 29343.2
-297.1
-1.01%
-Thu 6 Aug 2026 23:08 - Sat 8 Aug 2026 1:02
-29800.0
-29700.0
-29600.0
+H 29952.1
+L 27347.0
+2296.2
+8.39%
+Thu 30 Jul 2026 11:00 - Tue 11 Aug 2026 15:00
+30000.0
 29500.0
-29400.0
-29300.0
-29725.3
-Jun 2026
-Mon 6
-Mon 13
-Mon 20
-Mon 27
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+29671.7
+2025
+Oct
+Dec
+2026
+Apr
+Jun
+Fri 31
+Tue 4
+Wed 5
+Thu 6
+Fri 7
+Mon 10
+Tue 11
+Jul 2026
 Aug 2026
-3:00
-6:00
-9:00
-12:00
-15:00
-18:00
-21:00
-Fri 7 Aug
-Sat 8 Aug
 Data is indicative
-2 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29721.4
+29671.2
 BUY
-29726.4
-3.7(0.01%)
+29672.2
+1
+-48.5(-0.16%)
 
-High: 29736.1
+High: 29874.2
 
-Low: 29688.9
+Low: 29607.1
 
 Long
 
 Short
 
-59%
+54%
 
-41%
+46%
 
-59% of client accounts are long on this market 
+54% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	4.86%
-BioMarin Pharmaceutical Inc	3.82%
-TripAdvisor Inc	3.45%
-Mattel Inc	2.07%
-Check Point Software Technologies Ltd	2.03%
+BioMarin Pharmaceutical Inc	2.7%
+DISH Network Corp	1.94%
+Check Point Software Technologies Ltd	1.9%
+Illumina Inc	1.86%
+Adobe Systems Inc (24 Hours)	1.77%
 	% Change
-DENTSPLY International Inc	-7.97%
-Illumina Inc	-2.97%
-Liberty Global PLC - A	-2.13%
-PayPal Holdings Inc (24 Hours)	-1.25%
-Alphabet Inc - A (24 Hours)	-0.93%
+Liberty Global PLC - A	-3.65%
+Intel Corp (24 Hours)	-3.63%
+Apple Inc (24 Hours)	-2.18%
+DENTSPLY International Inc	-2.1%
+QUALCOMM Inc (24 Hours)	-1.86%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
