@@ -23,48 +23,44 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29549.9
-L 29463.7
-50.8
-0.17%
-Tue 11 Aug 2026 20:03:40 - Tue 11 Aug 2026 21:08:20
-29560.0
-29540.0
-29520.0
-29500.0
-29480.0
-29460.0
-29533.2
-Sun 9 Aug
-4:00
-10:00
-16:00
-22:00
-Tue 11 Aug
-10:00
-16:00
-20:10
-20:20
-20:30
-20:40
-20:50
-21:00
-Tue 11 Aug
+H 30759.2
+L 26117.3
+3264.6
+12.42%
+Thu 16 Apr 2026 3:00 - Sun 23 Aug 2026 9:00
+31000.0
+30000.0
+29000.0
+28000.0
+27000.0
+26000.0
+29545.1
+2025
+Oct
+Dec
+2026
+Apr
+Jun
+May
+Jun
+Jul
+Aug
+2026
 Data is indicative
-10 Secs
+3 Hours
 
 Unlock full charts - 
 
 SELL
-29532.7
+29542.6
 BUY
-29534.7
-2
-9.9(0.03%)
+29547.6
+5
+21.3(0.07%)
 
-High: 29540.9
+High: 29567.6
 
-Low: 29522.8
+Low: 29504.4
 
 Long
 
@@ -89,17 +85,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	2.28%
-Starbucks Corp (24 Hours)	2.07%
-Mattel Inc	2%
+Starbucks Corp (24 Hours)	2.04%
+Gilead Sciences Inc (24 Hours)	2.03%
+Mattel Inc	1.97%
 DISH Network Corp	1.94%
-BioMarin Pharmaceutical Inc	0.93%
+TripAdvisor Inc	1.58%
 	% Change
-Alphabet Inc - A (24 Hours)	-3.84%
-Adobe Systems Inc (24 Hours)	-3.55%
-Alphabet Inc - C (24 Hours)	-3.51%
-Amazon.com Inc (24 Hours)	-2.11%
-Netflix Inc (24 Hours)	-2.04%
+Alphabet Inc - A (24 Hours)	-3.54%
+Adobe Systems Inc (24 Hours)	-3.39%
+Alphabet Inc - C (24 Hours)	-3.33%
+Amazon.com Inc (24 Hours)	-2.08%
+Netflix Inc (24 Hours)	-1.85%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
