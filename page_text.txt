@@ -23,58 +23,58 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29952.1
-L 26982.6
--30.1
--0.10%
-Fri 3 Jul 2026 4:00 - Sat 15 Aug 2026 12:00
-30500.0
-30000.0
+H 29549.9
+L 29463.7
+50.8
+0.17%
+Tue 11 Aug 2026 20:03:40 - Tue 11 Aug 2026 21:08:20
+29560.0
+29540.0
+29520.0
 29500.0
-29000.0
-28500.0
-28000.0
-27500.0
-27000.0
-26500.0
-29474.7
-2025
-Oct
-Dec
-2026
-Apr
-Jun
-Mon 13
-Mon 20
-Mon 27
-Mon 10
-Jul 2026
-Aug 2026
+29480.0
+29460.0
+29533.2
+Sun 9 Aug
+4:00
+10:00
+16:00
+22:00
+Tue 11 Aug
+10:00
+16:00
+20:10
+20:20
+20:30
+20:40
+20:50
+21:00
+Tue 11 Aug
 Data is indicative
-4 Hours
+10 Secs
 
 Unlock full charts - 
 
 SELL
-29474.3
+29532.7
 BUY
-29475.3
-1
--152.2(-0.51%)
+29534.7
+2
+9.9(0.03%)
 
-High: 29774.7
+High: 29540.9
 
-Low: 29462.7
+Low: 29522.8
 
 Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	2.54%
+Gilead Sciences Inc (24 Hours)	2.28%
+Starbucks Corp (24 Hours)	2.07%
 Mattel Inc	2%
 DISH Network Corp	1.94%
-Meta Platforms Inc (24 Hours)	1.53%
-Starbucks Corp (24 Hours)	1.31%
+BioMarin Pharmaceutical Inc	0.93%
 	% Change
-Adobe Systems Inc (24 Hours)	-3.18%
-Alphabet Inc - A (24 Hours)	-3%
-Alphabet Inc - C (24 Hours)	-2.79%
-Check Point Software Technologies Ltd	-2.55%
-Amazon.com Inc (24 Hours)	-2.05%
+Alphabet Inc - A (24 Hours)	-3.84%
+Adobe Systems Inc (24 Hours)	-3.55%
+Alphabet Inc - C (24 Hours)	-3.51%
+Amazon.com Inc (24 Hours)	-2.11%
+Netflix Inc (24 Hours)	-2.04%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
