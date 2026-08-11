@@ -23,12 +23,11 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29873.2
-L 29558.5
--72.2
--0.24%
-Fri 7 Aug 2026 16:40 - Tue 11 Aug 2026 2:00
-29900.0
+H 29812.6
+L 29520.6
+-205.2
+-0.69%
+Mon 10 Aug 2026 12:00 - Tue 11 Aug 2026 20:00
 29850.0
 29800.0
 29750.0
@@ -37,46 +36,47 @@ Fri 7 Aug 2026 16:40 - Tue 11 Aug 2026 2:00
 29600.0
 29550.0
 29500.0
-29638.8
+29596.7
 2025
 Oct
 Dec
 2026
 Apr
 Jun
+16:00
+20:00
 4:00
 8:00
 12:00
 16:00
 20:00
-Fri 7 Aug
 Mon 10 Aug
 Tue 11 Aug
 Data is indicative
-5 Mins
+15 Mins
 
 Unlock full charts - 
 
 SELL
-29636.3
+29596.2
 BUY
-29641.3
-5
-11.8(0.04%)
+29597.2
+1
+-30.3(-0.1%)
 
-High: 29655.5
+High: 29774.7
 
-Low: 29620.7
+Low: 29520.1
 
 Long
 
 Short
 
-54%
+56%
 
-46%
+44%
 
-54% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-BioMarin Pharmaceutical Inc	7.95%
-Netflix Inc (24 Hours)	3.06%
-Adobe Systems Inc (24 Hours)	2.75%
-Check Point Software Technologies Ltd	2.6%
-Illumina Inc	2.04%
+Mattel Inc	2.68%
+Meta Platforms Inc (24 Hours)	2.62%
+DISH Network Corp	1.94%
+Starbucks Corp (24 Hours)	1.87%
+BioMarin Pharmaceutical Inc	1.23%
 	% Change
-DENTSPLY International Inc	-3.8%
-Liberty Global PLC - A	-3.79%
-Intel Corp (24 Hours)	-3.47%
-QUALCOMM Inc (24 Hours)	-3.15%
-Apple Inc (24 Hours)	-1.88%
+Adobe Systems Inc (24 Hours)	-1.89%
+Amazon.com Inc (24 Hours)	-1.73%
+Check Point Software Technologies Ltd	-1.66%
+Alphabet Inc - A (24 Hours)	-1.58%
+Alphabet Inc - C (24 Hours)	-1.53%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
