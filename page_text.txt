@@ -23,50 +23,49 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29891.9
-L 29425.5
-179.1
-0.60%
-Tue 11 Aug 2026 9:15 - Wed 12 Aug 2026 23:45
-29900.0
-29800.0
-29700.0
-29600.0
+H 30759.2
+L 26982.6
+2132.2
+7.72%
+Tue 5 May 2026 - Sun 23 Aug 2026
+31000.0
+30500.0
+30000.0
 29500.0
-29400.0
-29798.7
-2025
-Oct
-Dec
-2026
-Apr
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+26500.0
+29768.1
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
 Jun
-12:00
-16:00
-20:00
-4:00
-8:00
-12:00
-16:00
-20:00
-Tue 11 Aug
-Wed 12 Aug
-Thu 13 Aug
+Jul
+Aug
+2026
 Data is indicative
-15 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29798.2
+29767.8
 BUY
-29799.2
-1
-274.9(0.93%)
+29769.8
+2
+25.2(0.08%)
 
-High: 29892.4
+High: 29770.7
 
-Low: 29504.4
+Low: 29737.1
 
 Long
 
@@ -91,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	6.95%
-Intel Corp (24 Hours)	4.58%
+Micron Technology Inc (24 Hours)	4.97%
+Intel Corp (24 Hours)	3.2%
+Liberty Global PLC - A	2.01%
 DISH Network Corp	1.94%
-Liberty Global PLC - A	1.82%
-BioMarin Pharmaceutical Inc	1.78%
+Starbucks Corp (24 Hours)	1.63%
 	% Change
-Meta Platforms Inc (24 Hours)	-2.99%
-TripAdvisor Inc	-2.97%
-Adobe Systems Inc (24 Hours)	-2.9%
-DENTSPLY International Inc	-2.54%
-Microsoft Corp (24 Hours)	-2.25%
+Meta Platforms Inc (24 Hours)	-3.4%
+Mattel Inc	-2.76%
+TripAdvisor Inc	-2.42%
+Microsoft Corp (24 Hours)	-2.33%
+Adobe Systems Inc (24 Hours)	-1.92%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
