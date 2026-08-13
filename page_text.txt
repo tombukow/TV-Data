@@ -23,55 +23,62 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29891.9
-L 29119.9
-335.3
-1.14%
-Thu 6 Aug 2026 3:00 - Thu 13 Aug 2026 13:30
-30000.0
-29800.0
-29600.0
-29400.0
-29200.0
-29000.0
-29712.3
-2025
-Oct
-Dec
-2026
-Apr
-Jun
-Fri 7
-Mon 10
-Tue 11
-Wed 12
-Thu 13
+H 30160.2
+L 30053.5
+22.8
+0.08%
+Thu 13 Aug 2026 15:04 - Thu 13 Aug 2026 16:40
+30180.0
+30160.0
+30140.0
+30120.0
+30100.0
+30080.0
+30060.0
+30040.0
+30082.3
+Mon 29
+Jul 2026
+Mon 20
+Mon 27
 Aug 2026
+Mon 10
+15:10
+15:20
+15:30
+15:40
+15:50
+16:00
+16:10
+16:20
+16:30
+16:40
+Thu 13 Aug
 Data is indicative
-30 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-29709.8
+30084.1
 BUY
-29714.8
-5
--31.3(-0.11%)
+30085.1
+1
+341.0(1.15%)
 
-High: 29797.9
+High: 30160.7
 
-Low: 29695.2
+Low: 29674.9
 
 Long
 
 Short
 
-57%
+56%
 
-43%
+44%
 
-57% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -86,17 +93,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	5.26%
-Intel Corp (24 Hours)	3.27%
-Liberty Global PLC - A	2.26%
+Micron Technology Inc (24 Hours)	6.92%
+Intel Corp (24 Hours)	6.19%
+Netflix Inc (24 Hours)	3.28%
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.6%
+Meta Platforms Inc (24 Hours)	1.45%
 	% Change
-Meta Platforms Inc (24 Hours)	-3.39%
-Mattel Inc	-2.53%
-Microsoft Corp (24 Hours)	-2.45%
-TripAdvisor Inc	-2.19%
-Adobe Systems Inc (24 Hours)	-1.99%
+BioMarin Pharmaceutical Inc	-1.71%
+Liberty Global PLC - A	-0.91%
+Illumina Inc	-0.85%
+Adobe Systems Inc (24 Hours)	-0.72%
+TripAdvisor Inc	-0.7%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
