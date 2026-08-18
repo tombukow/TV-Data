@@ -24,56 +24,56 @@ Indices market data
 US Tech 100
 .NDX
 H 30243.9
-L 29425.5
--48.4
--0.16%
-Fri 7 Aug 2026 10:45 - Wed 19 Aug 2026 15:00
+L 29423.5
+-539.5
+-1.79%
+Fri 14 Aug 2026 22:00 - Tue 18 Aug 2026 23:00
 30200.0
 30000.0
 29800.0
 29600.0
 29400.0
-29467.0
+29548.8
 2025
 Oct
 Dec
 2026
 Apr
 Jun
-Mon 10
-Tue 11
-Wed 12
-Thu 13
-Fri 14
-Mon 17
-Tue 18
-Wed 19
-Aug 2026
+6:00
+12:00
+18:00
+6:00
+12:00
+18:00
+Mon 17 Aug
+Tue 18 Aug
+Wed 19 Aug
 Data is indicative
-15 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29465.8
+29548.4
 BUY
-29466.8
+29549.4
 1
--530.2(-1.77%)
+-447.6(-1.49%)
 
 High: 30028.5
 
-Low: 29443.5
+Low: 29423.0
 
 Long
 
 Short
 
-56%
+57%
 
-44%
+43%
 
-56% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Netflix Inc (24 Hours)	3.57%
-Adobe Systems Inc (24 Hours)	3.48%
-Gilead Sciences Inc (24 Hours)	2.74%
-TripAdvisor Inc	2.11%
-BioMarin Pharmaceutical Inc	1.94%
+Adobe Systems Inc (24 Hours)	4.47%
+Netflix Inc (24 Hours)	3.68%
+Gilead Sciences Inc (24 Hours)	3.45%
+Check Point Software Technologies Ltd	3.09%
+BioMarin Pharmaceutical Inc	2.1%
 	% Change
-Intel Corp (24 Hours)	-6.54%
-Micron Technology Inc (24 Hours)	-6.43%
-Meta Platforms Inc (24 Hours)	-3.66%
-QUALCOMM Inc (24 Hours)	-2.6%
-Illumina Inc	-1.13%
+Intel Corp (24 Hours)	-7.36%
+Micron Technology Inc (24 Hours)	-7.26%
+Meta Platforms Inc (24 Hours)	-2.96%
+Illumina Inc	-2.29%
+QUALCOMM Inc (24 Hours)	-2.23%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
