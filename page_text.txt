@@ -23,50 +23,47 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30326.8
-L 26982.6
-290.7
-0.98%
-Thu 25 Jun 2026 0:00 - Thu 20 Aug 2026 0:00
-30500.0
+H 30243.9
+L 29425.5
+-48.4
+-0.16%
+Fri 7 Aug 2026 10:45 - Wed 19 Aug 2026 15:00
+30200.0
 30000.0
-29500.0
-29000.0
-28500.0
-28000.0
-27500.0
-27000.0
-26500.0
-30045.6
+29800.0
+29600.0
+29400.0
+29467.0
 2025
 Oct
 Dec
 2026
 Apr
 Jun
-Mon 13
-Mon 20
-Mon 27
 Mon 10
+Tue 11
+Wed 12
+Thu 13
+Fri 14
 Mon 17
-Jun 2026
-Jul 2026
+Tue 18
+Wed 19
 Aug 2026
 Data is indicative
-4 Hours
+15 Mins
 
 Unlock full charts - 
 
 SELL
-30044.6
+29465.8
 BUY
-30046.6
-2
-1.1(0%)
+29466.8
+1
+-530.2(-1.77%)
 
-High: 30053.6
+High: 30028.5
 
-Low: 30027.1
+Low: 29443.5
 
 Long
 
@@ -91,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	2.19%
-DISH Network Corp	1.94%
-PayPal Holdings Inc (24 Hours)	1.63%
-Mattel Inc	1.01%
-Viacom Inc - A	0.77%
+Netflix Inc (24 Hours)	3.57%
+Adobe Systems Inc (24 Hours)	3.48%
+Gilead Sciences Inc (24 Hours)	2.74%
+TripAdvisor Inc	2.11%
+BioMarin Pharmaceutical Inc	1.94%
 	% Change
-Adobe Systems Inc (24 Hours)	-2.4%
-TripAdvisor Inc	-2.1%
-Check Point Software Technologies Ltd	-1.87%
-BioMarin Pharmaceutical Inc	-1.71%
-Intel Corp (24 Hours)	-1.47%
+Intel Corp (24 Hours)	-6.54%
+Micron Technology Inc (24 Hours)	-6.43%
+Meta Platforms Inc (24 Hours)	-3.66%
+QUALCOMM Inc (24 Hours)	-2.6%
+Illumina Inc	-1.13%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -222,7 +219,7 @@ Crypto - Don’t invest unless you’re prepared to lose all the money you inves
 
 Share dealing and IG Smart Portfolio accounts provided by IG Trading and Investments Ltd, CFD accounts are provided by IG Markets Ltd, spread betting provided by IG Index Ltd, cryptoassets services are provided by IG Digital Assets Ltd.
 
-IG is a trading name of IG Trading and Investments Ltd (a company registered in England and Wales under number 11628764), IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. IG Markets Ltd (Register number 195355), IG Trading and Investments Ltd (Register Number 944492) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.   
+IG is a trading name of IG Trading and Investments Ltd (a company registered in England and Wales under number 11628764), IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at 88 Wood Street, London, EC2V 7QR. IG Markets Ltd (Register number 195355), IG Trading and Investments Ltd (Register Number 944492) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.   
 
 The information on this site isn’t directed at residents of the United States, Belgium or any particular country outside the UK and isn’t intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
 
