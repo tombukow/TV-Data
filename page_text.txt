@@ -23,43 +23,47 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30759.2
-L 22665.1
-6615.3
-28.97%
-Wed 16 Jul 2025 - Sun 4 Oct 2026
-32000.0
-30000.0
-28000.0
-26000.0
-24000.0
-22000.0
-29454.2
-1990
-1998
-2002
-2006
-2010
-2014
-2018
-2022
-Oct
-Apr
-Jul
-Oct
+H 29657.2
+L 29286.0
+-132.8
+-0.45%
+Wed 19 Aug 2026 14:10 - Wed 19 Aug 2026 21:15
+29700.0
+29650.0
+29600.0
+29550.0
+29500.0
+29450.0
+29400.0
+29350.0
+29300.0
+29250.0
+29483.6
 2025
+Oct
+Dec
 2026
+Apr
+Jun
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+21:00
+Wed 19 Aug
 Data is indicative
-Daily
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29453.4
+29483.1
 BUY
-29454.4
+29484.1
 1
--37.9(-0.13%)
+-8.2(-0.03%)
 
 High: 29667.6
 
@@ -69,11 +73,11 @@ Long
 
 Short
 
-60%
+59%
 
-40%
+41%
 
-60% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -88,17 +92,15 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Illumina Inc	7.79%
-Netflix Inc (24 Hours)	3.54%
-Adobe Systems Inc (24 Hours)	3.53%
-BioMarin Pharmaceutical Inc	2.94%
-Gilead Sciences Inc (24 Hours)	2.83%
+Illumina Inc	7.68%
+Adobe Systems Inc (24 Hours)	4.24%
+Gilead Sciences Inc (24 Hours)	3.67%
+Netflix Inc (24 Hours)	3.5%
+BioMarin Pharmaceutical Inc	3.24%
 	% Change
-Intel Corp (24 Hours)	-3.82%
-Micron Technology Inc (24 Hours)	-1.14%
-Starbucks Corp (24 Hours)	-0.65%
-DENTSPLY International Inc	-0.41%
-Alphabet Inc - C (24 Hours)	-0.05%
+Intel Corp (24 Hours)	-3.73%
+Starbucks Corp (24 Hours)	-1.33%
+Micron Technology Inc (24 Hours)	-0.98%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
