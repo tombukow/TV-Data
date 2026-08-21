@@ -23,46 +23,38 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29408.1
-L 29188.6
-129.7
-0.44%
-Fri 21 Aug 2026 15:43:00 - Fri 21 Aug 2026 17:52:30
-29450.0
-29400.0
-29350.0
-29300.0
-29250.0
-29200.0
-29150.0
-29323.3
-Wed 19 Aug
-9:00
-18:00
-Thu 20 Aug
-12:00
-21:00
-Fri 21 Aug
-16:00
-16:15
-16:30
-16:45
-17:00
-17:15
-17:30
-17:45
-Fri 21 Aug
+H 30243.9
+L 28192.9
+834.2
+2.93%
+Mon 3 Aug 2026 10:00 - Sun 23 Aug 2026 16:00
+30500.0
+30000.0
+29500.0
+29000.0
+28500.0
+28000.0
+29305.8
+2025
+Oct
+Dec
+2026
+Apr
+Jun
+Mon 10
+Mon 17
+Aug 2026
 Data is indicative
-10 Secs
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29322.8
+29305.3
 BUY
-29323.8
+29306.3
 1
-103.1(0.35%)
+85.6(0.29%)
 
 High: 29454.7
 
@@ -91,17 +83,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Gilead Sciences Inc (24 Hours)	2.73%
-Illumina Inc	2.09%
+Illumina Inc	3.12%
+Gilead Sciences Inc (24 Hours)	2.27%
+Starbucks Corp (24 Hours)	2.07%
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.82%
-DENTSPLY International Inc	1.81%
+Alphabet Inc - A (24 Hours)	1.29%
 	% Change
-Intel Corp (24 Hours)	-2.27%
-BioMarin Pharmaceutical Inc	-1.03%
+Intel Corp (24 Hours)	-1.98%
+BioMarin Pharmaceutical Inc	-1.37%
+Mattel Inc	-0.99%
 Liberty Global PLC - A	-0.99%
-Micron Technology Inc (24 Hours)	-0.86%
-PayPal Holdings Inc (24 Hours)	-0.63%
+PayPal Holdings Inc (24 Hours)	-0.91%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
