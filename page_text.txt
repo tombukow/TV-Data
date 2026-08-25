@@ -23,59 +23,63 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29408.1
-L 28868.4
--209.5
--0.72%
-Fri 21 Aug 2026 16:25 - Tue 25 Aug 2026 1:45
-29500.0
-29400.0
-29300.0
-29200.0
-29100.0
-29000.0
-28900.0
-28800.0
-29050.2
-2025
-Oct
-Dec
-2026
+H 30759.2
+L 16325.0
+8130.5
+38.69%
+Jan 2025 - Nov 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+20000.0
+18000.0
+16000.0
+14000.0
+29148.1
+1990
+1996
+2000
+2004
+2008
+2012
+2016
+2020
 Apr
-Jun
-4:00
-8:00
-12:00
-16:00
-20:00
-Fri 21 Aug
-Mon 24 Aug
-Tue 25 Aug
+Jul
+Oct
+Apr
+Jul
+Oct
+2025
+2026
 Data is indicative
-5 Mins
+Monthly
 
 Unlock full charts - 
 
 SELL
-29049.2
+29147.1
 BUY
-29051.2
-2
-29.3(0.1%)
+29148.1
+1
+126.7(0.44%)
 
-High: 29051.2
+High: 29337.7
 
-Low: 28998.4
+Low: 28937.5
 
 Long
 
 Short
 
-61%
+62%
 
-39%
+38%
 
-61% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -90,17 +94,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Mattel Inc	2.14%
+Micron Technology Inc (24 Hours)	2.15%
 DISH Network Corp	1.94%
-TripAdvisor Inc	1.9%
-Illumina Inc	1.74%
-Meta Platforms Inc (24 Hours)	1.6%
+Mattel Inc	1.45%
+BioMarin Pharmaceutical Inc	1.38%
+Intel Corp (24 Hours)	1.2%
 	% Change
-Micron Technology Inc (24 Hours)	-5.93%
-Intel Corp (24 Hours)	-3.39%
-BioMarin Pharmaceutical Inc	-2.44%
-QUALCOMM Inc (24 Hours)	-1.57%
-DENTSPLY International Inc	-0.27%
+DENTSPLY International Inc	-2.16%
+Adobe Systems Inc (24 Hours)	-1.64%
+Check Point Software Technologies Ltd	-1.4%
+Starbucks Corp (24 Hours)	-1.33%
+TripAdvisor Inc	-0.74%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
