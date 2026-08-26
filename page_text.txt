@@ -23,42 +23,48 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29336.7
-L 28868.4
--126.4
--0.43%
-Mon 24 Aug 2026 3:00 - Thu 27 Aug 2026 1:00
-29400.0
+H 29299.6
+L 29029.0
+70.5
+0.24%
+Tue 25 Aug 2026 18:00 - Wed 26 Aug 2026 23:30
+29350.0
 29300.0
+29250.0
 29200.0
+29150.0
 29100.0
+29050.0
 29000.0
-28900.0
-28800.0
-29119.4
+29275.3
 2025
 Oct
 Dec
 2026
 Apr
 Jun
-Tue 25
-Wed 26
-Thu 27
-Aug 2026
+20:00
+4:00
+8:00
+12:00
+16:00
+20:00
+Tue 25 Aug
+Wed 26 Aug
+Thu 27 Aug
 Data is indicative
-1 Hour
+30 Mins
 
 Unlock full charts - 
 
 SELL
-29118.9
+29274.8
 BUY
-29119.9
+29275.8
 1
--82.9(-0.28%)
+73.0(0.25%)
 
-High: 29266.9
+High: 29300.1
 
 Low: 29028.0
 
@@ -66,11 +72,11 @@ Long
 
 Short
 
-63%
+62%
 
-37%
+38%
 
-63% of client accounts are long on this market 
+62% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -85,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
+Starbucks Corp (24 Hours)	2.01%
 DISH Network Corp	1.94%
-Starbucks Corp (24 Hours)	1.38%
-Meta Platforms Inc (24 Hours)	1.31%
-QUALCOMM Inc (24 Hours)	1.14%
-Apple Inc (24 Hours)	1.12%
+QUALCOMM Inc (24 Hours)	1.94%
+Apple Inc (24 Hours)	1.64%
+Meta Platforms Inc (24 Hours)	1.33%
 	% Change
-Alphabet Inc - A (24 Hours)	-1.88%
-Alphabet Inc - C (24 Hours)	-1.76%
-TripAdvisor Inc	-1.29%
-Adobe Systems Inc (24 Hours)	-1.1%
-Amazon.com Inc (24 Hours)	-0.92%
+Alphabet Inc - A (24 Hours)	-1.56%
+Alphabet Inc - C (24 Hours)	-1.35%
+TripAdvisor Inc	-0.79%
+DENTSPLY International Inc	-0.68%
+Mattel Inc	-0.62%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
