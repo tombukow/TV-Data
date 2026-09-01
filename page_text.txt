@@ -23,56 +23,57 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29483.2
-L 29385.6
-59.1
-0.20%
-Mon 31 Aug 2026 20:35 - Tue 1 Sep 2026 1:30
-29500.0
-29480.0
-29460.0
-29440.0
-29420.0
-29400.0
-29380.0
-29449.5
-2025
-Oct
-Dec
-2026
-Apr
-Jun
-21:00
-22:00
-23:00
-1:00
-Mon 31 Aug
+H 29268.5
+L 29054.2
+-18.6
+-0.06%
+Tue 1 Sep 2026 15:07 - Tue 1 Sep 2026 19:26
+29300.0
+29250.0
+29200.0
+29150.0
+29100.0
+29050.0
+29076.6
+Jul 2026
+Aug 2026
+Mon 10
+Mon 17
+Mon 24
+15:30
+16:00
+16:30
+17:00
+17:30
+18:00
+18:30
+19:00
 Tue 1 Sep
 Data is indicative
-5 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-29448.8
+29076.1
 BUY
-29450.8
-2
--3.6(-0.01%)
+29077.1
+1
+-376.8(-1.28%)
 
-High: 29475.1
+High: 29518.6
 
-Low: 29432.5
+Low: 28988.3
 
 Long
 
 Short
 
-57%
+59%
 
-43%
+41%
 
-57% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	3.77%
-Micron Technology Inc (24 Hours)	2.26%
+Apple Inc (24 Hours)	2.48%
 DISH Network Corp	1.94%
-BioMarin Pharmaceutical Inc	0.87%
+Gilead Sciences Inc (24 Hours)	1.85%
+Meta Platforms Inc (24 Hours)	1.73%
 Viacom Inc - A	0.77%
 	% Change
-TripAdvisor Inc	-3.55%
-Amazon.com Inc (24 Hours)	-2.4%
-Alphabet Inc - C (24 Hours)	-2.01%
-Alphabet Inc - A (24 Hours)	-1.96%
-PayPal Holdings Inc (24 Hours)	-1.73%
+Check Point Software Technologies Ltd	-2.93%
+QUALCOMM Inc (24 Hours)	-2.59%
+Illumina Inc	-2.31%
+Micron Technology Inc (24 Hours)	-2.27%
+Amazon.com Inc (24 Hours)	-1.98%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
