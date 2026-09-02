@@ -25,9 +25,9 @@ US Tech 100
 .NDX
 H 29165.0
 L 28877.8
-107.9
-0.37%
-Wed 2 Sep 2026 9:30 - Wed 2 Sep 2026 20:10
+39.5
+0.14%
+Wed 2 Sep 2026 1:15 - Wed 2 Sep 2026 22:50
 29200.0
 29150.0
 29100.0
@@ -36,19 +36,20 @@ Wed 2 Sep 2026 9:30 - Wed 2 Sep 2026 20:10
 28950.0
 28900.0
 28850.0
-29112.1
+29119.4
 2025
 Nov
 2026
 Mar
 May
 Jul
-10:00
+3:00
+6:00
+9:00
 12:00
-14:00
-16:00
+15:00
 18:00
-20:00
+21:00
 Wed 2 Sep
 Data is indicative
 5 Mins
@@ -56,11 +57,11 @@ Data is indicative
 Unlock full charts - 
 
 SELL
-29111.5
+29118.9
 BUY
-29112.5
+29119.9
 1
-35.8(0.12%)
+43.2(0.15%)
 
 High: 29165.5
 
@@ -70,11 +71,11 @@ Long
 
 Short
 
-60%
+61%
 
-40%
+39%
 
-60% of client accounts are long on this market 
+61% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	6.46%
-PayPal Holdings Inc (24 Hours)	3.51%
-BioMarin Pharmaceutical Inc	2.44%
-Meta Platforms Inc (24 Hours)	2.28%
-Liberty Global PLC - A	2.23%
+DENTSPLY International Inc	6.09%
+PayPal Holdings Inc (24 Hours)	3.44%
+Illumina Inc	3.12%
+Meta Platforms Inc (24 Hours)	3%
+BioMarin Pharmaceutical Inc	2.95%
 	% Change
-Adobe Systems Inc (24 Hours)	-1.46%
-Microsoft Corp (24 Hours)	-0.83%
-Check Point Software Technologies Ltd	-0.74%
-Gilead Sciences Inc (24 Hours)	-0.2%
-Amazon.com Inc (24 Hours)	-0.02%
+Adobe Systems Inc (24 Hours)	-1.69%
+Microsoft Corp (24 Hours)	-0.95%
+Gilead Sciences Inc (24 Hours)	-0.44%
+Check Point Software Technologies Ltd	-0.36%
+Mattel Inc	-0.03%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
@@ -229,9 +230,3 @@ IG Group
 Marketing partnership
 © 2003-2026
 Téléchargez l'app:
-Nos preocupamos por tu privacidad
-
-Utilizamos cookies y tecnologías parecidas («Cookies») en nuestra página web, en nuestras apps y correos electrónicos. Las Cookies hacen que nuestro sitio funcione y proporcionan datos que usamos para mejorarlo. También nos permiten asegurar que la publicidad que ves sea relevante para ti, además de que nos sirve a fin de entender cómo respondes a nuestros emails. Algunas Cookies son esenciales para el funcionamiento de nuestra página. Otras Cookies, como las de rendimiento o funcionales, te sirven a ti y a nosotros, pero necesitamos tu consentimiento para implementarlas. Para obtener más información, lee nuestra Política de Cookies. Haz clic en «Aceptar» para consentir a nuestro uso de estas otras Cookies, o bien haz clic en «Preferencias» para cambiar tus preferencias.
-
-Aceptar
-Preferencias
