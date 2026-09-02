@@ -23,48 +23,48 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29165.0
-L 28877.8
-142.4
-0.49%
-Wed 2 Sep 2026 9:36 - Wed 2 Sep 2026 22:33
-29200.0
-29150.0
-29100.0
-29050.0
-29000.0
-28950.0
-28900.0
-28850.0
-29142.2
-Jul 2026
-Aug 2026
-Mon 10
-Mon 17
-Mon 24
-Mon 31
-12:00
-14:00
+H 29137.0
+L 29134.8
+2.2
+0.01%
+Wed 2 Sep 2026 22:37:40 - Wed 2 Sep 2026 22:38:06
+29137.5
+29137.0
+29136.5
+29136.0
+29135.5
+29135.0
+29134.5
+29137.0
+Sun 30 Aug
+8:00
 16:00
-18:00
-20:00
-22:00
+Tue 1 Sep
+8:00
+16:00
+Wed 2 Sep
+8:00
+22:37:45
+22:37:50
+22:37:55
+22:38:00
+22:38:05
 Wed 2 Sep
 Data is indicative
-1 Min
+1 Sec
 
 Unlock full charts - 
 
 SELL
-29140.9
+29134.5
 BUY
-29142.9
-2
-2.2(0.01%)
+29139.5
+5
+-2.7(-0.01%)
 
-High: 29151.7
+High: 29162.5
 
-Low: 29136.6
+Low: 29089.8
 
 Long
 
@@ -89,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-DENTSPLY International Inc	4.79%
-PayPal Holdings Inc (24 Hours)	4.43%
+DENTSPLY International Inc	4.93%
+PayPal Holdings Inc (24 Hours)	4.47%
 BioMarin Pharmaceutical Inc	3.29%
-Illumina Inc	2.94%
-Meta Platforms Inc (24 Hours)	2.48%
+Illumina Inc	2.95%
+Meta Platforms Inc (24 Hours)	2.85%
 	% Change
-Adobe Systems Inc (24 Hours)	-2.17%
-Microsoft Corp (24 Hours)	-0.87%
-Check Point Software Technologies Ltd	-0.39%
-Gilead Sciences Inc (24 Hours)	-0.25%
-Apple Inc (24 Hours)	-0.08%
+Adobe Systems Inc (24 Hours)	-1.64%
+Microsoft Corp (24 Hours)	-0.46%
+Check Point Software Technologies Ltd	-0.43%
+Gilead Sciences Inc (24 Hours)	-0.2%
+Apple Inc (24 Hours)	-0.06%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
