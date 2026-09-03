@@ -23,46 +23,43 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29506.6
-L 29433.0
-61.6
-0.21%
-Thu 3 Sep 2026 18:20 - Thu 3 Sep 2026 19:02
-29520.0
+H 29507.2
+L 29499.1
+-4.4
+-0.01%
+Thu 3 Sep 2026 20:09:41 - Thu 3 Sep 2026 20:11:49
+29508.0
+29506.0
+29504.0
+29502.0
 29500.0
-29480.0
-29460.0
-29440.0
-29420.0
-29503.9
-Jul 2026
-Aug 2026
-Mon 10
-Mon 17
-Mon 24
-Mon 31
-18:25
-18:30
-18:35
-18:40
-18:45
-18:50
-18:55
-19:00
+29498.0
+29498.8
+Tue 1 Sep
+9:00
+18:00
+Wed 2 Sep
+12:00
+21:00
+Thu 3 Sep
+20:10:00
+20:10:30
+20:11:00
+20:11:30
 Thu 3 Sep
 Data is indicative
-1 Min
+1 Sec
 
 Unlock full charts - 
 
 SELL
-29503.7
+29498.3
 BUY
-29504.7
+29499.3
 1
-364.5(1.25%)
+359.1(1.23%)
 
-High: 29507.1
+High: 29539.9
 
 Low: 29030.4
 
@@ -89,17 +86,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Meta Platforms Inc (24 Hours)	3.77%
-PayPal Holdings Inc (24 Hours)	3.2%
-Microsoft Corp (24 Hours)	2.87%
-Check Point Software Technologies Ltd	2.77%
-Adobe Systems Inc (24 Hours)	2.21%
+Meta Platforms Inc (24 Hours)	3.55%
+PayPal Holdings Inc (24 Hours)	3.49%
+Microsoft Corp (24 Hours)	3.06%
+Illumina Inc	2.68%
+Check Point Software Technologies Ltd	2.55%
 	% Change
 Mattel Inc	-2.49%
-TripAdvisor Inc	-1.72%
-Micron Technology Inc (24 Hours)	-1.03%
-Liberty Global PLC - A	-0.61%
-BioMarin Pharmaceutical Inc	-0.5%
+TripAdvisor Inc	-2.45%
+BioMarin Pharmaceutical Inc	-0.72%
+Micron Technology Inc (24 Hours)	-0.42%
+Liberty Global PLC - A	-0.42%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
