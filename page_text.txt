@@ -23,46 +23,45 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29615.4
-L 29504.9
--7.9
--0.03%
-Mon 7 Sep 2026 11:40 - Mon 7 Sep 2026 20:50
-29620.0
-29600.0
-29580.0
-29560.0
-29540.0
-29520.0
+H 30243.9
+L 26982.6
+1919.5
+6.94%
+Wed 29 Jul 2026 3:00 - Fri 11 Sep 2026 16:00
+30500.0
+30000.0
 29500.0
-29570.6
+29000.0
+28500.0
+28000.0
+27500.0
+27000.0
+26500.0
+29561.6
 2025
 Nov
 2026
 Mar
 May
 Jul
-12:00
-13:00
-14:00
-15:00
-16:00
-17:00
-18:00
-19:00
-20:00
-Mon 7 Sep
+Mon 10
+Mon 17
+Mon 24
+Mon 7
+Jul 2026
+Aug 2026
+Sep 2026
 Data is indicative
-5 Mins
+1 Hour
 
 Unlock full charts - 
 
 SELL
-29568.1
+29559.1
 BUY
-29573.1
+29564.1
 5
-32.8(0.11%)
+23.8(0.08%)
 
 High: 29653.1
 
@@ -72,11 +71,11 @@ Long
 
 Short
 
-53%
+54%
 
-47%
+46%
 
-53% of client accounts are long on this market 
+54% of client accounts are long on this market 
 
 FAST
 SECURE
