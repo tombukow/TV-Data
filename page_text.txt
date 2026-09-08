@@ -23,58 +23,62 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29615.4
-L 29504.9
--59.0
--0.20%
-Mon 7 Sep 2026 11:20 - Tue 8 Sep 2026 1:30
-29620.0
+H 29734.3
+L 29397.5
+-23.2
+-0.08%
+Mon 7 Sep 2026 14:25 - Tue 8 Sep 2026 22:45
+29750.0
+29700.0
+29650.0
 29600.0
-29580.0
-29560.0
-29540.0
-29520.0
+29550.0
 29500.0
-29528.8
+29450.0
+29400.0
+29350.0
+29569.1
 2025
 Nov
 2026
 Mar
 May
 Jul
-12:00
-14:00
 16:00
-18:00
 20:00
-22:00
+4:00
+8:00
+12:00
+16:00
+20:00
 Mon 7 Sep
 Tue 8 Sep
+Wed 9 Sep
 Data is indicative
-10 Mins
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29527.8
+29568.6
 BUY
-29529.8
-2
--32.6(-0.11%)
+29569.6
+1
+7.7(0.03%)
 
-High: 29594.5
+High: 29735.3
 
-Low: 29515.2
+Low: 29397.0
 
 Long
 
 Short
 
-53%
+55%
 
-47%
+45%
 
-53% of client accounts are long on this market 
+55% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +93,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	5.78%
-Intel Corp (24 Hours)	4.2%
+Intel Corp (24 Hours)	9.73%
+QUALCOMM Inc (24 Hours)	2.8%
 DISH Network Corp	1.94%
-Mattel Inc	1.61%
-Meta Platforms Inc (24 Hours)	0.81%
+Liberty Global PLC - A	0.8%
+Viacom Inc - A	0.77%
 	% Change
-Adobe Systems Inc (24 Hours)	-6.62%
-Netflix Inc (24 Hours)	-5.3%
-PayPal Holdings Inc (24 Hours)	-3.29%
-Apple Inc (24 Hours)	-2.59%
-Microsoft Corp (24 Hours)	-2.09%
+Adobe Systems Inc (24 Hours)	-3.45%
+PayPal Holdings Inc (24 Hours)	-3.04%
+Check Point Software Technologies Ltd	-2.98%
+DENTSPLY International Inc	-2.77%
+Gilead Sciences Inc (24 Hours)	-2.7%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
