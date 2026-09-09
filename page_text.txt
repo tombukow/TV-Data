@@ -23,50 +23,48 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29734.3
-L 29397.5
--55.4
--0.19%
-Tue 8 Sep 2026 1:02 - Wed 9 Sep 2026 2:56
-29750.0
-29700.0
-29650.0
-29600.0
-29550.0
-29500.0
-29450.0
-29400.0
-29350.0
-29506.9
-Mon 27
-Aug 2026
-Mon 17
-Mon 24
-Mon 31
-3:00
-6:00
-9:00
-12:00
-15:00
-18:00
-21:00
-Tue 8 Sep
-Wed 9 Sep
+H 30759.2
+L 16325.0
+9692.1
+49.12%
+Mon 1 Jul 2024 - Thu 10 Dec 2026
+32000.0
+30000.0
+28000.0
+26000.0
+24000.0
+22000.0
+20000.0
+18000.0
+16000.0
+14000.0
+29423.3
+1990
+1998
+2002
+2006
+2010
+2014
+2018
+2022
+2026
+2020
+2025
 Data is indicative
-2 Mins
+Daily
 
 Unlock full charts - 
 
 SELL
-29505.9
+29423.3
 BUY
-29507.9
-2
--1.7(-0.01%)
+29424.3
+1
+-84.8(-0.29%)
 
-High: 29521.6
+High: 29608.1
 
-Low: 29472.0
+Low: 29306.6
 
 Long
 
@@ -91,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	8.77%
-QUALCOMM Inc (24 Hours)	4.07%
+Meta Platforms Inc (24 Hours)	6.48%
+Micron Technology Inc (24 Hours)	2.37%
 DISH Network Corp	1.94%
-Liberty Global PLC - A	0.85%
-Viacom Inc - A	0.77%
+Check Point Software Technologies Ltd	1.64%
+QUALCOMM Inc (24 Hours)	1.15%
 	% Change
-Adobe Systems Inc (24 Hours)	-3.8%
-DENTSPLY International Inc	-3.43%
-Illumina Inc	-3.28%
-PayPal Holdings Inc (24 Hours)	-3.17%
-Check Point Software Technologies Ltd	-3.03%
+DENTSPLY International Inc	-2.78%
+Alphabet Inc - A (24 Hours)	-2.41%
+Illumina Inc	-2.28%
+Alphabet Inc - C (24 Hours)	-2.23%
+Mattel Inc	-2.09%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
