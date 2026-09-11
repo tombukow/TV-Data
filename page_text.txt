@@ -23,46 +23,46 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29658.0
-L 29012.6
--529.8
--1.79%
-Tue 8 Sep 2026 14:30 - Fri 11 Sep 2026 7:15
-29700.0
-29600.0
-29500.0
+H 29470.9
+L 29371.2
+-28.0
+-0.10%
+Fri 11 Sep 2026 16:33 - Fri 11 Sep 2026 19:07
+29480.0
+29460.0
+29440.0
+29420.0
 29400.0
-29300.0
-29200.0
-29100.0
-29000.0
-28900.0
-29087.5
-2025
-Nov
-2026
-Mar
-May
-Jul
-Wed 9
-Thu 10
-Fri 11
+29380.0
+29360.0
+29440.2
+Mon 27
+Aug 2026
+Mon 17
+Mon 24
+Mon 31
 Sep 2026
+17:00
+17:30
+18:00
+18:30
+19:00
+Fri 11 Sep
 Data is indicative
-15 Mins
+1 Min
 
 Unlock full charts - 
 
 SELL
-29086.5
+29438.9
 BUY
-29088.5
-2
--26.3(-0.09%)
+29439.9
+1
+325.6(1.12%)
 
-High: 29143.3
+High: 29479.2
 
-Low: 29081.1
+Low: 29018.0
 
 Long
 
@@ -87,17 +87,16 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Apple Inc (24 Hours)	3.35%
-PayPal Holdings Inc (24 Hours)	2.05%
-DISH Network Corp	1.94%
-BioMarin Pharmaceutical Inc	1.71%
-Liberty Global PLC - A	1.05%
+QUALCOMM Inc (24 Hours)	4.47%
+Intel Corp (24 Hours)	3.01%
+Illumina Inc	2.74%
+Alphabet Inc - A (24 Hours)	2.35%
+Alphabet Inc - C (24 Hours)	2.07%
 	% Change
-Intel Corp (24 Hours)	-5.61%
-Micron Technology Inc (24 Hours)	-4.92%
-Adobe Systems Inc (24 Hours)	-4.39%
-Check Point Software Technologies Ltd	-3.37%
-DENTSPLY International Inc	-2.05%
+DENTSPLY International Inc	-1.29%
+Liberty Global PLC - A	-1.08%
+Gilead Sciences Inc (24 Hours)	-0.51%
+Starbucks Corp (24 Hours)	-0.26%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
