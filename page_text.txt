@@ -23,46 +23,44 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29475.4
-L 29363.8
-40.0
-0.14%
-Fri 11 Sep 2026 16:14 - Fri 11 Sep 2026 20:33
-29480.0
-29460.0
-29440.0
-29420.0
+H 29478.2
+L 29187.6
+103.5
+0.35%
+Fri 11 Sep 2026 9:35 - Fri 11 Sep 2026 22:25
+29500.0
+29450.0
 29400.0
-29380.0
-29360.0
-29407.5
-Mon 27
-Aug 2026
-Mon 17
-Mon 24
-Mon 31
-Sep 2026
-16:30
-17:00
-17:30
+29350.0
+29300.0
+29250.0
+29200.0
+29150.0
+29385.0
+2025
+Nov
+2026
+Mar
+May
+Jul
+12:00
+14:00
+16:00
 18:00
-18:30
-19:00
-19:30
 20:00
-20:30
+22:00
 Fri 11 Sep
 Data is indicative
-1 Min
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29406.9
+29383.4
 BUY
-29407.9
+29384.4
 1
-293.6(1.01%)
+270.1(0.93%)
 
 High: 29479.2
 
@@ -91,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-QUALCOMM Inc (24 Hours)	3.71%
-Illumina Inc	3.19%
-TripAdvisor Inc	2.95%
-Intel Corp (24 Hours)	2.84%
-Amazon.com Inc (24 Hours)	2.1%
+TripAdvisor Inc	3.4%
+Illumina Inc	2.86%
+QUALCOMM Inc (24 Hours)	2.86%
+Intel Corp (24 Hours)	2.54%
+Amazon.com Inc (24 Hours)	2.03%
 	% Change
-Liberty Global PLC - A	-2.59%
-DENTSPLY International Inc	-1.38%
-Gilead Sciences Inc (24 Hours)	-0.64%
-Starbucks Corp (24 Hours)	-0.53%
-Micron Technology Inc (24 Hours)	-0.29%
+Liberty Global PLC - A	-2.02%
+Gilead Sciences Inc (24 Hours)	-0.77%
+DENTSPLY International Inc	-0.62%
+Starbucks Corp (24 Hours)	-0.48%
+BioMarin Pharmaceutical Inc	-0.23%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
