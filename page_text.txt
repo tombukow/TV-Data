@@ -23,60 +23,58 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30243.9
+H 29284.8
 L 28796.2
--531.5
--1.79%
-Wed 5 Aug 2026 4:00 - Fri 18 Sep 2026 16:00
-30400.0
-30200.0
-30000.0
-29800.0
-29600.0
-29400.0
+146.3
+0.50%
+Mon 14 Sep 2026 6:55 - Mon 14 Sep 2026 23:05
+29300.0
 29200.0
+29100.0
 29000.0
+28900.0
 28800.0
-28600.0
-29207.7
+29136.5
 2025
 Nov
 2026
 Mar
 May
 Jul
-Mon 10
-Mon 17
-Mon 24
-Mon 7
-Mon 14
-Aug 2026
-Sep 2026
+8:00
+10:00
+12:00
+14:00
+16:00
+18:00
+20:00
+22:00
+Mon 14 Sep
 Data is indicative
-1 Hour
+5 Mins
 
 Unlock full charts - 
 
 SELL
-29207.3
+29137.0
 BUY
-29208.3
-1
--157.6(-0.54%)
+29139.0
+2
+9.1(0.03%)
 
-High: 29378.0
+High: 29144.6
 
-Low: 28795.2
+Low: 29125.0
 
 Long
 
 Short
 
-58%
+59%
 
-42%
+41%
 
-58% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -91,17 +89,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Check Point Software Technologies Ltd	5.77%
-Adobe Systems Inc (24 Hours)	4.54%
-Netflix Inc (24 Hours)	3.9%
-Alphabet Inc - A (24 Hours)	2.97%
-Alphabet Inc - C (24 Hours)	2.82%
+Check Point Software Technologies Ltd	5.21%
+Adobe Systems Inc (24 Hours)	5.04%
+Netflix Inc (24 Hours)	3.77%
+Alphabet Inc - A (24 Hours)	2.92%
+Alphabet Inc - C (24 Hours)	2.78%
 	% Change
-Micron Technology Inc (24 Hours)	-4.88%
-Intel Corp (24 Hours)	-4.84%
-Amazon.com Inc (24 Hours)	-1.22%
-QUALCOMM Inc (24 Hours)	-0.74%
-DENTSPLY International Inc	-0.43%
+Intel Corp (24 Hours)	-5.43%
+Micron Technology Inc (24 Hours)	-5.21%
+Amazon.com Inc (24 Hours)	-1.24%
+DENTSPLY International Inc	-0.76%
+QUALCOMM Inc (24 Hours)	-0.75%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
