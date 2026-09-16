@@ -23,58 +23,57 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29230.0
-L 29106.3
-13.6
-0.05%
-Wed 16 Sep 2026 18:25 - Wed 16 Sep 2026 19:24
-29240.0
-29220.0
+H 30034.6
+L 28753.0
+-1268.7
+-4.22%
+Mon 17 Aug 2026 20:00 - Sat 19 Sep 2026 20:00
+30200.0
+30000.0
+29800.0
+29600.0
+29400.0
 29200.0
-29180.0
-29160.0
-29140.0
-29120.0
-29100.0
-29154.2
-Aug 2026
-Mon 17
+29000.0
+28800.0
+28600.0
+28763.4
+2025
+Nov
+2026
+Mar
+May
+Jul
 Mon 24
-Mon 31
-Sep 2026
+Mon 7
 Mon 14
-18:30
-18:40
-18:50
-19:00
-19:10
-19:20
-Wed 16 Sep
+Aug 2026
+Sep 2026
 Data is indicative
-1 Min
+4 Hours
 
 Unlock full charts - 
 
 SELL
-29153.3
+28763.2
 BUY
-29154.3
+28764.2
 1
-214.0(0.74%)
+-176.1(-0.61%)
 
 High: 29239.8
 
-Low: 28915.4
+Low: 28752.5
 
 Long
 
 Short
 
-58%
+59%
 
-42%
+41%
 
-58% of client accounts are long on this market 
+59% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -89,17 +88,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	5.09%
-DENTSPLY International Inc	3.92%
-Illumina Inc	3.36%
+DENTSPLY International Inc	2.9%
+Intel Corp (24 Hours)	2.79%
+Illumina Inc	2.15%
 DISH Network Corp	1.94%
-Gilead Sciences Inc (24 Hours)	1.46%
+Viacom Inc - A	0.77%
 	% Change
-Adobe Systems Inc (24 Hours)	-1.88%
-PayPal Holdings Inc (24 Hours)	-1.38%
-Mattel Inc	-1.15%
-Liberty Global PLC - A	-1%
-Netflix Inc (24 Hours)	-0.81%
+Adobe Systems Inc (24 Hours)	-3.07%
+PayPal Holdings Inc (24 Hours)	-2.58%
+TripAdvisor Inc	-1.94%
+QUALCOMM Inc (24 Hours)	-1.92%
+Microsoft Corp (24 Hours)	-1.79%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
