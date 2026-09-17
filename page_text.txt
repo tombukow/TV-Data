@@ -23,44 +23,47 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29458.4
-L 28750.3
-318.0
-1.09%
-Tue 15 Sep 2026 15:00 - Fri 18 Sep 2026 2:00
-29500.0
+H 29461.6
+L 29334.4
+91.8
+0.31%
+Thu 17 Sep 2026 14:54 - Thu 17 Sep 2026 21:22
+29480.0
+29460.0
+29440.0
+29420.0
 29400.0
-29300.0
-29200.0
-29100.0
-29000.0
-28900.0
-28800.0
-28700.0
-29427.6
-2025
-Nov
-2026
-Mar
-May
-Jul
-Wed 16
-Thu 17
-Fri 18
+29380.0
+29360.0
+29340.0
+29320.0
+29456.0
+Aug 2026
+Mon 17
+Mon 24
+Mon 31
 Sep 2026
+Mon 14
+16:00
+17:00
+18:00
+19:00
+20:00
+21:00
+Thu 17 Sep
 Data is indicative
-1 Hour
+1 Min
 
 Unlock full charts - 
 
 SELL
-29427.3
+29455.7
 BUY
-29428.3
+29456.7
 1
-483.3(1.67%)
+511.7(1.77%)
 
-High: 29458.9
+High: 29462.1
 
 Low: 28920.7
 
@@ -68,11 +71,11 @@ Long
 
 Short
 
-58%
+57%
 
-42%
+43%
 
-58% of client accounts are long on this market 
+57% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	9.22%
-Illumina Inc	6.87%
-Micron Technology Inc (24 Hours)	5.42%
-QUALCOMM Inc (24 Hours)	2.49%
-Amazon.com Inc (24 Hours)	2.18%
+Intel Corp (24 Hours)	8.36%
+Illumina Inc	6.4%
+Micron Technology Inc (24 Hours)	5.58%
+QUALCOMM Inc (24 Hours)	3.18%
+Amazon.com Inc (24 Hours)	2.19%
 	% Change
-DENTSPLY International Inc	-5.87%
-Netflix Inc (24 Hours)	-0.99%
-Check Point Software Technologies Ltd	-0.97%
-TripAdvisor Inc	-0.95%
-Liberty Global PLC - A	-0.82%
+DENTSPLY International Inc	-6.07%
+Netflix Inc (24 Hours)	-1.22%
+TripAdvisor Inc	-1.17%
+Check Point Software Technologies Ltd	-1.14%
+Liberty Global PLC - A	-0.91%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
