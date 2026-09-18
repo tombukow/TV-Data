@@ -23,50 +23,49 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29398.1
-L 29380.9
-14.0
-0.05%
-Thu 17 Sep 2026 23:55:10 - Thu 17 Sep 2026 23:59:30
+H 29676.4
+L 29063.4
+328.1
+1.13%
+Thu 17 Sep 2026 4:40 - Fri 18 Sep 2026 23:50
+29700.0
+29600.0
+29500.0
 29400.0
-29395.0
-29390.0
-29385.0
-29380.0
-29396.4
-Tue 15 Sep
-9:00
-18:00
-Wed 16 Sep
+29300.0
+29200.0
+29100.0
+29000.0
+29473.1
+2025
+Nov
+2026
+Mar
+May
+Jul
 12:00
-21:00
+18:00
+6:00
+12:00
+18:00
 Thu 17 Sep
-15:00
-23:55:30
-23:56:00
-23:56:30
-23:57:00
-23:57:30
-23:58:00
-23:58:30
-23:59:00
-23:59:30
-Thu 17 Sep
+Fri 18 Sep
+Sat 19 Sep
 Data is indicative
-10 Secs
+10 Mins
 
 Unlock full charts - 
 
 SELL
-29395.6
+29472.3
 BUY
-29397.6
-2
--51.6(-0.18%)
+29473.3
+1
+24.6(0.08%)
 
-High: 29450.9
+High: 29677.4
 
-Low: 29379.9
+Low: 29355.5
 
 Long
 
@@ -91,17 +90,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Intel Corp (24 Hours)	8.16%
-Illumina Inc	7.1%
-Micron Technology Inc (24 Hours)	5.84%
-QUALCOMM Inc (24 Hours)	2.2%
-Gilead Sciences Inc (24 Hours)	2.15%
+DENTSPLY International Inc	2.35%
+Micron Technology Inc (24 Hours)	2.02%
+DISH Network Corp	1.94%
+TripAdvisor Inc	1.18%
+Viacom Inc - A	0.77%
 	% Change
-DENTSPLY International Inc	-7.54%
-Netflix Inc (24 Hours)	-1.32%
-Liberty Global PLC - A	-1.06%
-Check Point Software Technologies Ltd	-1.06%
-TripAdvisor Inc	-0.78%
+QUALCOMM Inc (24 Hours)	-5.62%
+Netflix Inc (24 Hours)	-4.67%
+Illumina Inc	-2.84%
+Liberty Global PLC - A	-2.09%
+Meta Platforms Inc (24 Hours)	-1.73%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
