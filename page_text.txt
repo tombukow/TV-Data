@@ -23,37 +23,34 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 29694.4
-L 29374.0
-41.0
-0.14%
-Fri 18 Sep 2026 7:45 - Mon 21 Sep 2026 0:50
-29750.0
-29700.0
-29650.0
-29600.0
-29550.0
-29500.0
-29450.0
-29400.0
-29350.0
+H 30759.2
+L 10432.6
+17439.0
+142.76%
+Sep 2022 - Mar 2027
+35000.0
+30000.0
+25000.0
+20000.0
+15000.0
+10000.0
 29654.9
-2025
-Nov
+1990
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+2023
+2024
 2026
-Mar
-May
-Jul
-10:00
-12:00
-14:00
-16:00
-18:00
-20:00
-Fri 18 Sep
-Mon 21 Sep
+2027
+2020
+2025
 Data is indicative
-5 Mins
+Monthly
 
 Unlock full charts - 
 
@@ -71,11 +68,11 @@ Long
 
 Short
 
-57%
+56%
 
-43%
+44%
 
-57% of client accounts are long on this market 
+56% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -95,7 +92,7 @@ DISH Network Corp	1.94%
 DENTSPLY International Inc	1.76%
 Amazon.com Inc (24 Hours)	1.23%
 Alphabet Inc - A (24 Hours)	0.8%
-	% 变化率
+	% Change
 QUALCOMM Inc (24 Hours)	-5.61%
 Netflix Inc (24 Hours)	-4.33%
 Liberty Global PLC - A	-4.08%
