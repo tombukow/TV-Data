@@ -23,56 +23,60 @@ About us
 Indices market data
 US Tech 100
 .NDX
-H 30759.2
-L 10432.6
-17439.0
-142.76%
-Sep 2022 - Mar 2027
-35000.0
-30000.0
-25000.0
-20000.0
-15000.0
-10000.0
-29654.9
-1990
-1996
-2000
-2004
-2008
-2012
-2016
-2020
-2023
-2024
-2026
-2027
-2020
-2025
+H 30365.1
+L 30339.1
+-1.8
+-0.01%
+Tue 29 Sep 2026 20:13:00 - Tue 29 Sep 2026 20:34:20
+30365.0
+30360.0
+30355.0
+30350.0
+30345.0
+30340.0
+30335.0
+30352.5
+Sun 27 Sep
+4:00
+10:00
+16:00
+22:00
+Tue 29 Sep
+10:00
+16:00
+20:15
+20:18
+20:21
+20:24
+20:27
+20:30
+20:33
+Tue 29 Sep
 Data is indicative
-Monthly
+10 Secs
 
 Unlock full charts - 
 
 SELL
-29651.1
+30351.9
 BUY
-29656.1
-37.3(0.13%)
+30352.9
+1
+69.2(0.23%)
 
-High: 29695.4
+High: 30443.8
 
-Low: 29613.0
+Low: 30087.9
 
 Long
 
 Short
 
-56%
+51%
 
-44%
+49%
 
-56% of client accounts are long on this market 
+51% of client accounts are long on this market 
 
 FAST
 SECURE
@@ -87,17 +91,17 @@ MONTHLY
 Top US Tech 100 risers
 Top US Tech 100 fallers
 	% Change
-Micron Technology Inc (24 Hours)	3.75%
+Meta Platforms Inc (24 Hours)	2.4%
 DISH Network Corp	1.94%
-DENTSPLY International Inc	1.76%
-Amazon.com Inc (24 Hours)	1.23%
-Alphabet Inc - A (24 Hours)	0.8%
+Netflix Inc (24 Hours)	1.55%
+Micron Technology Inc (24 Hours)	1.52%
+Illumina Inc	0.81%
 	% Change
-QUALCOMM Inc (24 Hours)	-5.61%
-Netflix Inc (24 Hours)	-4.33%
-Liberty Global PLC - A	-4.08%
-Check Point Software Technologies Ltd	-2.58%
-Illumina Inc	-2.27%
+DENTSPLY International Inc	-3.29%
+Apple Inc (24 Hours)	-2.35%
+Check Point Software Technologies Ltd	-1.92%
+Liberty Global PLC - A	-1.54%
+QUALCOMM Inc (24 Hours)	-1.46%
 Discover opportunity in-platform
 
 Open a free, no-risk demo account to stay on top of index movement and important events.
